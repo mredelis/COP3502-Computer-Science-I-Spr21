@@ -1,0 +1,13337 @@
+13336
+1 provided 1
+2 prov
+1 by 1
+2 b
+1 repealed 1
+2 provide
+1 text 1
+2 tex
+1 is 1
+2 i
+1 not 1
+2 prov
+1 noted 1
+2 i
+1 in 1
+2 n
+1 this 1
+2 not
+1 spelling 1
+2 not
+1 errors 1
+2 rep
+1 have 1
+2 not
+1 been 1
+2 pr
+1 corrected 1
+2 b
+1 in 1
+2 in
+1 this 1
+2 sp
+1 for 1
+2 t
+1 an 1
+2 thi
+1 annotated 1
+2 i
+1 version 1
+2 s
+1 of 1
+2 n
+1 the 1
+2 not
+1 visit 1
+2 the
+1 we 1
+2 in
+1 the 1
+2 annot
+1 people 1
+2 peo
+1 of 1
+2 the
+1 the 1
+2 correcte
+1 united 1
+2 th
+1 in 1
+2 errors
+1 order 1
+2 b
+1 to 1
+2 text
+1 form 1
+2 the
+1 a 1
+2 by
+1 more 1
+2 b
+1 perfect 1
+2 corrected
+1 establish 1
+2 is
+1 insure 1
+2 i
+1 domestic 1
+2 er
+1 provide 1
+2 not
+1 for 1
+2 p
+1 the 1
+2 mo
+1 common 1
+2 no
+1 promote 1
+2 n
+1 the 1
+2 is
+1 general 1
+2 err
+1 and 1
+2 insur
+1 secure 1
+2 have
+1 the 1
+2 t
+1 blessings 1
+2 sp
+1 of 1
+2 repeale
+1 liberty 1
+2 th
+1 to 1
+2 of
+1 ourselves 1
+2 com
+1 and 1
+2 an
+1 our 1
+2 f
+1 do 1
+2 erro
+1 ordain 1
+2 provide
+1 and 1
+2 correcte
+1 establish 1
+2 of
+1 this 1
+2 fo
+1 constitution 1
+2 w
+1 for 1
+2 f
+1 the 1
+2 text
+1 united 1
+2 f
+1 states 1
+2 secur
+1 of 1
+2 repeal
+1 article 1
+2 t
+1 section 1
+2 articl
+1 all 1
+2 an
+1 legislative 1
+2 t
+1 powers 1
+2 of
+1 herein 1
+2 i
+1 granted 1
+2 ar
+1 shall 1
+2 our
+1 be 1
+2 of
+1 vested 1
+2 n
+1 in 1
+2 to
+1 a 1
+2 anno
+1 congress 1
+2 bee
+1 of 1
+2 vis
+1 the 1
+2 secur
+1 united 1
+2 of
+1 which 1
+2 in
+1 shall 1
+2 the
+1 consist 1
+2 of
+1 of 1
+2 be
+1 a 1
+2 here
+1 senate 1
+2 u
+1 and 1
+2 secure
+1 house 1
+2 order
+1 of 1
+2 a
+1 section 1
+2 of
+1 the 1
+2 by
+1 house 1
+2 thi
+1 of 1
+2 tex
+1 representatives 1
+2 i
+1 shall 1
+2 o
+1 be 1
+2 o
+1 composed 1
+2 text
+1 of 1
+2 mo
+1 members 1
+2 secure
+1 chosen 1
+2 i
+1 every 1
+2 insur
+1 second 1
+2 n
+1 year 1
+2 ev
+1 by 1
+2 a
+1 the 1
+2 provided
+1 people 1
+2 senat
+1 of 1
+2 here
+1 the 1
+2 hou
+1 several 1
+2 o
+1 and 1
+2 and
+1 the 1
+2 f
+1 electors 1
+2 d
+1 in 1
+2 a
+1 each 1
+2 promote
+1 state 1
+2 com
+1 shall 1
+2 gener
+1 have 1
+2 we
+1 the 1
+2 com
+1 qualifications 1
+2 com
+1 requisite 1
+2 ho
+1 for 1
+2 a
+1 electors 1
+2 ele
+1 of 1
+2 hous
+1 the 1
+2 ye
+1 most 1
+2 chose
+1 numerous 1
+2 o
+1 branch 1
+2 co
+1 of 1
+2 and
+1 the 1
+2 in
+1 state 1
+2 orde
+1 no 1
+2 o
+1 person 1
+2 an
+1 shall 1
+2 pow
+1 be 1
+2 n
+1 a 1
+2 an
+1 representative 1
+2 ele
+1 who 1
+2 in
+1 shall 1
+2 pr
+1 not 1
+2 this
+1 have 1
+2 n
+1 attained 1
+2 tex
+1 to 1
+2 of
+1 the 1
+2 the
+1 age 1
+2 th
+1 of 1
+2 th
+1 twenty 1
+2 domes
+1 five 1
+2 me
+1 and 1
+2 o
+1 been 1
+2 estab
+1 seven 1
+2 i
+1 years 1
+2 general
+1 a 1
+2 sh
+1 citizen 1
+2 been
+1 of 1
+2 whic
+1 the 1
+2 t
+1 united 1
+2 hav
+1 and 1
+2 year
+1 who 1
+2 senate
+1 shall 1
+2 co
+1 when 1
+2 h
+1 be 1
+2 a
+1 an 1
+2 a
+1 inhabitant 1
+2 ge
+1 of 1
+2 of
+1 that 1
+2 herein
+1 state 1
+2 w
+1 in 1
+2 attaine
+1 which 1
+2 numerous
+1 he 1
+2 ordain
+1 shall 1
+2 compose
+1 be 1
+2 f
+1 representatives 1
+2 do
+1 and 1
+2 d
+1 direct 1
+2 shal
+1 taxes 1
+2 art
+1 shall 1
+2 have
+1 be 1
+2 o
+1 apportioned 1
+2 the
+1 among 1
+2 th
+1 the 1
+2 granted
+1 several 1
+2 numerous
+1 states 1
+2 yea
+1 which 1
+2 peo
+1 may 1
+2 in
+1 be 1
+2 wh
+1 included 1
+2 may
+1 within 1
+2 sta
+1 this 1
+2 elect
+1 according 1
+2 i
+1 to 1
+2 t
+1 their 1
+2 second
+1 respective 1
+2 u
+1 which 1
+2 be
+1 shall 1
+2 co
+1 be 1
+2 ver
+1 determined 1
+2 sev
+1 by 1
+2 of
+1 adding 1
+2 the
+1 to 1
+2 a
+1 the 1
+2 peop
+1 whole 1
+2 be
+1 number 1
+2 representat
+1 of 1
+2 th
+1 free 1
+2 blessings
+1 including 1
+2 establish
+1 those 1
+2 to
+1 bound 1
+2 hav
+1 to 1
+2 yea
+1 service 1
+2 me
+1 for 1
+2 o
+1 a 1
+2 visi
+1 term 1
+2 correc
+1 of 1
+2 o
+1 and 1
+2 blessi
+1 excluding 1
+2 add
+1 indians 1
+2 gran
+1 not 1
+2 he
+1 three 1
+2 inhabitant
+1 fifths 1
+2 dom
+1 of 1
+2 w
+1 all 1
+2 th
+1 other 1
+2 ordain
+1 the 1
+2 of
+1 actual 1
+2 shall
+1 enumeration 1
+2 be
+1 shall 1
+2 c
+1 be 1
+2 h
+1 made 1
+2 of
+1 within 1
+2 t
+1 three 1
+2 house
+1 years 1
+2 se
+1 after 1
+2 p
+1 the 1
+2 esta
+1 first 1
+2 th
+1 meeting 1
+2 and
+1 of 1
+2 a
+1 the 1
+2 of
+1 congress 1
+2 of
+1 of 1
+2 bee
+1 the 1
+2 o
+1 united 1
+2 most
+1 and 1
+2 of
+1 within 1
+2 or
+1 every 1
+2 the
+1 subsequent 1
+2 for
+1 term 1
+2 eve
+1 of 1
+2 o
+1 ten 1
+2 es
+1 in 1
+2 th
+1 such 1
+2 b
+1 manner 1
+2 t
+1 as 1
+2 shal
+1 they 1
+2 be
+1 shall 1
+2 domesti
+1 by 1
+2 boun
+1 law 1
+2 promo
+1 the 1
+2 s
+1 number 1
+2 electo
+1 of 1
+2 the
+1 representatives 1
+2 elector
+1 shall 1
+2 b
+1 not 1
+2 service
+1 exceed 1
+2 p
+1 one 1
+2 i
+1 for 1
+2 t
+1 every 1
+2 mos
+1 thirty 1
+2 they
+1 but 1
+2 b
+1 each 1
+2 t
+1 state 1
+2 lib
+1 shall 1
+2 b
+1 have 1
+2 an
+1 at 1
+2 shal
+1 least 1
+2 t
+1 one 1
+2 m
+1 and 1
+2 shal
+1 until 1
+2 serv
+1 such 1
+2 of
+1 enumeration 1
+2 b
+1 shall 1
+2 c
+1 be 1
+2 ev
+1 the 1
+2 th
+1 state 1
+2 othe
+1 of 1
+2 annotated
+1 new 1
+2 of
+1 hampshire 1
+2 cor
+1 shall 1
+2 o
+1 be 1
+2 be
+1 entitled 1
+2 be
+1 to 1
+2 th
+1 choose 1
+2 the
+1 massachusetts 1
+2 an
+1 rhode 1
+2 and
+1 island 1
+2 b
+1 and 1
+2 a
+1 providence 1
+2 adding
+1 plantations 1
+2 of
+1 connecticut 1
+2 representati
+1 new 1
+2 an
+1 york 1
+2 secur
+1 new 1
+2 a
+1 jersey 1
+2 o
+1 pennsylvania 1
+2 have
+1 delaware 1
+2 numb
+1 maryland 1
+2 b
+1 virginia 1
+2 providenc
+1 north 1
+2 con
+1 carolina 1
+2 o
+1 south 1
+2 sha
+1 carolina 1
+2 virg
+1 five 1
+2 s
+1 and 1
+2 t
+1 georgia 1
+2 exclud
+1 when 1
+2 tha
+1 vacancies 1
+2 shal
+1 happen 1
+2 g
+1 in 1
+2 en
+1 the 1
+2 no
+1 representation 1
+2 t
+1 from 1
+2 n
+1 any 1
+2 un
+1 the 1
+2 whe
+1 executive 1
+2 ex
+1 authority 1
+2 s
+1 thereof 1
+2 v
+1 shall 1
+2 s
+1 issue 1
+2 wh
+1 writs 1
+2 seve
+1 of 1
+2 ho
+1 election 1
+2 t
+1 to 1
+2 e
+1 fill 1
+2 co
+1 such 1
+2 a
+1 the 1
+2 execu
+1 house 1
+2 t
+1 of 1
+2 be
+1 representatives 1
+2 commo
+1 shall 1
+2 exc
+1 choose 1
+2 unt
+1 their 1
+2 new
+1 speaker 1
+2 te
+1 and 1
+2 t
+1 other 1
+2 subs
+1 and 1
+2 a
+1 shall 1
+2 according
+1 have 1
+2 t
+1 the 1
+2 her
+1 sole 1
+2 state
+1 power 1
+2 speaker
+1 of 1
+2 happe
+1 section 1
+2 i
+1 the 1
+2 n
+1 senate 1
+2 shall
+1 of 1
+2 excludin
+1 the 1
+2 this
+1 united 1
+2 an
+1 states 1
+2 made
+1 shall 1
+2 plantat
+1 be 1
+2 each
+1 composed 1
+2 in
+1 of 1
+2 consi
+1 two 1
+2 t
+1 senators 1
+2 enumeration
+1 from 1
+2 represe
+1 each 1
+2 o
+1 chosen 1
+2 fo
+1 by 1
+2 hampsh
+1 the 1
+2 f
+1 legislature 1
+2 te
+1 for 1
+2 the
+1 six 1
+2 state
+1 and 1
+2 th
+1 each 1
+2 the
+1 senator 1
+2 mo
+1 shall 1
+2 o
+1 have 1
+2 enume
+1 one 1
+2 b
+1 immediately 1
+2 unite
+1 after 1
+2 for
+1 they 1
+2 accor
+1 shall 1
+2 fo
+1 be 1
+2 do
+1 assembled 1
+2 thi
+1 in 1
+2 insur
+1 consequence 1
+2 domestic
+1 of 1
+2 and
+1 the 1
+2 fo
+1 first 1
+2 an
+1 they 1
+2 gener
+1 shall 1
+2 o
+1 be 1
+2 a
+1 divided 1
+2 to
+1 as 1
+2 ma
+1 equally 1
+2 per
+1 as 1
+2 whic
+1 may 1
+2 assembl
+1 be 1
+2 d
+1 into 1
+2 our
+1 three 1
+2 b
+1 the 1
+2 years
+1 seats 1
+2 such
+1 of 1
+2 h
+1 the 1
+2 t
+1 senators 1
+2 thir
+1 of 1
+2 le
+1 the 1
+2 to
+1 first 1
+2 b
+1 class 1
+2 which
+1 shall 1
+2 fo
+1 be 1
+2 sh
+1 vacated 1
+2 o
+1 at 1
+2 d
+1 the 1
+2 domest
+1 expiration 1
+2 t
+1 of 1
+2 b
+1 the 1
+2 se
+1 second 1
+2 i
+1 of 1
+2 senate
+1 the 1
+2 of
+1 second 1
+2 among
+1 class 1
+2 i
+1 at 1
+2 shall
+1 the 1
+2 s
+1 expiration 1
+2 con
+1 of 1
+2 i
+1 the 1
+2 a
+1 fourth 1
+2 f
+1 and 1
+2 have
+1 of 1
+2 an
+1 the 1
+2 hampsh
+1 third 1
+2 state
+1 class 1
+2 t
+1 at 1
+2 shal
+1 the 1
+2 o
+1 expiration 1
+2 t
+1 of 1
+2 state
+1 the 1
+2 the
+1 sixth 1
+2 be
+1 so 1
+2 si
+1 that 1
+2 fo
+1 one 1
+2 o
+1 third 1
+2 be
+1 may 1
+2 cho
+1 be 1
+2 term
+1 chosen 1
+2 t
+1 every 1
+2 is
+1 second 1
+2 of
+1 and 1
+2 h
+1 if 1
+2 may
+1 vacancies 1
+2 th
+1 happen 1
+2 adding
+1 by 1
+2 be
+1 or 1
+2 i
+1 during 1
+2 th
+1 the 1
+2 o
+1 recess 1
+2 happen
+1 of 1
+2 accordi
+1 the 1
+2 duri
+1 legislature 1
+2 exc
+1 of 1
+2 be
+1 any 1
+2 the
+1 the 1
+2 sec
+1 executive 1
+2 t
+1 thereof 1
+2 power
+1 may 1
+2 of
+1 make 1
+2 yea
+1 temporary 1
+2 according
+1 appointments 1
+2 state
+1 until 1
+2 shal
+1 the 1
+2 man
+1 next 1
+2 fo
+1 meeting 1
+2 the
+1 of 1
+2 e
+1 the 1
+2 cl
+1 which 1
+2 noted
+1 shall 1
+2 not
+1 then 1
+2 t
+1 fill 1
+2 s
+1 such 1
+2 and
+1 no 1
+2 seco
+1 person 1
+2 i
+1 shall 1
+2 of
+1 be 1
+2 a
+1 a 1
+2 shall
+1 senator 1
+2 sh
+1 who 1
+2 but
+1 shall 1
+2 of
+1 not 1
+2 o
+1 have 1
+2 shall
+1 attained 1
+2 mad
+1 to 1
+2 e
+1 the 1
+2 the
+1 age 1
+2 s
+1 of 1
+2 appoi
+1 thirty 1
+2 that
+1 and 1
+2 th
+1 been 1
+2 error
+1 nine 1
+2 a
+1 years 1
+2 t
+1 a 1
+2 a
+1 citizen 1
+2 com
+1 of 1
+2 a
+1 the 1
+2 writs
+1 united 1
+2 citize
+1 and 1
+2 the
+1 who 1
+2 e
+1 shall 1
+2 conn
+1 when 1
+2 wh
+1 be 1
+2 c
+1 an 1
+2 att
+1 inhabitant 1
+2 o
+1 of 1
+2 t
+1 that 1
+2 sta
+1 state 1
+2 w
+1 for 1
+2 d
+1 which 1
+2 hou
+1 he 1
+2 b
+1 shall 1
+2 ha
+1 be 1
+2 h
+1 the 1
+2 bee
+1 vice 1
+2 th
+1 president 1
+2 te
+1 of 1
+2 spell
+1 the 1
+2 shal
+1 united 1
+2 o
+1 states 1
+2 estab
+1 shall 1
+2 t
+1 be 1
+2 whe
+1 president 1
+2 t
+1 of 1
+2 sha
+1 the 1
+2 any
+1 but 1
+2 of
+1 shall 1
+2 i
+1 have 1
+2 electors
+1 no 1
+2 f
+1 unless 1
+2 i
+1 they 1
+2 f
+1 be 1
+2 b
+1 equally 1
+2 f
+1 the 1
+2 t
+1 senate 1
+2 twe
+1 shall 1
+2 be
+1 choose 1
+2 the
+1 their 1
+2 may
+1 other 1
+2 shall
+1 and 1
+2 an
+1 also 1
+2 o
+1 a 1
+2 legis
+1 president 1
+2 whole
+1 pro 1
+2 form
+1 in 1
+2 un
+1 the 1
+2 pr
+1 absence 1
+2 t
+1 of 1
+2 and
+1 the 1
+2 third
+1 vice 1
+2 by
+1 or 1
+2 be
+1 when 1
+2 an
+1 he 1
+2 of
+1 shall 1
+2 the
+1 exercise 1
+2 inhabita
+1 the 1
+2 massachusett
+1 office 1
+2 the
+1 of 1
+2 a
+1 president 1
+2 co
+1 of 1
+2 to
+1 the 1
+2 electo
+1 united 1
+2 i
+1 the 1
+2 an
+1 senate 1
+2 atta
+1 shall 1
+2 n
+1 have 1
+2 sec
+1 the 1
+2 to
+1 sole 1
+2 seat
+1 power 1
+2 g
+1 to 1
+2 ins
+1 try 1
+2 a
+1 all 1
+2 t
+1 when 1
+2 each
+1 sitting 1
+2 made
+1 for 1
+2 sectio
+1 that 1
+2 islan
+1 they 1
+2 of
+1 shall 1
+2 enu
+1 be 1
+2 of
+1 on 1
+2 have
+1 oath 1
+2 th
+1 or 1
+2 th
+1 when 1
+2 bu
+1 the 1
+2 or
+1 president 1
+2 w
+1 of 1
+2 of
+1 the 1
+2 adding
+1 united 1
+2 stat
+1 states 1
+2 br
+1 is 1
+2 un
+1 the 1
+2 ha
+1 chief 1
+2 thr
+1 justice 1
+2 o
+1 shall 1
+2 t
+1 and 1
+2 requisit
+1 no 1
+2 i
+1 person 1
+2 after
+1 shall 1
+2 law
+1 be 1
+2 c
+1 convicted 1
+2 sen
+1 without 1
+2 unit
+1 the 1
+2 th
+1 concurrence 1
+2 sec
+1 of 1
+2 one
+1 two 1
+2 vaca
+1 thirds 1
+2 t
+1 of 1
+2 po
+1 the 1
+2 ordain
+1 members 1
+2 s
+1 judgment 1
+2 errors
+1 in 1
+2 suc
+1 cases 1
+2 establish
+1 of 1
+2 h
+1 impeachment 1
+2 n
+1 shall 1
+2 sh
+1 not 1
+2 t
+1 extend 1
+2 senate
+1 further 1
+2 th
+1 than 1
+2 second
+1 to 1
+2 b
+1 removal 1
+2 ot
+1 from 1
+2 an
+1 and 1
+2 wh
+1 disqualification 1
+2 t
+1 to 1
+2 in
+1 hold 1
+2 at
+1 and 1
+2 l
+1 enjoy 1
+2 the
+1 any 1
+2 m
+1 office 1
+2 tha
+1 of 1
+2 equal
+1 trust 1
+2 n
+1 or 1
+2 a
+1 profit 1
+2 vac
+1 under 1
+2 h
+1 the 1
+2 th
+1 united 1
+2 th
+1 but 1
+2 o
+1 the 1
+2 if
+1 party 1
+2 f
+1 convicted 1
+2 gran
+1 shall 1
+2 m
+1 nevertheless 1
+2 t
+1 be 1
+2 seve
+1 liable 1
+2 in
+1 and 1
+2 repre
+1 subject 1
+2 blessing
+1 to 1
+2 and
+1 judgment 1
+2 th
+1 and 1
+2 of
+1 according 1
+2 h
+1 to 1
+2 thi
+1 section 1
+2 the
+1 the 1
+2 power
+1 places 1
+2 m
+1 and 1
+2 f
+1 manner 1
+2 be
+1 of 1
+2 m
+1 holding 1
+2 of
+1 elections 1
+2 in
+1 for 1
+2 respe
+1 senators 1
+2 in
+1 and 1
+2 o
+1 shall 1
+2 ter
+1 be 1
+2 b
+1 prescribed 1
+2 convicted
+1 in 1
+2 bl
+1 each 1
+2 not
+1 state 1
+2 no
+1 by 1
+2 elect
+1 the 1
+2 removal
+1 legislature 1
+2 a
+1 but 1
+2 a
+1 the 1
+2 legislat
+1 congress 1
+2 a
+1 may 1
+2 no
+1 at 1
+2 t
+1 any 1
+2 hav
+1 time 1
+2 u
+1 by 1
+2 time
+1 law 1
+2 th
+1 make 1
+2 legi
+1 or 1
+2 and
+1 alter 1
+2 of
+1 such 1
+2 shall
+1 except 1
+2 of
+1 as 1
+2 di
+1 to 1
+2 such
+1 the 1
+2 shal
+1 place 1
+2 alt
+1 of 1
+2 a
+1 choosing 1
+2 requ
+1 the 1
+2 ex
+1 congress 1
+2 sect
+1 shall 1
+2 the
+1 assemble 1
+2 t
+1 at 1
+2 o
+1 least 1
+2 law
+1 once 1
+2 the
+1 in 1
+2 o
+1 every 1
+2 tax
+1 and 1
+2 sh
+1 such 1
+2 un
+1 meeting 1
+2 whole
+1 shall 1
+2 alter
+1 be 1
+2 w
+1 on 1
+2 plantat
+1 the 1
+2 a
+1 first 1
+2 th
+1 monday 1
+2 be
+1 in 1
+2 e
+1 unless 1
+2 such
+1 they 1
+2 the
+1 shall 1
+2 enumer
+1 by 1
+2 e
+1 law 1
+2 y
+1 appoint 1
+2 shall
+1 a 1
+2 th
+1 different 1
+2 w
+1 section 1
+2 o
+1 each 1
+2 from
+1 house 1
+2 th
+1 shall 1
+2 sh
+1 be 1
+2 sha
+1 the 1
+2 pres
+1 judge 1
+2 comm
+1 of 1
+2 be
+1 the 1
+2 direct
+1 returns 1
+2 the
+1 and 1
+2 he
+1 qualifications 1
+2 n
+1 of 1
+2 w
+1 its 1
+2 a
+1 own 1
+2 sta
+1 and 1
+2 have
+1 a 1
+2 inc
+1 majority 1
+2 tha
+1 of 1
+2 alte
+1 each 1
+2 by
+1 shall 1
+2 in
+1 constitute 1
+2 not
+1 a 1
+2 a
+1 quorum 1
+2 ag
+1 to 1
+2 ot
+1 do 1
+2 vacate
+1 but 1
+2 convicted
+1 a 1
+2 senato
+1 smaller 1
+2 d
+1 number 1
+2 as
+1 may 1
+2 th
+1 adjourn 1
+2 pennsylva
+1 from 1
+2 ha
+1 day 1
+2 just
+1 to 1
+2 addin
+1 and 1
+2 b
+1 may 1
+2 o
+1 be 1
+2 th
+1 authorized 1
+2 ma
+1 to 1
+2 i
+1 compel 1
+2 the
+1 the 1
+2 of
+1 attendance 1
+2 th
+1 of 1
+2 the
+1 absent 1
+2 elec
+1 in 1
+2 b
+1 such 1
+2 be
+1 and 1
+2 t
+1 under 1
+2 o
+1 such 1
+2 co
+1 penalties 1
+2 m
+1 as 1
+2 sha
+1 each 1
+2 comm
+1 house 1
+2 plant
+1 may 1
+2 en
+1 each 1
+2 hap
+1 house 1
+2 and
+1 may 1
+2 an
+1 determine 1
+2 o
+1 the 1
+2 the
+1 rules 1
+2 a
+1 of 1
+2 and
+1 its 1
+2 e
+1 punish 1
+2 be
+1 its 1
+2 s
+1 members 1
+2 repr
+1 for 1
+2 qualification
+1 disorderly 1
+2 trust
+1 with 1
+2 shal
+1 the 1
+2 visit
+1 concurrence 1
+2 secti
+1 of 1
+2 meet
+1 expel 1
+2 be
+1 a 1
+2 an
+1 each 1
+2 accor
+1 house 1
+2 an
+1 shall 1
+2 whic
+1 keep 1
+2 r
+1 a 1
+2 of
+1 journal 1
+2 the
+1 of 1
+2 s
+1 its 1
+2 inhabit
+1 and 1
+2 fiv
+1 from 1
+2 l
+1 time 1
+2 t
+1 to 1
+2 meeti
+1 time 1
+2 t
+1 publish 1
+2 an
+1 the 1
+2 exe
+1 excepting 1
+2 may
+1 such 1
+2 f
+1 parts 1
+2 ch
+1 as 1
+2 state
+1 may 1
+2 b
+1 in 1
+2 to
+1 their 1
+2 s
+1 judgment 1
+2 th
+1 require 1
+2 be
+1 and 1
+2 a
+1 the 1
+2 cho
+1 yeas 1
+2 until
+1 and 1
+2 determin
+1 nays 1
+2 t
+1 of 1
+2 hav
+1 the 1
+2 o
+1 members 1
+2 m
+1 of 1
+2 the
+1 either 1
+2 b
+1 house 1
+2 f
+1 on 1
+2 th
+1 any 1
+2 st
+1 question 1
+2 s
+1 at 1
+2 sha
+1 the 1
+2 represen
+1 desire 1
+2 j
+1 of 1
+2 at
+1 one 1
+2 an
+1 fifth 1
+2 a
+1 of 1
+2 abs
+1 those 1
+2 the
+1 be 1
+2 t
+1 entered 1
+2 pro
+1 on 1
+2 m
+1 the 1
+2 th
+1 neither 1
+2 whe
+1 during 1
+2 c
+1 the 1
+2 the
+1 session 1
+2 annotate
+1 of 1
+2 be
+1 without 1
+2 judgmen
+1 the 1
+2 to
+1 consent 1
+2 th
+1 of 1
+2 meetin
+1 the 1
+2 try
+1 adjourn 1
+2 t
+1 for 1
+2 ca
+1 more 1
+2 of
+1 than 1
+2 qu
+1 three 1
+2 the
+1 nor 1
+2 fr
+1 to 1
+2 may
+1 any 1
+2 thir
+1 other 1
+2 delaware
+1 place 1
+2 o
+1 than 1
+2 th
+1 that 1
+2 executi
+1 in 1
+2 the
+1 which 1
+2 o
+1 the 1
+2 th
+1 two 1
+2 the
+1 houses 1
+2 t
+1 shall 1
+2 i
+1 be 1
+2 the
+1 section 1
+2 o
+1 the 1
+2 s
+1 senators 1
+2 con
+1 and 1
+2 tha
+1 representatives 1
+2 ex
+1 shall 1
+2 a
+1 receive 1
+2 from
+1 a 1
+2 of
+1 compensation 1
+2 a
+1 for 1
+2 be
+1 their 1
+2 wh
+1 to 1
+2 yor
+1 be 1
+2 a
+1 ascertained 1
+2 e
+1 by 1
+2 sha
+1 and 1
+2 shal
+1 paid 1
+2 chos
+1 out 1
+2 p
+1 of 1
+2 senator
+1 the 1
+2 clas
+1 treasury 1
+2 fo
+1 of 1
+2 an
+1 the 1
+2 tr
+1 united 1
+2 t
+1 they 1
+2 an
+1 shall 1
+2 t
+1 in 1
+2 herein
+1 all 1
+2 be
+1 except 1
+2 taxes
+1 felony 1
+2 within
+1 and 1
+2 tw
+1 breach 1
+2 shall
+1 of 1
+2 and
+1 the 1
+2 to
+1 be 1
+2 to
+1 privileged 1
+2 membe
+1 from 1
+2 te
+1 arrest 1
+2 judgm
+1 during 1
+2 n
+1 their 1
+2 a
+1 attendance 1
+2 of
+1 at 1
+2 section
+1 the 1
+2 th
+1 session 1
+2 c
+1 of 1
+2 than
+1 their 1
+2 th
+1 respective 1
+2 no
+1 and 1
+2 at
+1 in 1
+2 f
+1 going 1
+2 o
+1 to 1
+2 i
+1 and 1
+2 term
+1 returning 1
+2 a
+1 from 1
+2 o
+1 the 1
+2 assemble
+1 and 1
+2 p
+1 for 1
+2 versio
+1 any 1
+2 s
+1 speech 1
+2 when
+1 or 1
+2 or
+1 debate 1
+2 m
+1 in 1
+2 requ
+1 either 1
+2 hav
+1 they 1
+2 meeti
+1 shall 1
+2 apportio
+1 not 1
+2 tha
+1 be 1
+2 mad
+1 questioned 1
+2 of
+1 in 1
+2 is
+1 any 1
+2 ni
+1 other 1
+2 th
+1 no 1
+2 thereof
+1 senator 1
+2 and
+1 or 1
+2 the
+1 representative 1
+2 ma
+1 during 1
+2 the
+1 the 1
+2 pr
+1 time 1
+2 ha
+1 for 1
+2 shall
+1 which 1
+2 not
+1 he 1
+2 in
+1 was 1
+2 sh
+1 be 1
+2 t
+1 appointed 1
+2 sh
+1 to 1
+2 liab
+1 any 1
+2 f
+1 civil 1
+2 s
+1 office 1
+2 stat
+1 under 1
+2 ever
+1 the 1
+2 returns
+1 authority 1
+2 t
+1 of 1
+2 t
+1 the 1
+2 a
+1 united 1
+2 re
+1 states 1
+2 in
+1 which 1
+2 m
+1 shall 1
+2 t
+1 have 1
+2 nev
+1 been 1
+2 each
+1 or 1
+2 s
+1 the 1
+2 fel
+1 emoluments 1
+2 of
+1 whereof 1
+2 t
+1 shall 1
+2 t
+1 have 1
+2 by
+1 been 1
+2 shal
+1 increased 1
+2 o
+1 during 1
+2 t
+1 such 1
+2 an
+1 and 1
+2 t
+1 no 1
+2 se
+1 person 1
+2 disqualificati
+1 holding 1
+2 in
+1 any 1
+2 whic
+1 office 1
+2 senator
+1 under 1
+2 into
+1 the 1
+2 choose
+1 united 1
+2 ha
+1 shall 1
+2 of
+1 be 1
+2 who
+1 a 1
+2 c
+1 member 1
+2 te
+1 of 1
+2 m
+1 either 1
+2 keep
+1 house 1
+2 o
+1 during 1
+2 b
+1 his 1
+2 of
+1 continuance 1
+2 retur
+1 in 1
+2 the
+1 section 1
+2 penn
+1 all 1
+2 s
+1 bills 1
+2 conc
+1 for 1
+2 en
+1 raising 1
+2 fro
+1 revenue 1
+2 he
+1 shall 1
+2 ag
+1 originate 1
+2 t
+1 in 1
+2 shal
+1 the 1
+2 y
+1 house 1
+2 s
+1 of 1
+2 and
+1 but 1
+2 to
+1 the 1
+2 rho
+1 senate 1
+2 i
+1 may 1
+2 t
+1 propose 1
+2 o
+1 or 1
+2 of
+1 concur 1
+2 powe
+1 with 1
+2 the
+1 amendments 1
+2 a
+1 as 1
+2 shal
+1 on 1
+2 its
+1 other 1
+2 publi
+1 every 1
+2 in
+1 bill 1
+2 every
+1 which 1
+2 wh
+1 shall 1
+2 repres
+1 have 1
+2 c
+1 passed 1
+2 on
+1 the 1
+2 offi
+1 house 1
+2 unit
+1 of 1
+2 th
+1 representatives 1
+2 sha
+1 and 1
+2 president
+1 the 1
+2 s
+1 before 1
+2 th
+1 it 1
+2 e
+1 become 1
+2 of
+1 a 1
+2 b
+1 be 1
+2 any
+1 presented 1
+2 th
+1 to 1
+2 o
+1 the 1
+2 the
+1 president 1
+2 preside
+1 of 1
+2 shall
+1 the 1
+2 the
+1 united 1
+2 commo
+1 if 1
+2 b
+1 he 1
+2 afte
+1 approve 1
+2 c
+1 he 1
+2 t
+1 shall 1
+2 a
+1 sign 1
+2 un
+1 but 1
+2 hou
+1 if 1
+2 a
+1 not 1
+2 t
+1 he 1
+2 enumera
+1 shall 1
+2 t
+1 return 1
+2 o
+1 with 1
+2 an
+1 his 1
+2 the
+1 objections 1
+2 at
+1 to 1
+2 expirati
+1 that 1
+2 of
+1 house 1
+2 clas
+1 in 1
+2 be
+1 which 1
+2 bou
+1 it 1
+2 a
+1 shall 1
+2 th
+1 have 1
+2 sen
+1 who 1
+2 e
+1 shall 1
+2 un
+1 enter 1
+2 been
+1 the 1
+2 the
+1 objections 1
+2 s
+1 at 1
+2 an
+1 large 1
+2 happe
+1 on 1
+2 i
+1 their 1
+2 and
+1 and 1
+2 other
+1 proceed 1
+2 b
+1 to 1
+2 thir
+1 reconsider 1
+2 whi
+1 if 1
+2 be
+1 after 1
+2 t
+1 such 1
+2 or
+1 reconsideration 1
+2 th
+1 two 1
+2 have
+1 thirds 1
+2 for
+1 of 1
+2 two
+1 that 1
+2 be
+1 house 1
+2 numb
+1 shall 1
+2 hamps
+1 agree 1
+2 an
+1 to 1
+2 no
+1 pass 1
+2 as
+1 the 1
+2 holdin
+1 it 1
+2 t
+1 shall 1
+2 ent
+1 be 1
+2 re
+1 together 1
+2 but
+1 with 1
+2 b
+1 the 1
+2 a
+1 to 1
+2 of
+1 the 1
+2 sh
+1 other 1
+2 sh
+1 by 1
+2 propose
+1 which 1
+2 t
+1 it 1
+2 o
+1 shall 1
+2 author
+1 likewise 1
+2 vaca
+1 be 1
+2 i
+1 and 1
+2 shall
+1 if 1
+2 bu
+1 approved 1
+2 t
+1 by 1
+2 thei
+1 two 1
+2 u
+1 thirds 1
+2 conseq
+1 of 1
+2 th
+1 that 1
+2 t
+1 it 1
+2 a
+1 shall 1
+2 time
+1 become 1
+2 t
+1 a 1
+2 h
+1 but 1
+2 each
+1 in 1
+2 yea
+1 all 1
+2 d
+1 such 1
+2 beco
+1 cases 1
+2 tw
+1 the 1
+2 to
+1 votes 1
+2 t
+1 of 1
+2 citizen
+1 both 1
+2 the
+1 houses 1
+2 rep
+1 shall 1
+2 t
+1 be 1
+2 appoi
+1 determined 1
+2 durin
+1 by 1
+2 d
+1 yeas 1
+2 o
+1 and 1
+2 p
+1 and 1
+2 t
+1 the 1
+2 furt
+1 names 1
+2 and
+1 of 1
+2 who
+1 the 1
+2 al
+1 persons 1
+2 to
+1 voting 1
+2 t
+1 for 1
+2 of
+1 and 1
+2 chos
+1 against 1
+2 th
+1 the 1
+2 c
+1 bill 1
+2 fo
+1 shall 1
+2 deter
+1 be 1
+2 se
+1 entered 1
+2 the
+1 on 1
+2 pai
+1 the 1
+2 t
+1 journal 1
+2 person
+1 of 1
+2 amo
+1 each 1
+2 u
+1 house 1
+2 the
+1 if 1
+2 hou
+1 any 1
+2 w
+1 bill 1
+2 si
+1 shall 1
+2 cho
+1 not 1
+2 be
+1 be 1
+2 i
+1 returned 1
+2 rule
+1 by 1
+2 a
+1 the 1
+2 have
+1 president 1
+2 of
+1 within 1
+2 wr
+1 ten 1
+2 have
+1 days 1
+2 t
+1 after 1
+2 t
+1 it 1
+2 t
+1 shall 1
+2 new
+1 have 1
+2 states
+1 been 1
+2 t
+1 presented 1
+2 present
+1 to 1
+2 det
+1 the 1
+2 on
+1 same 1
+2 rep
+1 shall 1
+2 b
+1 be 1
+2 o
+1 a 1
+2 o
+1 in 1
+2 e
+1 like 1
+2 ap
+1 manner 1
+2 from
+1 as 1
+2 thre
+1 if 1
+2 the
+1 he 1
+2 e
+1 had 1
+2 o
+1 signed 1
+2 a
+1 unless 1
+2 li
+1 the 1
+2 shall
+1 congress 1
+2 in
+1 by 1
+2 conse
+1 their 1
+2 shall
+1 adjournment 1
+2 questio
+1 prevent 1
+2 th
+1 its 1
+2 of
+1 in 1
+2 connectic
+1 which 1
+2 an
+1 case 1
+2 an
+1 it 1
+2 an
+1 shall 1
+2 such
+1 not 1
+2 and
+1 be 1
+2 t
+1 a 1
+2 or
+1 every 1
+2 cong
+1 or 1
+2 tha
+1 vote 1
+2 unite
+1 to 1
+2 tempo
+1 which 1
+2 enumer
+1 the 1
+2 th
+1 concurrence 1
+2 el
+1 of 1
+2 qualifi
+1 the 1
+2 attained
+1 senate 1
+2 exc
+1 and 1
+2 t
+1 house 1
+2 a
+1 of 1
+2 ex
+1 representatives 1
+2 disor
+1 may 1
+2 secon
+1 be 1
+2 f
+1 necessary 1
+2 majority
+1 on 1
+2 shall
+1 a 1
+2 m
+1 question 1
+2 th
+1 of 1
+2 a
+1 shall 1
+2 und
+1 be 1
+2 tim
+1 presented 1
+2 nevertheless
+1 to 1
+2 he
+1 the 1
+2 of
+1 president 1
+2 m
+1 of 1
+2 th
+1 the 1
+2 part
+1 united 1
+2 t
+1 and 1
+2 a
+1 before 1
+2 delawar
+1 the 1
+2 t
+1 same 1
+2 the
+1 shall 1
+2 presiden
+1 take 1
+2 try
+1 shall 1
+2 s
+1 be 1
+2 c
+1 approved 1
+2 be
+1 by 1
+2 o
+1 or 1
+2 respec
+1 being 1
+2 congr
+1 disapproved 1
+2 an
+1 by 1
+2 twe
+1 shall 1
+2 ma
+1 be 1
+2 re
+1 repassed 1
+2 a
+1 by 1
+2 sha
+1 two 1
+2 fre
+1 thirds 1
+2 representat
+1 of 1
+2 to
+1 the 1
+2 n
+1 senate 1
+2 w
+1 and 1
+2 judge
+1 house 1
+2 the
+1 of 1
+2 o
+1 according 1
+2 sh
+1 to 1
+2 bu
+1 the 1
+2 t
+1 rules 1
+2 o
+1 and 1
+2 expira
+1 limitations 1
+2 t
+1 prescribed 1
+2 sha
+1 in 1
+2 th
+1 the 1
+2 erro
+1 case 1
+2 on
+1 of 1
+2 it
+1 a 1
+2 his
+1 section 1
+2 t
+1 the 1
+2 congress
+1 congress 1
+2 be
+1 shall 1
+2 s
+1 have 1
+2 places
+1 power 1
+2 the
+1 to 1
+2 one
+1 lay 1
+2 car
+1 and 1
+2 t
+1 collect 1
+2 th
+1 imposts 1
+2 congre
+1 and 1
+2 exce
+1 to 1
+2 equa
+1 pay 1
+2 chosen
+1 the 1
+2 wi
+1 debts 1
+2 n
+1 and 1
+2 t
+1 provide 1
+2 imp
+1 for 1
+2 fifth
+1 the 1
+2 pen
+1 common 1
+2 b
+1 defence 1
+2 in
+1 and 1
+2 chief
+1 general 1
+2 an
+1 welfare 1
+2 which
+1 of 1
+2 pennsylvani
+1 the 1
+2 promo
+1 united 1
+2 ev
+1 but 1
+2 de
+1 all 1
+2 thirds
+1 imposts 1
+2 sha
+1 and 1
+2 adjou
+1 excises 1
+2 duri
+1 shall 1
+2 by
+1 be 1
+2 yo
+1 uniform 1
+2 of
+1 throughout 1
+2 sena
+1 the 1
+2 not
+1 united 1
+2 ea
+1 to 1
+2 the
+1 borrow 1
+2 of
+1 money 1
+2 ti
+1 on 1
+2 th
+1 the 1
+2 c
+1 credit 1
+2 th
+1 of 1
+2 t
+1 the 1
+2 their
+1 united 1
+2 e
+1 to 1
+2 a
+1 regulate 1
+2 h
+1 commerce 1
+2 ev
+1 with 1
+2 e
+1 foreign 1
+2 exce
+1 and 1
+2 if
+1 among 1
+2 perfec
+1 the 1
+2 t
+1 several 1
+2 quest
+1 and 1
+2 sena
+1 with 1
+2 the
+1 the 1
+2 they
+1 indian 1
+2 be
+1 to 1
+2 o
+1 establish 1
+2 s
+1 an 1
+2 sha
+1 uniform 1
+2 a
+1 rule 1
+2 sha
+1 of 1
+2 se
+1 and 1
+2 wit
+1 uniform 1
+2 int
+1 laws 1
+2 if
+1 on 1
+2 exceed
+1 the 1
+2 o
+1 subject 1
+2 like
+1 of 1
+2 dire
+1 bankruptcies 1
+2 to
+1 throughout 1
+2 ex
+1 the 1
+2 abs
+1 united 1
+2 v
+1 to 1
+2 but
+1 coin 1
+2 afte
+1 regulate 1
+2 to
+1 the 1
+2 pro
+1 value 1
+2 th
+1 and 1
+2 seve
+1 of 1
+2 united
+1 foreign 1
+2 th
+1 and 1
+2 c
+1 fix 1
+2 m
+1 the 1
+2 at
+1 standard 1
+2 of
+1 of 1
+2 for
+1 weights 1
+2 exc
+1 and 1
+2 term
+1 to 1
+2 of
+1 provide 1
+2 preside
+1 for 1
+2 ho
+1 the 1
+2 bi
+1 punishment 1
+2 t
+1 of 1
+2 or
+1 counterfeiting 1
+2 shall
+1 the 1
+2 p
+1 securities 1
+2 be
+1 and 1
+2 hous
+1 current 1
+2 b
+1 coin 1
+2 al
+1 of 1
+2 fourth
+1 the 1
+2 propo
+1 united 1
+2 co
+1 to 1
+2 for
+1 establish 1
+2 of
+1 post 1
+2 it
+1 offices 1
+2 u
+1 and 1
+2 the
+1 post 1
+2 th
+1 to 1
+2 they
+1 promote 1
+2 st
+1 the 1
+2 twent
+1 progress 1
+2 a
+1 of 1
+2 b
+1 science 1
+2 ea
+1 and 1
+2 vi
+1 useful 1
+2 hou
+1 by 1
+2 o
+1 securing 1
+2 w
+1 for 1
+2 comp
+1 limited 1
+2 punis
+1 times 1
+2 connecticut
+1 to 1
+2 i
+1 authors 1
+2 ma
+1 and 1
+2 the
+1 inventors 1
+2 o
+1 the 1
+2 memb
+1 exclusive 1
+2 a
+1 right 1
+2 t
+1 to 1
+2 sh
+1 their 1
+2 number
+1 respective 1
+2 s
+1 writings 1
+2 th
+1 and 1
+2 ours
+1 to 1
+2 preside
+1 constitute 1
+2 hav
+1 tribunals 1
+2 excep
+1 inferior 1
+2 b
+1 to 1
+2 be
+1 the 1
+2 d
+1 supreme 1
+2 pos
+1 to 1
+2 be
+1 define 1
+2 autho
+1 and 1
+2 penalt
+1 punish 1
+2 an
+1 piracies 1
+2 of
+1 and 1
+2 of
+1 felonies 1
+2 in
+1 committed 1
+2 hav
+1 on 1
+2 n
+1 the 1
+2 by
+1 high 1
+2 b
+1 and 1
+2 pa
+1 offenses 1
+2 tem
+1 against 1
+2 h
+1 the 1
+2 p
+1 law 1
+2 journ
+1 of 1
+2 po
+1 to 1
+2 afte
+1 declare 1
+2 unde
+1 grant 1
+2 prof
+1 letters 1
+2 convi
+1 of 1
+2 sea
+1 marque 1
+2 be
+1 and 1
+2 on
+1 and 1
+2 se
+1 make 1
+2 sta
+1 rules 1
+2 piracies
+1 concerning 1
+2 a
+1 captures 1
+2 w
+1 on 1
+2 ma
+1 land 1
+2 b
+1 and 1
+2 the
+1 to 1
+2 t
+1 raise 1
+2 t
+1 and 1
+2 in
+1 support 1
+2 sha
+1 but 1
+2 t
+1 no 1
+2 d
+1 appropriation 1
+2 sha
+1 of 1
+2 t
+1 money 1
+2 ten
+1 to 1
+2 the
+1 that 1
+2 times
+1 use 1
+2 sha
+1 shall 1
+2 president
+1 be 1
+2 th
+1 for 1
+2 estab
+1 a 1
+2 yea
+1 longer 1
+2 th
+1 term 1
+2 members
+1 than 1
+2 i
+1 two 1
+2 gene
+1 to 1
+2 l
+1 provide 1
+2 its
+1 and 1
+2 the
+1 maintain 1
+2 h
+1 a 1
+2 w
+1 to 1
+2 h
+1 make 1
+2 a
+1 rules 1
+2 o
+1 for 1
+2 objec
+1 the 1
+2 debate
+1 government 1
+2 m
+1 and 1
+2 estab
+1 regulation 1
+2 ma
+1 of 1
+2 prescri
+1 the 1
+2 year
+1 land 1
+2 a
+1 and 1
+2 o
+1 naval 1
+2 mem
+1 to 1
+2 house
+1 provide 1
+2 t
+1 for 1
+2 uni
+1 calling 1
+2 which
+1 forth 1
+2 pers
+1 the 1
+2 of
+1 militia 1
+2 mak
+1 to 1
+2 w
+1 execute 1
+2 h
+1 the 1
+2 appoint
+1 laws 1
+2 sha
+1 of 1
+2 p
+1 the 1
+2 p
+1 suppress 1
+2 na
+1 insurrections 1
+2 cur
+1 and 1
+2 i
+1 repel 1
+2 shall
+1 to 1
+2 congre
+1 provide 1
+2 provid
+1 for 1
+2 conc
+1 and 1
+2 sh
+1 the 1
+2 compos
+1 and 1
+2 an
+1 for 1
+2 b
+1 governing 1
+2 legisl
+1 such 1
+2 a
+1 part 1
+2 o
+1 of 1
+2 o
+1 them 1
+2 oth
+1 as 1
+2 be
+1 may 1
+2 br
+1 be 1
+2 t
+1 employed 1
+2 s
+1 in 1
+2 ru
+1 the 1
+2 vice
+1 service 1
+2 ser
+1 of 1
+2 memb
+1 the 1
+2 lan
+1 united 1
+2 t
+1 reserving 1
+2 h
+1 to 1
+2 th
+1 the 1
+2 massachusett
+1 states 1
+2 t
+1 the 1
+2 an
+1 appointment 1
+2 th
+1 of 1
+2 shal
+1 the 1
+2 sh
+1 and 1
+2 in
+1 the 1
+2 i
+1 authority 1
+2 o
+1 of 1
+2 an
+1 training 1
+2 for
+1 the 1
+2 o
+1 militia 1
+2 o
+1 according 1
+2 a
+1 to 1
+2 sha
+1 the 1
+2 ma
+1 discipline 1
+2 b
+1 prescribed 1
+2 d
+1 by 1
+2 a
+1 to 1
+2 ever
+1 exercise 1
+2 bu
+1 exclusive 1
+2 s
+1 legislation 1
+2 represen
+1 in 1
+2 th
+1 all 1
+2 such
+1 cases 1
+2 m
+1 over 1
+2 by
+1 such 1
+2 two
+1 district 1
+2 respecti
+1 exceeding 1
+2 determined
+1 ten 1
+2 shall
+1 miles 1
+2 let
+1 as 1
+2 supp
+1 by 1
+2 h
+1 cession 1
+2 hous
+1 of 1
+2 th
+1 particular 1
+2 s
+1 and 1
+2 b
+1 the 1
+2 t
+1 acceptance 1
+2 fo
+1 of 1
+2 be
+1 become 1
+2 tha
+1 the 1
+2 in
+1 seat 1
+2 comp
+1 of 1
+2 ot
+1 the 1
+2 t
+1 government 1
+2 among
+1 of 1
+2 throughout
+1 the 1
+2 com
+1 united 1
+2 provi
+1 and 1
+2 of
+1 to 1
+2 it
+1 exercise 1
+2 bill
+1 like 1
+2 yea
+1 authority 1
+2 on
+1 over 1
+2 authority
+1 all 1
+2 pr
+1 places 1
+2 within
+1 purchased 1
+2 regulatio
+1 by 1
+2 an
+1 the 1
+2 the
+1 consent 1
+2 n
+1 of 1
+2 an
+1 the 1
+2 post
+1 legislature 1
+2 qua
+1 of 1
+2 th
+1 the 1
+2 sha
+1 state 1
+2 m
+1 in 1
+2 age
+1 which 1
+2 th
+1 the 1
+2 each
+1 same 1
+2 return
+1 shall 1
+2 a
+1 for 1
+2 i
+1 the 1
+2 in
+1 erection 1
+2 t
+1 of 1
+2 an
+1 and 1
+2 exclusiv
+1 other 1
+2 of
+1 needful 1
+2 constitu
+1 and 1
+2 disci
+1 to 1
+2 stat
+1 make 1
+2 shal
+1 all 1
+2 t
+1 laws 1
+2 r
+1 which 1
+2 a
+1 shall 1
+2 vacanci
+1 be 1
+2 th
+1 necessary 1
+2 o
+1 and 1
+2 b
+1 proper 1
+2 t
+1 for 1
+2 a
+1 carrying 1
+2 w
+1 into 1
+2 the
+1 execution 1
+2 sou
+1 the 1
+2 of
+1 foregoing 1
+2 t
+1 and 1
+2 sena
+1 all 1
+2 consequence
+1 other 1
+2 united
+1 powers 1
+2 r
+1 vested 1
+2 na
+1 by 1
+2 a
+1 this 1
+2 government
+1 constitution 1
+2 n
+1 in 1
+2 an
+1 the 1
+2 main
+1 government 1
+2 be
+1 of 1
+2 which
+1 the 1
+2 su
+1 united 1
+2 the
+1 or 1
+2 the
+1 in 1
+2 b
+1 any 1
+2 th
+1 department 1
+2 unl
+1 or 1
+2 th
+1 officer 1
+2 th
+1 section 1
+2 the
+1 the 1
+2 questi
+1 migration 1
+2 o
+1 or 1
+2 a
+1 importation 1
+2 p
+1 of 1
+2 in
+1 such 1
+2 t
+1 persons 1
+2 t
+1 as 1
+2 t
+1 any 1
+2 b
+1 of 1
+2 class
+1 the 1
+2 th
+1 states 1
+2 ha
+1 now 1
+2 eve
+1 existing 1
+2 pe
+1 shall 1
+2 a
+1 think 1
+2 the
+1 proper 1
+2 aut
+1 to 1
+2 t
+1 shall 1
+2 seco
+1 not 1
+2 b
+1 be 1
+2 from
+1 prohibited 1
+2 a
+1 by 1
+2 sha
+1 the 1
+2 o
+1 congress 1
+2 sha
+1 prior 1
+2 l
+1 to 1
+2 te
+1 the 1
+2 several
+1 year 1
+2 o
+1 one 1
+2 of
+1 thousand 1
+2 a
+1 eight 1
+2 in
+1 hundred 1
+2 elect
+1 and 1
+2 t
+1 but 1
+2 o
+1 a 1
+2 t
+1 tax 1
+2 par
+1 or 1
+2 time
+1 duty 1
+2 th
+1 may 1
+2 th
+1 be 1
+2 holdin
+1 imposed 1
+2 unit
+1 on 1
+2 t
+1 such 1
+2 is
+1 not 1
+2 be
+1 exceeding 1
+2 th
+1 ten 1
+2 t
+1 dollars 1
+2 so
+1 for 1
+2 s
+1 each 1
+2 h
+1 the 1
+2 ves
+1 privilege 1
+2 to
+1 of 1
+2 in
+1 the 1
+2 an
+1 writ 1
+2 tribu
+1 of 1
+2 se
+1 habeas 1
+2 a
+1 corpus 1
+2 t
+1 shall 1
+2 th
+1 not 1
+2 th
+1 be 1
+2 th
+1 unless 1
+2 they
+1 when 1
+2 th
+1 in 1
+2 the
+1 cases 1
+2 th
+1 of 1
+2 publ
+1 rebellion 1
+2 t
+1 or 1
+2 mone
+1 invasion 1
+2 proper
+1 the 1
+2 the
+1 public 1
+2 piraci
+1 safety 1
+2 sta
+1 may 1
+2 electors
+1 require 1
+2 o
+1 no 1
+2 of
+1 bill 1
+2 for
+1 of 1
+2 o
+1 attainder 1
+2 he
+1 or 1
+2 i
+1 ex 1
+2 b
+1 post 1
+2 in
+1 facto 1
+2 sitt
+1 law 1
+2 t
+1 shall 1
+2 offic
+1 be 1
+2 piracie
+1 no 1
+2 sen
+1 or 1
+2 of
+1 other 1
+2 sh
+1 tax 1
+2 ha
+1 shall 1
+2 its
+1 be 1
+2 of
+1 unless 1
+2 s
+1 in 1
+2 shall
+1 proportion 1
+2 and
+1 to 1
+2 t
+1 the 1
+2 t
+1 census 1
+2 co
+1 or 1
+2 th
+1 enumeration 1
+2 b
+1 herein 1
+2 have
+1 before 1
+2 wh
+1 directed 1
+2 perso
+1 to 1
+2 th
+1 be 1
+2 se
+1 no 1
+2 b
+1 tax 1
+2 su
+1 or 1
+2 o
+1 duty 1
+2 yeas
+1 shall 1
+2 the
+1 be 1
+2 pre
+1 laid 1
+2 by
+1 on 1
+2 b
+1 articles 1
+2 of
+1 exported 1
+2 n
+1 from 1
+2 fo
+1 any 1
+2 the
+1 no 1
+2 discip
+1 preference 1
+2 bankru
+1 shall 1
+2 fo
+1 be 1
+2 whic
+1 given 1
+2 limitation
+1 by 1
+2 t
+1 any 1
+2 objections
+1 regulation 1
+2 i
+1 of 1
+2 s
+1 commerce 1
+2 ru
+1 or 1
+2 t
+1 revenue 1
+2 b
+1 to 1
+2 electi
+1 the 1
+2 under
+1 ports 1
+2 t
+1 of 1
+2 h
+1 one 1
+2 all
+1 state 1
+2 pre
+1 over 1
+2 priv
+1 those 1
+2 a
+1 of 1
+2 other
+1 nor 1
+2 ord
+1 shall 1
+2 post
+1 vessels 1
+2 migra
+1 bound 1
+2 memb
+1 or 1
+2 n
+1 one 1
+2 presiden
+1 be 1
+2 sh
+1 obliged 1
+2 rem
+1 to 1
+2 o
+1 or 1
+2 suppo
+1 pay 1
+2 t
+1 duties 1
+2 to
+1 in 1
+2 b
+1 no 1
+2 th
+1 money 1
+2 a
+1 shall 1
+2 th
+1 be 1
+2 on
+1 drawn 1
+2 o
+1 from 1
+2 tha
+1 the 1
+2 b
+1 but 1
+2 year
+1 in 1
+2 t
+1 consequence 1
+2 ar
+1 of 1
+2 t
+1 appropriations 1
+2 he
+1 made 1
+2 concur
+1 by 1
+2 i
+1 and 1
+2 bl
+1 a 1
+2 bu
+1 regular 1
+2 t
+1 statement 1
+2 all
+1 and 1
+2 maint
+1 account 1
+2 th
+1 of 1
+2 thei
+1 the 1
+2 sha
+1 receipts 1
+2 of
+1 and 1
+2 b
+1 expenditures 1
+2 s
+1 of 1
+2 the
+1 all 1
+2 t
+1 public 1
+2 sha
+1 money 1
+2 o
+1 shall 1
+2 and
+1 be 1
+2 j
+1 published 1
+2 increas
+1 from 1
+2 and
+1 time 1
+2 su
+1 to 1
+2 fo
+1 no 1
+2 ma
+1 title 1
+2 either
+1 of 1
+2 t
+1 nobility 1
+2 respe
+1 shall 1
+2 liberty
+1 be 1
+2 year
+1 granted 1
+2 tax
+1 by 1
+2 civil
+1 the 1
+2 a
+1 united 1
+2 sta
+1 and 1
+2 discipl
+1 no 1
+2 suc
+1 person 1
+2 of
+1 holding 1
+2 l
+1 any 1
+2 privile
+1 office 1
+2 o
+1 of 1
+2 rules
+1 profit 1
+2 t
+1 or 1
+2 the
+1 trust 1
+2 incre
+1 under 1
+2 abs
+1 without 1
+2 regulatio
+1 the 1
+2 hous
+1 consent 1
+2 at
+1 of 1
+2 b
+1 the 1
+2 c
+1 accept 1
+2 depar
+1 of 1
+2 congre
+1 any 1
+2 v
+1 or 1
+2 the
+1 of 1
+2 importati
+1 any 1
+2 a
+1 kind 1
+2 h
+1 from 1
+2 b
+1 any 1
+2 ma
+1 prince 1
+2 suc
+1 or 1
+2 a
+1 foreign 1
+2 congres
+1 section 1
+2 i
+1 no 1
+2 t
+1 state 1
+2 hou
+1 shall 1
+2 have
+1 enter 1
+2 s
+1 into 1
+2 publish
+1 any 1
+2 prop
+1 or 1
+2 i
+1 grant 1
+2 an
+1 letters 1
+2 so
+1 of 1
+2 whic
+1 marque 1
+2 when
+1 and 1
+2 w
+1 coin 1
+2 b
+1 emit 1
+2 rules
+1 bills 1
+2 sec
+1 of 1
+2 of
+1 make 1
+2 manne
+1 any 1
+2 h
+1 thing 1
+2 shall
+1 but 1
+2 b
+1 gold 1
+2 o
+1 and 1
+2 ab
+1 silver 1
+2 of
+1 coin 1
+2 to
+1 a 1
+2 ju
+1 tender 1
+2 u
+1 in 1
+2 ma
+1 payment 1
+2 incre
+1 of 1
+2 times
+1 pass 1
+2 in
+1 any 1
+2 per
+1 bill 1
+2 an
+1 of 1
+2 o
+1 ex 1
+2 b
+1 post 1
+2 t
+1 facto 1
+2 no
+1 or 1
+2 sa
+1 law 1
+2 or
+1 impairing 1
+2 th
+1 the 1
+2 a
+1 obligation 1
+2 impairi
+1 of 1
+2 of
+1 or 1
+2 for
+1 grant 1
+2 witho
+1 any 1
+2 ho
+1 title 1
+2 shal
+1 of 1
+2 sh
+1 no 1
+2 which
+1 state 1
+2 sec
+1 without 1
+2 em
+1 the 1
+2 def
+1 consent 1
+2 an
+1 of 1
+2 yea
+1 the 1
+2 a
+1 lay 1
+2 t
+1 any 1
+2 decla
+1 imposts 1
+2 hig
+1 or 1
+2 o
+1 duties 1
+2 as
+1 on 1
+2 a
+1 imports 1
+2 t
+1 or 1
+2 the
+1 except 1
+2 fr
+1 what 1
+2 m
+1 may 1
+2 of
+1 be 1
+2 a
+1 absolutely 1
+2 fo
+1 necessary 1
+2 of
+1 for 1
+2 any
+1 executing 1
+2 not
+1 its 1
+2 and
+1 inspection 1
+2 spee
+1 and 1
+2 n
+1 the 1
+2 pro
+1 net 1
+2 th
+1 produce 1
+2 asse
+1 of 1
+2 n
+1 all 1
+2 exe
+1 duties 1
+2 secon
+1 and 1
+2 presi
+1 laid 1
+2 shal
+1 by 1
+2 t
+1 any 1
+2 question
+1 state 1
+2 s
+1 on 1
+2 exce
+1 imports 1
+2 t
+1 or 1
+2 unit
+1 shall 1
+2 un
+1 be 1
+2 h
+1 for 1
+2 i
+1 the 1
+2 each
+1 use 1
+2 each
+1 of 1
+2 i
+1 the 1
+2 shall
+1 treasury 1
+2 the
+1 of 1
+2 expend
+1 the 1
+2 estab
+1 united 1
+2 ne
+1 and 1
+2 t
+1 all 1
+2 shall
+1 such 1
+2 i
+1 laws 1
+2 uni
+1 shall 1
+2 of
+1 be 1
+2 o
+1 subject 1
+2 apportion
+1 to 1
+2 th
+1 the 1
+2 the
+1 revision 1
+2 t
+1 and 1
+2 amon
+1 control 1
+2 securin
+1 of 1
+2 an
+1 the 1
+2 sha
+1 no 1
+2 a
+1 state 1
+2 in
+1 without 1
+2 i
+1 the 1
+2 an
+1 consent 1
+2 for
+1 of 1
+2 vo
+1 lay 1
+2 whi
+1 any 1
+2 b
+1 duty 1
+2 o
+1 of 1
+2 o
+1 keep 1
+2 such
+1 or 1
+2 in
+1 ships 1
+2 may
+1 of 1
+2 ne
+1 war 1
+2 th
+1 in 1
+2 t
+1 time 1
+2 people
+1 of 1
+2 their
+1 enter 1
+2 civi
+1 into 1
+2 and
+1 any 1
+2 t
+1 agreement 1
+2 fo
+1 or 1
+2 ever
+1 compact 1
+2 of
+1 with 1
+2 no
+1 another 1
+2 th
+1 or 1
+2 in
+1 with 1
+2 grante
+1 a 1
+2 othe
+1 foreign 1
+2 of
+1 or 1
+2 and
+1 engage 1
+2 whic
+1 in 1
+2 s
+1 unless 1
+2 pro
+1 actually 1
+2 an
+1 or 1
+2 t
+1 in 1
+2 an
+1 such 1
+2 hou
+1 imminent 1
+2 have
+1 danger 1
+2 mann
+1 as 1
+2 have
+1 will 1
+2 and
+1 not 1
+2 t
+1 admit 1
+2 q
+1 of 1
+2 t
+1 article 1
+2 state
+1 section 1
+2 publ
+1 the 1
+2 by
+1 executive 1
+2 wh
+1 power 1
+2 the
+1 shall 1
+2 pri
+1 be 1
+2 sen
+1 vested 1
+2 defence
+1 in 1
+2 b
+1 a 1
+2 o
+1 president 1
+2 sta
+1 of 1
+2 o
+1 the 1
+2 th
+1 united 1
+2 b
+1 states 1
+2 any
+1 of 1
+2 ch
+1 he 1
+2 c
+1 shall 1
+2 debate
+1 hold 1
+2 governmen
+1 his 1
+2 bee
+1 office 1
+2 b
+1 during 1
+2 on
+1 the 1
+2 th
+1 term 1
+2 of
+1 of 1
+2 a
+1 four 1
+2 of
+1 together 1
+2 s
+1 with 1
+2 i
+1 the 1
+2 of
+1 chosen 1
+2 suc
+1 for 1
+2 give
+1 the 1
+2 o
+1 same 1
+2 s
+1 be 1
+2 an
+1 as 1
+2 befo
+1 each 1
+2 and
+1 state 1
+2 disorde
+1 shall 1
+2 h
+1 in 1
+2 judgmen
+1 such 1
+2 a
+1 manner 1
+2 a
+1 as 1
+2 th
+1 the 1
+2 bee
+1 legislature 1
+2 cases
+1 thereof 1
+2 to
+1 may 1
+2 an
+1 a 1
+2 stat
+1 number 1
+2 ge
+1 of 1
+2 thei
+1 equal 1
+2 u
+1 to 1
+2 shal
+1 the 1
+2 new
+1 whole 1
+2 reconsider
+1 number 1
+2 gran
+1 of 1
+2 pe
+1 senators 1
+2 impor
+1 and 1
+2 offi
+1 representatives 1
+2 i
+1 to 1
+2 n
+1 which 1
+2 th
+1 the 1
+2 th
+1 state 1
+2 presi
+1 may 1
+2 tre
+1 be 1
+2 bein
+1 entitled 1
+2 penaltie
+1 in 1
+2 n
+1 the 1
+2 expe
+1 but 1
+2 ame
+1 no 1
+2 shall
+1 senator 1
+2 t
+1 or 1
+2 shal
+1 or 1
+2 on
+1 person 1
+2 o
+1 holding 1
+2 t
+1 an 1
+2 any
+1 office 1
+2 representat
+1 of 1
+2 exceeding
+1 trust 1
+2 the
+1 or 1
+2 w
+1 profit 1
+2 recei
+1 under 1
+2 a
+1 the 1
+2 o
+1 united 1
+2 a
+1 shall 1
+2 comm
+1 be 1
+2 a
+1 appointed 1
+2 on
+1 an 1
+2 such
+1 the 1
+2 t
+1 electors 1
+2 stat
+1 shall 1
+2 proce
+1 meet 1
+2 m
+1 in 1
+2 breac
+1 their 1
+2 com
+1 respective 1
+2 m
+1 and 1
+2 subjec
+1 vote 1
+2 b
+1 by 1
+2 and
+1 ballot 1
+2 o
+1 for 1
+2 o
+1 two 1
+2 b
+1 of 1
+2 de
+1 whom 1
+2 i
+1 one 1
+2 fro
+1 at 1
+2 at
+1 least 1
+2 b
+1 shall 1
+2 of
+1 not 1
+2 inventors
+1 lie 1
+2 stat
+1 an 1
+2 o
+1 inhabitant 1
+2 t
+1 of 1
+2 th
+1 the 1
+2 shall
+1 same 1
+2 be
+1 state 1
+2 a
+1 with 1
+2 g
+1 and 1
+2 i
+1 they 1
+2 a
+1 shall 1
+2 houses
+1 make 1
+2 t
+1 a 1
+2 ag
+1 list 1
+2 a
+1 of 1
+2 th
+1 all 1
+2 wh
+1 the 1
+2 t
+1 persons 1
+2 disapprove
+1 voted 1
+2 f
+1 and 1
+2 at
+1 of 1
+2 a
+1 the 1
+2 four
+1 number 1
+2 re
+1 of 1
+2 i
+1 votes 1
+2 t
+1 for 1
+2 they
+1 which 1
+2 or
+1 list 1
+2 firs
+1 they 1
+2 ad
+1 shall 1
+2 l
+1 sign 1
+2 unde
+1 and 1
+2 nece
+1 and 1
+2 one
+1 transmit 1
+2 for
+1 sealed 1
+2 s
+1 to 1
+2 on
+1 the 1
+2 been
+1 seat 1
+2 duty
+1 of 1
+2 e
+1 the 1
+2 hou
+1 government 1
+2 as
+1 of 1
+2 to
+1 the 1
+2 t
+1 united 1
+2 the
+1 directed 1
+2 law
+1 to 1
+2 t
+1 the 1
+2 o
+1 president 1
+2 o
+1 of 1
+2 b
+1 the 1
+2 duty
+1 the 1
+2 rig
+1 president 1
+2 th
+1 of 1
+2 a
+1 the 1
+2 ag
+1 senate 1
+2 includin
+1 in 1
+2 t
+1 the 1
+2 a
+1 presence 1
+2 the
+1 of 1
+2 t
+1 the 1
+2 shal
+1 senate 1
+2 clas
+1 and 1
+2 ta
+1 house 1
+2 h
+1 of 1
+2 sh
+1 open 1
+2 reconsiderati
+1 all 1
+2 thir
+1 the 1
+2 mem
+1 and 1
+2 states
+1 the 1
+2 appointmen
+1 votes 1
+2 of
+1 shall 1
+2 t
+1 then 1
+2 s
+1 be 1
+2 sena
+1 the 1
+2 o
+1 person 1
+2 mak
+1 having 1
+2 the
+1 the 1
+2 wh
+1 greatest 1
+2 laws
+1 number 1
+2 i
+1 of 1
+2 f
+1 votes 1
+2 thre
+1 shall 1
+2 res
+1 be 1
+2 to
+1 the 1
+2 may
+1 if 1
+2 s
+1 such 1
+2 shal
+1 number 1
+2 wha
+1 be 1
+2 a
+1 a 1
+2 duties
+1 majority 1
+2 an
+1 of 1
+2 powe
+1 the 1
+2 hundre
+1 whole 1
+2 if
+1 number 1
+2 a
+1 of 1
+2 t
+1 electors 1
+2 of
+1 and 1
+2 land
+1 if 1
+2 pass
+1 there 1
+2 any
+1 be 1
+2 br
+1 more 1
+2 consis
+1 than 1
+2 w
+1 one 1
+2 t
+1 who 1
+2 valu
+1 have 1
+2 of
+1 such 1
+2 p
+1 and 1
+2 pla
+1 have 1
+2 y
+1 an 1
+2 the
+1 equal 1
+2 t
+1 number 1
+2 shall
+1 of 1
+2 prescr
+1 then 1
+2 senat
+1 the 1
+2 shall
+1 house 1
+2 t
+1 of 1
+2 ne
+1 representatives 1
+2 th
+1 shall 1
+2 shal
+1 immediately 1
+2 president
+1 choose 1
+2 number
+1 by 1
+2 the
+1 ballot 1
+2 b
+1 one 1
+2 th
+1 of 1
+2 ent
+1 them 1
+2 with
+1 for 1
+2 and
+1 and 1
+2 ho
+1 if 1
+2 tha
+1 no 1
+2 exc
+1 person 1
+2 t
+1 have 1
+2 pr
+1 a 1
+2 an
+1 then 1
+2 per
+1 from 1
+2 c
+1 the 1
+2 ex
+1 five 1
+2 impairin
+1 highest 1
+2 sha
+1 on 1
+2 to
+1 the 1
+2 qu
+1 list 1
+2 b
+1 the 1
+2 capt
+1 said 1
+2 law
+1 house 1
+2 al
+1 shall 1
+2 appr
+1 in 1
+2 states
+1 like 1
+2 cons
+1 manner 1
+2 t
+1 choose 1
+2 the
+1 the 1
+2 accoun
+1 but 1
+2 bu
+1 in 1
+2 not
+1 choosing 1
+2 sect
+1 the 1
+2 s
+1 the 1
+2 the
+1 votes 1
+2 wri
+1 shall 1
+2 fifth
+1 be 1
+2 on
+1 taken 1
+2 th
+1 by 1
+2 p
+1 the 1
+2 i
+1 representation 1
+2 sh
+1 from 1
+2 b
+1 each 1
+2 boun
+1 state 1
+2 order
+1 having 1
+2 so
+1 one 1
+2 i
+1 a 1
+2 p
+1 quorum 1
+2 and
+1 for 1
+2 sha
+1 this 1
+2 whole
+1 purpose 1
+2 sha
+1 shall 1
+2 recons
+1 consist 1
+2 of
+1 of 1
+2 each
+1 a 1
+2 respe
+1 member 1
+2 sh
+1 or 1
+2 i
+1 members 1
+2 highest
+1 from 1
+2 presi
+1 of 1
+2 the
+1 the 1
+2 subseque
+1 and 1
+2 prescribe
+1 a 1
+2 in
+1 majority 1
+2 of
+1 of 1
+2 th
+1 all 1
+2 leg
+1 the 1
+2 n
+1 states 1
+2 suc
+1 shall 1
+2 ques
+1 be 1
+2 sh
+1 necessary 1
+2 jerse
+1 to 1
+2 the
+1 a 1
+2 of
+1 in 1
+2 or
+1 every 1
+2 wit
+1 after 1
+2 repres
+1 the 1
+2 or
+1 choice 1
+2 for
+1 of 1
+2 suc
+1 the 1
+2 a
+1 the 1
+2 of
+1 person 1
+2 to
+1 having 1
+2 four
+1 the 1
+2 a
+1 greatest 1
+2 according
+1 number 1
+2 ad
+1 of 1
+2 st
+1 votes 1
+2 and
+1 of 1
+2 t
+1 the 1
+2 of
+1 electors 1
+2 o
+1 shall 1
+2 call
+1 be 1
+2 and
+1 the 1
+2 o
+1 vice 1
+2 w
+1 but 1
+2 and
+1 if 1
+2 shal
+1 there 1
+2 pres
+1 should 1
+2 the
+1 remain 1
+2 in
+1 two 1
+2 the
+1 or 1
+2 have
+1 more 1
+2 w
+1 who 1
+2 for
+1 have 1
+2 a
+1 equal 1
+2 have
+1 the 1
+2 wit
+1 senate 1
+2 i
+1 shall 1
+2 be
+1 choose 1
+2 not
+1 from 1
+2 o
+1 them 1
+2 und
+1 by 1
+2 be
+1 ballot 1
+2 desire
+1 the 1
+2 the
+1 the 1
+2 quoru
+1 congress 1
+2 states
+1 may 1
+2 arre
+1 determine 1
+2 a
+1 the 1
+2 into
+1 time 1
+2 by
+1 of 1
+2 united
+1 choosing 1
+2 one
+1 the 1
+2 on
+1 and 1
+2 p
+1 the 1
+2 be
+1 day 1
+2 b
+1 on 1
+2 of
+1 which 1
+2 o
+1 they 1
+2 i
+1 shall 1
+2 the
+1 give 1
+2 hous
+1 their 1
+2 chos
+1 which 1
+2 with
+1 day 1
+2 p
+1 shall 1
+2 st
+1 be 1
+2 exclusive
+1 the 1
+2 o
+1 same 1
+2 grant
+1 throughout 1
+2 an
+1 the 1
+2 authority
+1 united 1
+2 a
+1 no 1
+2 unl
+1 person 1
+2 attendan
+1 except 1
+2 to
+1 a 1
+2 sha
+1 natural 1
+2 b
+1 born 1
+2 prov
+1 or 1
+2 b
+1 a 1
+2 ar
+1 citizen 1
+2 and
+1 of 1
+2 authority
+1 the 1
+2 sever
+1 united 1
+2 cas
+1 at 1
+2 perfec
+1 the 1
+2 o
+1 time 1
+2 pe
+1 of 1
+2 all
+1 the 1
+2 b
+1 adoption 1
+2 th
+1 of 1
+2 servi
+1 this 1
+2 senato
+1 shall 1
+2 the
+1 be 1
+2 f
+1 eligible 1
+2 choosing
+1 to 1
+2 li
+1 the 1
+2 to
+1 office 1
+2 o
+1 of 1
+2 an
+1 neither 1
+2 f
+1 shall 1
+2 a
+1 any 1
+2 wh
+1 person 1
+2 shal
+1 be 1
+2 rebellio
+1 eligible 1
+2 have
+1 to 1
+2 w
+1 that 1
+2 defi
+1 office 1
+2 s
+1 who 1
+2 o
+1 shall 1
+2 the
+1 not 1
+2 remova
+1 have 1
+2 invasion
+1 attained 1
+2 be
+1 to 1
+2 on
+1 the 1
+2 by
+1 age 1
+2 necessar
+1 of 1
+2 a
+1 and 1
+2 respecti
+1 been 1
+2 within
+1 fourteen 1
+2 and
+1 years 1
+2 massachus
+1 a 1
+2 b
+1 resident 1
+2 for
+1 within 1
+2 the
+1 the 1
+2 ti
+1 united 1
+2 if
+1 in 1
+2 an
+1 case 1
+2 or
+1 of 1
+2 ac
+1 the 1
+2 o
+1 removal 1
+2 rh
+1 of 1
+2 from
+1 the 1
+2 congr
+1 president 1
+2 a
+1 from 1
+2 b
+1 or 1
+2 choic
+1 of 1
+2 h
+1 his 1
+2 t
+1 or 1
+2 vo
+1 inability 1
+2 a
+1 to 1
+2 consent
+1 discharge 1
+2 m
+1 the 1
+2 its
+1 powers 1
+2 nin
+1 and 1
+2 weights
+1 duties 1
+2 thirds
+1 of 1
+2 have
+1 the 1
+2 exce
+1 said 1
+2 t
+1 the 1
+2 letters
+1 same 1
+2 it
+1 shall 1
+2 the
+1 devolve 1
+2 dr
+1 on 1
+2 d
+1 the 1
+2 duty
+1 vice 1
+2 peop
+1 and 1
+2 shall
+1 the 1
+2 to
+1 congress 1
+2 insurr
+1 may 1
+2 cho
+1 by 1
+2 fir
+1 law 1
+2 t
+1 provide 1
+2 t
+1 for 1
+2 of
+1 the 1
+2 lette
+1 case 1
+2 fel
+1 of 1
+2 b
+1 resignation 1
+2 agre
+1 or 1
+2 app
+1 both 1
+2 of
+1 of 1
+2 t
+1 the 1
+2 a
+1 president 1
+2 ha
+1 and 1
+2 t
+1 vice 1
+2 o
+1 declaring 1
+2 i
+1 what 1
+2 of
+1 officer 1
+2 gra
+1 shall 1
+2 the
+1 then 1
+2 l
+1 act 1
+2 in
+1 as 1
+2 t
+1 and 1
+2 on
+1 such 1
+2 office
+1 officer 1
+2 p
+1 shall 1
+2 fro
+1 act 1
+2 sub
+1 until 1
+2 valu
+1 the 1
+2 s
+1 disability 1
+2 for
+1 be 1
+2 t
+1 or 1
+2 in
+1 a 1
+2 qualificat
+1 president 1
+2 pun
+1 shall 1
+2 the
+1 be 1
+2 ju
+1 the 1
+2 aut
+1 president 1
+2 a
+1 at 1
+2 in
+1 stated 1
+2 or
+1 receive 1
+2 the
+1 for 1
+2 have
+1 his 1
+2 remov
+1 a 1
+2 provid
+1 which 1
+2 gove
+1 shall 1
+2 i
+1 neither 1
+2 inh
+1 be 1
+2 own
+1 increased 1
+2 o
+1 nor 1
+2 the
+1 diminished 1
+2 importati
+1 during 1
+2 an
+1 the 1
+2 part
+1 period 1
+2 for
+1 for 1
+2 chie
+1 which 1
+2 and
+1 he 1
+2 be
+1 shall 1
+2 who
+1 have 1
+2 concurren
+1 been 1
+2 of
+1 and 1
+2 durin
+1 he 1
+2 and
+1 shall 1
+2 sha
+1 not 1
+2 p
+1 receive 1
+2 w
+1 within 1
+2 hav
+1 that 1
+2 befo
+1 period 1
+2 of
+1 any 1
+2 fi
+1 other 1
+2 h
+1 emolument 1
+2 appointe
+1 from 1
+2 a
+1 the 1
+2 th
+1 united 1
+2 office
+1 or 1
+2 make
+1 any 1
+2 f
+1 of 1
+2 eith
+1 before 1
+2 ea
+1 he 1
+2 privi
+1 enter 1
+2 in
+1 on 1
+2 increase
+1 the 1
+2 o
+1 execution 1
+2 t
+1 of 1
+2 of
+1 his 1
+2 shou
+1 he 1
+2 o
+1 shall 1
+2 b
+1 take 1
+2 th
+1 the 1
+2 punis
+1 following 1
+2 bil
+1 oath 1
+2 all
+1 or 1
+2 in
+1 do 1
+2 of
+1 solemnly 1
+2 years
+1 swear 1
+2 a
+1 that 1
+2 t
+1 i 1
+2 the
+1 will 1
+2 cont
+1 faithfully 1
+2 from
+1 execute 1
+2 h
+1 the 1
+2 sai
+1 office 1
+2 one
+1 of 1
+2 te
+1 president 1
+2 whic
+1 of 1
+2 when
+1 the 1
+2 pr
+1 united 1
+2 thre
+1 and 1
+2 a
+1 will 1
+2 tempor
+1 to 1
+2 and
+1 the 1
+2 the
+1 best 1
+2 t
+1 of 1
+2 con
+1 my 1
+2 num
+1 protect 1
+2 membe
+1 and 1
+2 bo
+1 defend 1
+2 con
+1 the 1
+2 from
+1 constitution 1
+2 unite
+1 of 1
+2 th
+1 the 1
+2 t
+1 united 1
+2 shall
+1 section 1
+2 and
+1 the 1
+2 make
+1 president 1
+2 they
+1 shall 1
+2 p
+1 be 1
+2 t
+1 commander 1
+2 l
+1 in 1
+2 i
+1 chief 1
+2 an
+1 of 1
+2 o
+1 the 1
+2 offic
+1 army 1
+2 an
+1 and 1
+2 cho
+1 navy 1
+2 the
+1 of 1
+2 but
+1 the 1
+2 an
+1 united 1
+2 ascertaine
+1 and 1
+2 have
+1 of 1
+2 which
+1 the 1
+2 of
+1 militia 1
+2 f
+1 of 1
+2 un
+1 the 1
+2 stat
+1 several 1
+2 kee
+1 when 1
+2 i
+1 called 1
+2 na
+1 into 1
+2 th
+1 the 1
+2 un
+1 actual 1
+2 ru
+1 service 1
+2 regulate
+1 of 1
+2 presid
+1 the 1
+2 a
+1 united 1
+2 gra
+1 he 1
+2 m
+1 may 1
+2 the
+1 require 1
+2 agree
+1 the 1
+2 co
+1 in 1
+2 the
+1 of 1
+2 a
+1 the 1
+2 shal
+1 principal 1
+2 sen
+1 officer 1
+2 whic
+1 in 1
+2 for
+1 each 1
+2 the
+1 of 1
+2 t
+1 the 1
+2 th
+1 executive 1
+2 s
+1 upon 1
+2 to
+1 any 1
+2 t
+1 subject 1
+2 t
+1 relating 1
+2 of
+1 to 1
+2 regul
+1 the 1
+2 expen
+1 duties 1
+2 an
+1 of 1
+2 o
+1 their 1
+2 t
+1 respective 1
+2 righ
+1 and 1
+2 the
+1 he 1
+2 at
+1 shall 1
+2 shal
+1 have 1
+2 mor
+1 power 1
+2 the
+1 to 1
+2 un
+1 grant 1
+2 l
+1 reprieves 1
+2 ti
+1 and 1
+2 born
+1 pardons 1
+2 weight
+1 for 1
+2 t
+1 offenses 1
+2 sh
+1 against 1
+2 o
+1 the 1
+2 numb
+1 united 1
+2 the
+1 except 1
+2 t
+1 in 1
+2 ex
+1 cases 1
+2 se
+1 of 1
+2 s
+1 he 1
+2 any
+1 shall 1
+2 happ
+1 have 1
+2 t
+1 by 1
+2 of
+1 and 1
+2 wi
+1 with 1
+2 sup
+1 the 1
+2 u
+1 advice 1
+2 a
+1 and 1
+2 power
+1 consent 1
+2 s
+1 of 1
+2 sect
+1 the 1
+2 mon
+1 to 1
+2 exist
+1 make 1
+2 thei
+1 provided 1
+2 the
+1 two 1
+2 profi
+1 thirds 1
+2 fr
+1 of 1
+2 be
+1 the 1
+2 adm
+1 senators 1
+2 the
+1 present 1
+2 th
+1 and 1
+2 k
+1 he 1
+2 ter
+1 shall 1
+2 form
+1 and 1
+2 a
+1 by 1
+2 of
+1 and 1
+2 proporti
+1 with 1
+2 co
+1 the 1
+2 a
+1 advice 1
+2 execut
+1 and 1
+2 u
+1 consent 1
+2 to
+1 of 1
+2 mor
+1 the 1
+2 on
+1 shall 1
+2 befo
+1 appoint 1
+2 all
+1 other 1
+2 m
+1 public 1
+2 and
+1 ministers 1
+2 a
+1 and 1
+2 nays
+1 judges 1
+2 at
+1 of 1
+2 the
+1 the 1
+2 h
+1 supreme 1
+2 b
+1 and 1
+2 h
+1 all 1
+2 li
+1 other 1
+2 an
+1 officers 1
+2 an
+1 of 1
+2 an
+1 the 1
+2 o
+1 united 1
+2 and
+1 whose 1
+2 t
+1 appointments 1
+2 returnin
+1 are 1
+2 ru
+1 not 1
+2 s
+1 herein 1
+2 b
+1 otherwise 1
+2 be
+1 provided 1
+2 the
+1 and 1
+2 presid
+1 which 1
+2 of
+1 shall 1
+2 se
+1 be 1
+2 servic
+1 established 1
+2 ni
+1 by 1
+2 su
+1 but 1
+2 nu
+1 the 1
+2 n
+1 congress 1
+2 a
+1 may 1
+2 b
+1 by 1
+2 o
+1 law 1
+2 part
+1 vest 1
+2 with
+1 the 1
+2 pres
+1 appointment 1
+2 u
+1 of 1
+2 b
+1 such 1
+2 o
+1 inferior 1
+2 for
+1 as 1
+2 as
+1 they 1
+2 of
+1 think 1
+2 inhabi
+1 in 1
+2 raisi
+1 the 1
+2 h
+1 president 1
+2 whose
+1 in 1
+2 op
+1 the 1
+2 ho
+1 courts 1
+2 and
+1 of 1
+2 th
+1 or 1
+2 at
+1 in 1
+2 e
+1 the 1
+2 all
+1 heads 1
+2 a
+1 of 1
+2 massach
+1 the 1
+2 the
+1 president 1
+2 c
+1 shall 1
+2 manne
+1 have 1
+2 an
+1 power 1
+2 pro
+1 to 1
+2 be
+1 fill 1
+2 b
+1 up 1
+2 ma
+1 all 1
+2 i
+1 vacancies 1
+2 law
+1 that 1
+2 of
+1 may 1
+2 w
+1 happen 1
+2 ma
+1 during 1
+2 i
+1 the 1
+2 ther
+1 recess 1
+2 for
+1 of 1
+2 state
+1 the 1
+2 t
+1 by 1
+2 th
+1 granting 1
+2 be
+1 commissions 1
+2 th
+1 which 1
+2 the
+1 shall 1
+2 elect
+1 expire 1
+2 lia
+1 at 1
+2 each
+1 the 1
+2 i
+1 end 1
+2 sh
+1 of 1
+2 nume
+1 their 1
+2 the
+1 next 1
+2 spe
+1 section 1
+2 the
+1 he 1
+2 and
+1 shall 1
+2 o
+1 from 1
+2 shall
+1 time 1
+2 by
+1 to 1
+2 h
+1 time 1
+2 an
+1 give 1
+2 sen
+1 to 1
+2 th
+1 the 1
+2 during
+1 congress 1
+2 b
+1 information 1
+2 of
+1 of 1
+2 no
+1 the 1
+2 o
+1 state 1
+2 g
+1 of 1
+2 numerous
+1 the 1
+2 o
+1 and 1
+2 lett
+1 recommend 1
+2 into
+1 to 1
+2 appoi
+1 their 1
+2 reconsideration
+1 consideration 1
+2 per
+1 such 1
+2 p
+1 measures 1
+2 the
+1 as 1
+2 sh
+1 he 1
+2 it
+1 shall 1
+2 t
+1 judge 1
+2 tender
+1 necessary 1
+2 such
+1 and 1
+2 vic
+1 he 1
+2 be
+1 on 1
+2 w
+1 extraordinary 1
+2 c
+1 convene 1
+2 several
+1 both 1
+2 shal
+1 or 1
+2 th
+1 either 1
+2 an
+1 of 1
+2 off
+1 and 1
+2 o
+1 in 1
+2 mon
+1 case 1
+2 parts
+1 of 1
+2 o
+1 disagreement 1
+2 mak
+1 between 1
+2 at
+1 with 1
+2 inc
+1 respect 1
+2 n
+1 to 1
+2 make
+1 the 1
+2 lis
+1 time 1
+2 t
+1 of 1
+2 to
+1 he 1
+2 no
+1 may 1
+2 commerc
+1 adjourn 1
+2 t
+1 them 1
+2 a
+1 to 1
+2 the
+1 such 1
+2 repassed
+1 time 1
+2 they
+1 as 1
+2 m
+1 he 1
+2 sh
+1 shall 1
+2 m
+1 think 1
+2 t
+1 he 1
+2 d
+1 shall 1
+2 t
+1 receive 1
+2 the
+1 ambassadors 1
+2 with
+1 and 1
+2 a
+1 other 1
+2 a
+1 public 1
+2 citiz
+1 he 1
+2 l
+1 shall 1
+2 b
+1 take 1
+2 t
+1 care 1
+2 shal
+1 that 1
+2 house
+1 the 1
+2 bo
+1 laws 1
+2 to
+1 be 1
+2 chi
+1 faithfully 1
+2 the
+1 and 1
+2 an
+1 shall 1
+2 th
+1 commission 1
+2 s
+1 all 1
+2 o
+1 the 1
+2 b
+1 officers 1
+2 th
+1 of 1
+2 of
+1 the 1
+2 herei
+1 united 1
+2 other
+1 section 1
+2 shal
+1 the 1
+2 i
+1 vice 1
+2 be
+1 president 1
+2 wh
+1 and 1
+2 an
+1 all 1
+2 sh
+1 civil 1
+2 liabl
+1 officers 1
+2 be
+1 of 1
+2 ha
+1 the 1
+2 s
+1 united 1
+2 durin
+1 shall 1
+2 sh
+1 be 1
+2 thi
+1 removed 1
+2 wit
+1 from 1
+2 o
+1 office 1
+2 b
+1 on 1
+2 a
+1 impeachment 1
+2 by
+1 and 1
+2 no
+1 conviction 1
+2 civil
+1 or 1
+2 t
+1 other 1
+2 recess
+1 high 1
+2 of
+1 crimes 1
+2 w
+1 and 1
+2 ha
+1 article 1
+2 choos
+1 section 1
+2 that
+1 the 1
+2 the
+1 judicial 1
+2 a
+1 power 1
+2 m
+1 of 1
+2 holdin
+1 the 1
+2 sh
+1 united 1
+2 w
+1 shall 1
+2 fre
+1 be 1
+2 the
+1 vested 1
+2 a
+1 in 1
+2 the
+1 one 1
+2 to
+1 supreme 1
+2 o
+1 and 1
+2 weights
+1 in 1
+2 ti
+1 such 1
+2 the
+1 inferior 1
+2 law
+1 courts 1
+2 places
+1 as 1
+2 case
+1 the 1
+2 a
+1 congress 1
+2 and
+1 may 1
+2 gr
+1 from 1
+2 of
+1 time 1
+2 sh
+1 to 1
+2 by
+1 time 1
+2 a
+1 ordain 1
+2 s
+1 and 1
+2 th
+1 the 1
+2 thin
+1 both 1
+2 t
+1 of 1
+2 thirds
+1 the 1
+2 t
+1 supreme 1
+2 t
+1 and 1
+2 r
+1 inferior 1
+2 wi
+1 shall 1
+2 a
+1 hold 1
+2 n
+1 their 1
+2 senators
+1 offices 1
+2 but
+1 during 1
+2 any
+1 good 1
+2 shal
+1 and 1
+2 of
+1 at 1
+2 their
+1 stated 1
+2 whol
+1 receive 1
+2 appointed
+1 for 1
+2 this
+1 their 1
+2 o
+1 services 1
+2 whi
+1 a 1
+2 or
+1 compensation 1
+2 y
+1 which 1
+2 d
+1 shall 1
+2 return
+1 not 1
+2 of
+1 be 1
+2 members
+1 diminished 1
+2 a
+1 during 1
+2 a
+1 their 1
+2 w
+1 continuance 1
+2 bu
+1 in 1
+2 and
+1 section 1
+2 pos
+1 the 1
+2 be
+1 judicial 1
+2 of
+1 power 1
+2 an
+1 shall 1
+2 presid
+1 extend 1
+2 ballo
+1 to 1
+2 acc
+1 all 1
+2 c
+1 in 1
+2 ordai
+1 law 1
+2 bee
+1 and 1
+2 m
+1 arising 1
+2 o
+1 under 1
+2 i
+1 this 1
+2 ha
+1 the 1
+2 th
+1 laws 1
+2 the
+1 of 1
+2 sh
+1 the 1
+2 t
+1 united 1
+2 fo
+1 and 1
+2 on
+1 treaties 1
+2 said
+1 or 1
+2 o
+1 which 1
+2 sha
+1 shall 1
+2 for
+1 be 1
+2 o
+1 under 1
+2 uni
+1 their 1
+2 sta
+1 to 1
+2 milit
+1 all 1
+2 te
+1 cases 1
+2 the
+1 affecting 1
+2 of
+1 other 1
+2 liber
+1 public 1
+2 inha
+1 ministers 1
+2 nor
+1 and 1
+2 vo
+1 to 1
+2 t
+1 all 1
+2 house
+1 cases 1
+2 pir
+1 of 1
+2 l
+1 admiralty 1
+2 wha
+1 and 1
+2 constituti
+1 maritime 1
+2 tempora
+1 to 1
+2 hu
+1 controversies 1
+2 shal
+1 to 1
+2 p
+1 which 1
+2 new
+1 the 1
+2 united
+1 united 1
+2 excep
+1 states 1
+2 of
+1 shall 1
+2 on
+1 be 1
+2 o
+1 a 1
+2 and
+1 to 1
+2 exp
+1 controversies 1
+2 th
+1 between 1
+2 o
+1 two 1
+2 proc
+1 or 1
+2 nava
+1 more 1
+2 to
+1 between 1
+2 of
+1 a 1
+2 in
+1 state 1
+2 appoi
+1 and 1
+2 shall
+1 citizens 1
+2 or
+1 of 1
+2 sec
+1 another 1
+2 fo
+1 between 1
+2 t
+1 citizens 1
+2 an
+1 of 1
+2 th
+1 different 1
+2 b
+1 between 1
+2 i
+1 citizens 1
+2 be
+1 of 1
+2 t
+1 the 1
+2 wil
+1 same 1
+2 o
+1 state 1
+2 i
+1 claiming 1
+2 ot
+1 lands 1
+2 shal
+1 under 1
+2 and
+1 grants 1
+2 i
+1 of 1
+2 t
+1 different 1
+2 of
+1 and 1
+2 be
+1 between 1
+2 a
+1 a 1
+2 he
+1 or 1
+2 n
+1 the 1
+2 b
+1 citizens 1
+2 party
+1 and 1
+2 the
+1 foreign 1
+2 ma
+1 citizens 1
+2 an
+1 or 1
+2 on
+1 in 1
+2 who
+1 all 1
+2 the
+1 cases 1
+2 manner
+1 affecting 1
+2 t
+1 other 1
+2 rema
+1 public 1
+2 b
+1 ministers 1
+2 the
+1 and 1
+2 of
+1 and 1
+2 vice
+1 those 1
+2 ot
+1 in 1
+2 o
+1 which 1
+2 in
+1 a 1
+2 may
+1 state 1
+2 st
+1 shall 1
+2 b
+1 be 1
+2 wh
+1 the 1
+2 h
+1 supreme 1
+2 sh
+1 court 1
+2 or
+1 shall 1
+2 hi
+1 have 1
+2 any
+1 original 1
+2 p
+1 in 1
+2 sha
+1 all 1
+2 the
+1 the 1
+2 actu
+1 other 1
+2 ci
+1 cases 1
+2 t
+1 before 1
+2 nort
+1 the 1
+2 welfa
+1 supreme 1
+2 nu
+1 court 1
+2 af
+1 shall 1
+2 legislatur
+1 have 1
+2 b
+1 appellate 1
+2 maintain
+1 both 1
+2 those
+1 as 1
+2 impost
+1 to 1
+2 no
+1 law 1
+2 sam
+1 and 1
+2 b
+1 with 1
+2 the
+1 such 1
+2 in
+1 and 1
+2 up
+1 under 1
+2 marylan
+1 such 1
+2 defi
+1 regulations 1
+2 t
+1 as 1
+2 of
+1 the 1
+2 according
+1 congress 1
+2 f
+1 shall 1
+2 unite
+1 the 1
+2 m
+1 trial 1
+2 p
+1 of 1
+2 uni
+1 all 1
+2 to
+1 except 1
+2 called
+1 in 1
+2 of
+1 cases 1
+2 o
+1 of 1
+2 t
+1 shall 1
+2 f
+1 be 1
+2 s
+1 by 1
+2 we
+1 and 1
+2 be
+1 such 1
+2 immediate
+1 trial 1
+2 ha
+1 shall 1
+2 a
+1 be 1
+2 cont
+1 held 1
+2 t
+1 in 1
+2 la
+1 the 1
+2 treasur
+1 state 1
+2 s
+1 where 1
+2 o
+1 the 1
+2 commissi
+1 said 1
+2 bil
+1 crimes 1
+2 co
+1 shall 1
+2 states
+1 have 1
+2 du
+1 been 1
+2 o
+1 but 1
+2 s
+1 when 1
+2 con
+1 not 1
+2 s
+1 committed 1
+2 ho
+1 within 1
+2 any
+1 any 1
+2 nec
+1 the 1
+2 the
+1 trial 1
+2 which
+1 shall 1
+2 public
+1 be 1
+2 the
+1 at 1
+2 p
+1 such 1
+2 ti
+1 place 1
+2 shal
+1 or 1
+2 then
+1 places 1
+2 b
+1 as 1
+2 in
+1 the 1
+2 c
+1 congress 1
+2 a
+1 may 1
+2 t
+1 by 1
+2 t
+1 law 1
+2 thei
+1 have 1
+2 term
+1 section 1
+2 every
+1 treason 1
+2 an
+1 against 1
+2 or
+1 the 1
+2 appe
+1 united 1
+2 th
+1 shall 1
+2 b
+1 consist 1
+2 re
+1 only 1
+2 at
+1 in 1
+2 requir
+1 levying 1
+2 suc
+1 war 1
+2 an
+1 against 1
+2 th
+1 or 1
+2 c
+1 in 1
+2 sta
+1 adhering 1
+2 a
+1 to 1
+2 inferior
+1 their 1
+2 i
+1 giving 1
+2 o
+1 them 1
+2 un
+1 aid 1
+2 be
+1 and 1
+2 law
+1 no 1
+2 a
+1 person 1
+2 b
+1 shall 1
+2 t
+1 be 1
+2 of
+1 convicted 1
+2 no
+1 of 1
+2 presente
+1 treason 1
+2 s
+1 unless 1
+2 p
+1 on 1
+2 be
+1 the 1
+2 bil
+1 testimony 1
+2 b
+1 of 1
+2 officers
+1 two 1
+2 co
+1 witnesses 1
+2 an
+1 to 1
+2 visit
+1 the 1
+2 p
+1 same 1
+2 the
+1 overt 1
+2 toge
+1 or 1
+2 or
+1 on 1
+2 tha
+1 confession 1
+2 and
+1 in 1
+2 sh
+1 open 1
+2 o
+1 the 1
+2 become
+1 congress 1
+2 an
+1 shall 1
+2 an
+1 have 1
+2 an
+1 power 1
+2 appoint
+1 to 1
+2 a
+1 declare 1
+2 sol
+1 the 1
+2 place
+1 punishment 1
+2 when
+1 of 1
+2 offi
+1 but 1
+2 all
+1 no 1
+2 by
+1 attainder 1
+2 consi
+1 of 1
+2 and
+1 treason 1
+2 choosin
+1 shall 1
+2 meeting
+1 work 1
+2 for
+1 corruption 1
+2 of
+1 of 1
+2 th
+1 or 1
+2 constit
+1 forfeiture 1
+2 the
+1 except 1
+2 ex
+1 during 1
+2 i
+1 the 1
+2 sh
+1 life 1
+2 by
+1 of 1
+2 min
+1 the 1
+2 be
+1 person 1
+2 all
+1 article 1
+2 open
+1 section 1
+2 a
+1 full 1
+2 t
+1 faith 1
+2 i
+1 and 1
+2 members
+1 credit 1
+2 t
+1 shall 1
+2 th
+1 be 1
+2 the
+1 given 1
+2 trea
+1 in 1
+2 befor
+1 each 1
+2 h
+1 state 1
+2 the
+1 to 1
+2 b
+1 the 1
+2 sha
+1 public 1
+2 conse
+1 and 1
+2 ma
+1 judicial 1
+2 at
+1 proceedings 1
+2 th
+1 of 1
+2 o
+1 every 1
+2 f
+1 other 1
+2 t
+1 and 1
+2 an
+1 the 1
+2 unles
+1 congress 1
+2 not
+1 may 1
+2 ship
+1 by 1
+2 main
+1 general 1
+2 and
+1 laws 1
+2 law
+1 prescribe 1
+2 state
+1 the 1
+2 puni
+1 manner 1
+2 a
+1 in 1
+2 s
+1 which 1
+2 al
+1 such 1
+2 or
+1 records 1
+2 la
+1 and 1
+2 gre
+1 proceedings 1
+2 a
+1 shall 1
+2 s
+1 be 1
+2 to
+1 and 1
+2 remova
+1 the 1
+2 wh
+1 effect 1
+2 titl
+1 section 1
+2 a
+1 the 1
+2 of
+1 citizens 1
+2 congr
+1 of 1
+2 a
+1 each 1
+2 wh
+1 state 1
+2 th
+1 shall 1
+2 t
+1 be 1
+2 th
+1 entitled 1
+2 bu
+1 to 1
+2 va
+1 all 1
+2 not
+1 privileges 1
+2 a
+1 and 1
+2 sh
+1 immunities 1
+2 to
+1 of 1
+2 a
+1 citizens 1
+2 emp
+1 in 1
+2 pow
+1 the 1
+2 the
+1 several 1
+2 t
+1 a 1
+2 i
+1 person 1
+2 a
+1 charged 1
+2 to
+1 in 1
+2 offenses
+1 any 1
+2 th
+1 state 1
+2 h
+1 with 1
+2 of
+1 or 1
+2 they
+1 other 1
+2 a
+1 who 1
+2 on
+1 shall 1
+2 b
+1 flee 1
+2 th
+1 from 1
+2 ho
+1 and 1
+2 establis
+1 be 1
+2 again
+1 found 1
+2 the
+1 in 1
+2 an
+1 another 1
+2 st
+1 shall 1
+2 the
+1 on 1
+2 o
+1 demand 1
+2 th
+1 of 1
+2 sh
+1 the 1
+2 or
+1 executive 1
+2 army
+1 authority 1
+2 o
+1 of 1
+2 a
+1 the 1
+2 o
+1 state 1
+2 d
+1 from 1
+2 be
+1 which 1
+2 testi
+1 he 1
+2 req
+1 be 1
+2 ra
+1 delivered 1
+2 sh
+1 to 1
+2 o
+1 be 1
+2 v
+1 removed 1
+2 eac
+1 to 1
+2 which
+1 the 1
+2 s
+1 state 1
+2 credi
+1 having 1
+2 for
+1 jurisdiction 1
+2 ra
+1 of 1
+2 office
+1 the 1
+2 b
+1 no 1
+2 regul
+1 person 1
+2 bal
+1 held 1
+2 be
+1 to 1
+2 proceed
+1 service 1
+2 t
+1 or 1
+2 be
+1 labour 1
+2 be
+1 in 1
+2 meas
+1 one 1
+2 pers
+1 under 1
+2 b
+1 the 1
+2 in
+1 laws 1
+2 a
+1 escaping 1
+2 eit
+1 into 1
+2 with
+1 in 1
+2 a
+1 consequence 1
+2 tempora
+1 of 1
+2 in
+1 any 1
+2 the
+1 law 1
+2 of
+1 or 1
+2 exercis
+1 regulation 1
+2 prov
+1 be 1
+2 o
+1 discharged 1
+2 cho
+1 from 1
+2 per
+1 such 1
+2 pr
+1 service 1
+2 ch
+1 or 1
+2 the
+1 but 1
+2 unt
+1 shall 1
+2 th
+1 be 1
+2 oblige
+1 delivered 1
+2 an
+1 up 1
+2 h
+1 on 1
+2 fur
+1 claim 1
+2 requ
+1 of 1
+2 t
+1 the 1
+2 incr
+1 party 1
+2 be
+1 to 1
+2 no
+1 whom 1
+2 a
+1 such 1
+2 an
+1 service 1
+2 mo
+1 or 1
+2 f
+1 labour 1
+2 hav
+1 may 1
+2 of
+1 be 1
+2 the
+1 section 1
+2 m
+1 new 1
+2 exclus
+1 states 1
+2 laws
+1 may 1
+2 o
+1 be 1
+2 t
+1 admitted 1
+2 b
+1 by 1
+2 the
+1 the 1
+2 o
+1 congress 1
+2 suc
+1 into 1
+2 o
+1 this 1
+2 gr
+1 but 1
+2 to
+1 no 1
+2 b
+1 new 1
+2 bu
+1 states 1
+2 oblige
+1 shall 1
+2 y
+1 be 1
+2 them
+1 formed 1
+2 house
+1 or 1
+2 th
+1 erected 1
+2 shal
+1 within 1
+2 thirt
+1 the 1
+2 the
+1 jurisdiction 1
+2 t
+1 of 1
+2 o
+1 any 1
+2 immediat
+1 other 1
+2 annotated
+1 nor 1
+2 t
+1 any 1
+2 o
+1 state 1
+2 exceedin
+1 be 1
+2 constitu
+1 formed 1
+2 a
+1 by 1
+2 e
+1 the 1
+2 be
+1 junction 1
+2 state
+1 of 1
+2 exe
+1 two 1
+2 sha
+1 or 1
+2 t
+1 more 1
+2 of
+1 or 1
+2 have
+1 parts 1
+2 regula
+1 of 1
+2 sam
+1 without 1
+2 a
+1 the 1
+2 s
+1 consent 1
+2 recom
+1 of 1
+2 whic
+1 the 1
+2 be
+1 legislatures 1
+2 artic
+1 of 1
+2 th
+1 the 1
+2 ca
+1 states 1
+2 n
+1 concerned 1
+2 aut
+1 as 1
+2 o
+1 well 1
+2 any
+1 as 1
+2 o
+1 of 1
+2 st
+1 the 1
+2 n
+1 the 1
+2 i
+1 congress 1
+2 a
+1 shall 1
+2 f
+1 have 1
+2 b
+1 power 1
+2 sea
+1 to 1
+2 he
+1 dispose 1
+2 of
+1 of 1
+2 effe
+1 and 1
+2 by
+1 make 1
+2 c
+1 all 1
+2 a
+1 needful 1
+2 a
+1 rules 1
+2 office
+1 and 1
+2 o
+1 regulations 1
+2 member
+1 respecting 1
+2 f
+1 the 1
+2 s
+1 territory 1
+2 ke
+1 or 1
+2 within
+1 other 1
+2 whereo
+1 property 1
+2 first
+1 belonging 1
+2 and
+1 to 1
+2 t
+1 the 1
+2 of
+1 united 1
+2 impeachm
+1 and 1
+2 an
+1 nothing 1
+2 united
+1 in 1
+2 all
+1 this 1
+2 for
+1 constitution 1
+2 uni
+1 shall 1
+2 o
+1 be 1
+2 b
+1 so 1
+2 o
+1 construed 1
+2 the
+1 as 1
+2 th
+1 to 1
+2 post
+1 prejudice 1
+2 b
+1 any 1
+2 minist
+1 claims 1
+2 th
+1 of 1
+2 sha
+1 the 1
+2 n
+1 united 1
+2 o
+1 or 1
+2 num
+1 of 1
+2 s
+1 any 1
+2 o
+1 particular 1
+2 b
+1 section 1
+2 seve
+1 the 1
+2 fo
+1 united 1
+2 a
+1 states 1
+2 o
+1 shall 1
+2 t
+1 guarantee 1
+2 neces
+1 to 1
+2 uni
+1 every 1
+2 a
+1 state 1
+2 commiss
+1 in 1
+2 unle
+1 this 1
+2 m
+1 union 1
+2 i
+1 a 1
+2 c
+1 republican 1
+2 con
+1 form 1
+2 to
+1 of 1
+2 wh
+1 and 1
+2 n
+1 shall 1
+2 pro
+1 protect 1
+2 du
+1 each 1
+2 o
+1 of 1
+2 fo
+1 them 1
+2 ann
+1 against 1
+2 th
+1 and 1
+2 a
+1 on 1
+2 an
+1 application 1
+2 com
+1 of 1
+2 gover
+1 the 1
+2 o
+1 or 1
+2 incr
+1 of 1
+2 u
+1 the 1
+2 be
+1 executive 1
+2 t
+1 the 1
+2 o
+1 legislature 1
+2 to
+1 cannot 1
+2 recon
+1 be 1
+2 h
+1 against 1
+2 mi
+1 domestic 1
+2 shal
+1 article 1
+2 the
+1 the 1
+2 wh
+1 whenever 1
+2 appo
+1 two 1
+2 but
+1 thirds 1
+2 wi
+1 of 1
+2 powers
+1 both 1
+2 presid
+1 houses 1
+2 office
+1 shall 1
+2 co
+1 deem 1
+2 th
+1 it 1
+2 o
+1 shall 1
+2 of
+1 propose 1
+2 land
+1 amendments 1
+2 tim
+1 to 1
+2 the
+1 this 1
+2 an
+1 on 1
+2 of
+1 the 1
+2 unti
+1 application 1
+2 in
+1 of 1
+2 stat
+1 the 1
+2 open
+1 legislatures 1
+2 laws
+1 of 1
+2 in
+1 two 1
+2 maryl
+1 thirds 1
+2 concer
+1 of 1
+2 kee
+1 the 1
+2 orig
+1 several 1
+2 t
+1 shall 1
+2 crimes
+1 call 1
+2 and
+1 a 1
+2 in
+1 convention 1
+2 sev
+1 for 1
+2 b
+1 proposing 1
+2 he
+1 in 1
+2 of
+1 either 1
+2 o
+1 shall 1
+2 sh
+1 be 1
+2 or
+1 valid 1
+2 t
+1 to 1
+2 o
+1 all 1
+2 eligib
+1 intents 1
+2 dis
+1 and 1
+2 befor
+1 as 1
+2 s
+1 part 1
+2 w
+1 of 1
+2 n
+1 this 1
+2 t
+1 when 1
+2 to
+1 ratified 1
+2 w
+1 by 1
+2 i
+1 the 1
+2 n
+1 legislatures 1
+2 presc
+1 of 1
+2 i
+1 three 1
+2 presiden
+1 fourths 1
+2 b
+1 of 1
+2 electio
+1 the 1
+2 majori
+1 several 1
+2 t
+1 or 1
+2 of
+1 by 1
+2 pro
+1 conventions 1
+2 i
+1 in 1
+2 w
+1 three 1
+2 immin
+1 fourths 1
+2 any
+1 as 1
+2 i
+1 the 1
+2 b
+1 one 1
+2 sha
+1 or 1
+2 to
+1 the 1
+2 term
+1 other 1
+2 a
+1 mode 1
+2 repub
+1 of 1
+2 citizen
+1 ratification 1
+2 ha
+1 may 1
+2 tha
+1 be 1
+2 a
+1 proposed 1
+2 provi
+1 by 1
+2 hous
+1 the 1
+2 pu
+1 provided 1
+2 article
+1 that 1
+2 i
+1 no 1
+2 commo
+1 amendment 1
+2 t
+1 which 1
+2 increa
+1 may 1
+2 o
+1 be 1
+2 o
+1 made 1
+2 hi
+1 prior 1
+2 sha
+1 to 1
+2 of
+1 the 1
+2 o
+1 year 1
+2 th
+1 one 1
+2 h
+1 thousand 1
+2 th
+1 eight 1
+2 wi
+1 hundred 1
+2 s
+1 and 1
+2 a
+1 eight 1
+2 th
+1 shall 1
+2 a
+1 in 1
+2 v
+1 any 1
+2 unl
+1 manner 1
+2 u
+1 affect 1
+2 ve
+1 the 1
+2 be
+1 first 1
+2 and
+1 and 1
+2 constitu
+1 fourth 1
+2 dutie
+1 clauses 1
+2 s
+1 in 1
+2 v
+1 the 1
+2 publish
+1 ninth 1
+2 over
+1 section 1
+2 re
+1 of 1
+2 an
+1 the 1
+2 the
+1 first 1
+2 of
+1 and 1
+2 marq
+1 that 1
+2 an
+1 no 1
+2 w
+1 without 1
+2 pu
+1 its 1
+2 t
+1 shall 1
+2 da
+1 be 1
+2 hab
+1 deprived 1
+2 th
+1 of 1
+2 an
+1 its 1
+2 th
+1 equal 1
+2 t
+1 suffrage 1
+2 an
+1 in 1
+2 me
+1 the 1
+2 rev
+1 article 1
+2 inspec
+1 all 1
+2 next
+1 debts 1
+2 of
+1 contracted 1
+2 whic
+1 and 1
+2 or
+1 engagements 1
+2 st
+1 entered 1
+2 t
+1 before 1
+2 ar
+1 the 1
+2 or
+1 adoption 1
+2 of
+1 of 1
+2 sen
+1 this 1
+2 absenc
+1 shall 1
+2 and
+1 be 1
+2 a
+1 as 1
+2 o
+1 valid 1
+2 of
+1 against 1
+2 th
+1 the 1
+2 grants
+1 united 1
+2 e
+1 states 1
+2 t
+1 under 1
+2 ne
+1 this 1
+2 of
+1 as 1
+2 h
+1 under 1
+2 sha
+1 the 1
+2 o
+1 this 1
+2 admir
+1 and 1
+2 th
+1 the 1
+2 t
+1 laws 1
+2 a
+1 of 1
+2 i
+1 the 1
+2 es
+1 united 1
+2 reconsid
+1 states 1
+2 t
+1 which 1
+2 s
+1 shall 1
+2 o
+1 be 1
+2 af
+1 made 1
+2 o
+1 in 1
+2 t
+1 pursuance 1
+2 in
+1 and 1
+2 t
+1 all 1
+2 a
+1 treaties 1
+2 compa
+1 or 1
+2 to
+1 which 1
+2 pa
+1 shall 1
+2 b
+1 be 1
+2 o
+1 under 1
+2 be
+1 the 1
+2 t
+1 authority 1
+2 sh
+1 of 1
+2 s
+1 the 1
+2 i
+1 united 1
+2 of
+1 shall 1
+2 ea
+1 be 1
+2 a
+1 the 1
+2 th
+1 supreme 1
+2 o
+1 law 1
+2 o
+1 of 1
+2 m
+1 the 1
+2 ord
+1 and 1
+2 b
+1 the 1
+2 ne
+1 judges 1
+2 of
+1 in 1
+2 represe
+1 every 1
+2 th
+1 state 1
+2 a
+1 shall 1
+2 o
+1 be 1
+2 its
+1 bound 1
+2 the
+1 any 1
+2 the
+1 thing 1
+2 th
+1 in 1
+2 te
+1 the 1
+2 appointme
+1 constitution 1
+2 inspectio
+1 or 1
+2 a
+1 laws 1
+2 be
+1 of 1
+2 or
+1 any 1
+2 inhab
+1 state 1
+2 a
+1 to 1
+2 an
+1 the 1
+2 p
+1 contrary 1
+2 on
+1 the 1
+2 have
+1 senators 1
+2 b
+1 and 1
+2 u
+1 representatives 1
+2 con
+1 before 1
+2 infer
+1 and 1
+2 a
+1 the 1
+2 fo
+1 members 1
+2 be
+1 of 1
+2 citiz
+1 the 1
+2 n
+1 several 1
+2 t
+1 state 1
+2 shou
+1 and 1
+2 shal
+1 all 1
+2 st
+1 executive 1
+2 ti
+1 and 1
+2 secti
+1 judicial 1
+2 of
+1 both 1
+2 not
+1 of 1
+2 a
+1 the 1
+2 o
+1 united 1
+2 e
+1 states 1
+2 c
+1 and 1
+2 severa
+1 of 1
+2 b
+1 the 1
+2 laws
+1 several 1
+2 s
+1 shall 1
+2 jurisdict
+1 be 1
+2 subject
+1 bound 1
+2 in
+1 by 1
+2 respect
+1 oath 1
+2 the
+1 or 1
+2 en
+1 to 1
+2 disch
+1 support 1
+2 establish
+1 this 1
+2 unit
+1 but 1
+2 sec
+1 no 1
+2 const
+1 religious 1
+2 o
+1 test 1
+2 whi
+1 shall 1
+2 o
+1 ever 1
+2 o
+1 be 1
+2 be
+1 required 1
+2 b
+1 as 1
+2 o
+1 a 1
+2 i
+1 qualification 1
+2 th
+1 to 1
+2 such
+1 any 1
+2 o
+1 office 1
+2 t
+1 or 1
+2 mone
+1 public 1
+2 tim
+1 trust 1
+2 t
+1 under 1
+2 ma
+1 the 1
+2 t
+1 united 1
+2 enumera
+1 article 1
+2 e
+1 the 1
+2 unless
+1 ratification 1
+2 betwe
+1 of 1
+2 pr
+1 the 1
+2 not
+1 conventions 1
+2 befo
+1 of 1
+2 and
+1 nine 1
+2 t
+1 shall 1
+2 exci
+1 be 1
+2 consi
+1 sufficient 1
+2 o
+1 for 1
+2 and
+1 the 1
+2 but
+1 establishment 1
+2 te
+1 of 1
+2 appoin
+1 this 1
+2 shal
+1 constitution 1
+2 a
+1 between 1
+2 t
+1 the 1
+2 at
+1 states 1
+2 t
+1 so 1
+2 repres
+1 ratifying 1
+2 fr
+1 the 1
+2 wh
+1 done 1
+2 th
+1 in 1
+2 th
+1 convention 1
+2 th
+1 by 1
+2 the
+1 the 1
+2 expirat
+1 unanimous 1
+2 supreme
+1 consent 1
+2 conside
+1 of 1
+2 new
+1 the 1
+2 in
+1 states 1
+2 u
+1 present 1
+2 prov
+1 the 1
+2 nei
+1 seventeenth 1
+2 w
+1 day 1
+2 sta
+1 of 1
+2 shall
+1 september 1
+2 citize
+1 in 1
+2 the
+1 the 1
+2 i
+1 year 1
+2 jour
+1 of 1
+2 o
+1 our 1
+2 he
+1 lord 1
+2 ball
+1 one 1
+2 be
+1 thousand 1
+2 t
+1 seven 1
+2 sh
+1 hundred 1
+2 n
+1 and 1
+2 h
+1 eighty 1
+2 advice
+1 seven 1
+2 ho
+1 and 1
+2 of
+1 of 1
+2 exp
+1 the 1
+2 mo
+1 independence 1
+2 i
+1 of 1
+2 disapprove
+1 the 1
+2 cont
+1 united 1
+2 sen
+1 states 1
+2 o
+1 of 1
+2 the
+1 america 1
+2 an
+1 the 1
+2 a
+1 in 1
+2 four
+1 witness 1
+2 whic
+1 whereof 1
+2 consequence
+1 we 1
+2 the
+1 have 1
+2 im
+1 hereunto 1
+2 t
+1 subscribed 1
+2 to
+1 our 1
+2 t
+1 george 1
+2 t
+1 washington 1
+2 inhabita
+1 president 1
+2 ma
+1 and 1
+2 fr
+1 deputy 1
+2 and
+1 from 1
+2 th
+1 virginia 1
+2 stat
+1 new 1
+2 hab
+1 hampshire 1
+2 o
+1 john 1
+2 exe
+1 nicholas 1
+2 sh
+1 gilman 1
+2 tog
+1 massachusetts 1
+2 shal
+1 nathaniel 1
+2 duri
+1 rufus 1
+2 necessar
+1 king 1
+2 co
+1 connecticut 1
+2 all
+1 william 1
+2 of
+1 samuel 1
+2 conventi
+1 roger 1
+2 unle
+1 sherman 1
+2 t
+1 new 1
+2 b
+1 york 1
+2 and
+1 alexander 1
+2 them
+1 hamilton 1
+2 t
+1 new 1
+2 de
+1 jersey 1
+2 me
+1 william 1
+2 for
+1 david 1
+2 w
+1 william 1
+2 o
+1 jonathan 1
+2 th
+1 dayton 1
+2 be
+1 pennsylvania 1
+2 par
+1 benjamin 1
+2 or
+1 thomas 1
+2 shall
+1 robert 1
+2 on
+1 george 1
+2 mem
+1 thomas 1
+2 la
+1 jared 1
+2 o
+1 james 1
+2 e
+1 gouvernour 1
+2 in
+1 morris 1
+2 i
+1 delaware 1
+2 o
+1 george 1
+2 pr
+1 gunning 1
+2 mar
+1 bedford 1
+2 on
+1 john 1
+2 exerci
+1 richard 1
+2 and
+1 jacob 1
+2 united
+1 broom 1
+2 sha
+1 maryland 1
+2 s
+1 james 1
+2 o
+1 daniel 1
+2 t
+1 of 1
+2 t
+1 st 1
+2 a
+1 thomas 1
+2 b
+1 daniel 1
+2 i
+1 carroll 1
+2 fr
+1 virginia 1
+2 f
+1 john 1
+2 t
+1 james 1
+2 hold
+1 madison 1
+2 of
+1 north 1
+2 been
+1 carolina 1
+2 t
+1 william 1
+2 a
+1 richard 1
+2 ev
+1 dobbs 1
+2 dutie
+1 hugh 1
+2 d
+1 williamson 1
+2 i
+1 south 1
+2 serv
+1 carolina 1
+2 on
+1 john 1
+2 sha
+1 charles 1
+2 l
+1 cotesworth 1
+2 sena
+1 charles 1
+2 had
+1 pierce 1
+2 houses
+1 butler 1
+2 choo
+1 georgia 1
+2 shall
+1 william 1
+2 s
+1 abraham 1
+2 shal
+1 baldwin 1
+2 the
+1 william 1
+2 t
+1 secretary 1
+2 b
+1 amendment 1
+2 pursuan
+1 congress 1
+2 by
+1 shall 1
+2 t
+1 make 1
+2 ot
+1 no 1
+2 prevent
+1 law 1
+2 stat
+1 respecting 1
+2 to
+1 an 1
+2 al
+1 establishment 1
+2 peop
+1 of 1
+2 enumer
+1 or 1
+2 hou
+1 prohibiting 1
+2 ever
+1 the 1
+2 shall
+1 free 1
+2 fift
+1 exercise 1
+2 or
+1 or 1
+2 co
+1 abridging 1
+2 h
+1 the 1
+2 sh
+1 freedom 1
+2 with
+1 of 1
+2 li
+1 or 1
+2 dutie
+1 of 1
+2 cong
+1 the 1
+2 by
+1 or 1
+2 th
+1 the 1
+2 ha
+1 right 1
+2 questio
+1 of 1
+2 be
+1 the 1
+2 appropriat
+1 people 1
+2 befo
+1 peaceably 1
+2 or
+1 to 1
+2 a
+1 and 1
+2 hap
+1 to 1
+2 b
+1 petition 1
+2 be
+1 the 1
+2 be
+1 government 1
+2 th
+1 for 1
+2 independenc
+1 a 1
+2 he
+1 redress 1
+2 to
+1 of 1
+2 of
+1 amendment 1
+2 state
+1 a 1
+2 dim
+1 well 1
+2 the
+1 regulated 1
+2 te
+1 being 1
+2 tho
+1 necessary 1
+2 fro
+1 to 1
+2 he
+1 the 1
+2 orda
+1 security 1
+2 requ
+1 of 1
+2 a
+1 a 1
+2 s
+1 free 1
+2 any
+1 the 1
+2 repu
+1 right 1
+2 o
+1 of 1
+2 of
+1 the 1
+2 s
+1 people 1
+2 in
+1 to 1
+2 th
+1 keep 1
+2 tr
+1 and 1
+2 di
+1 bear 1
+2 each
+1 shall 1
+2 to
+1 not 1
+2 r
+1 be 1
+2 on
+1 amendment 1
+2 provide
+1 no 1
+2 de
+1 soldier 1
+2 held
+1 in 1
+2 the
+1 time 1
+2 each
+1 of 1
+2 ca
+1 peace 1
+2 requi
+1 be 1
+2 appl
+1 quartered 1
+2 f
+1 in 1
+2 b
+1 any 1
+2 and
+1 without 1
+2 sec
+1 the 1
+2 unless
+1 consent 1
+2 member
+1 of 1
+2 th
+1 the 1
+2 a
+1 nor 1
+2 partic
+1 in 1
+2 be
+1 time 1
+2 mak
+1 of 1
+2 an
+1 but 1
+2 t
+1 in 1
+2 he
+1 a 1
+2 the
+1 manner 1
+2 the
+1 to 1
+2 rep
+1 be 1
+2 o
+1 prescribed 1
+2 as
+1 by 1
+2 he
+1 amendment 1
+2 sha
+1 the 1
+2 ele
+1 right 1
+2 lay
+1 of 1
+2 t
+1 the 1
+2 ent
+1 people 1
+2 st
+1 to 1
+2 be
+1 be 1
+2 person
+1 secure 1
+2 sectio
+1 in 1
+2 o
+1 their 1
+2 by
+1 and 1
+2 i
+1 against 1
+2 offic
+1 unreasonable 1
+2 hereunto
+1 searches 1
+2 h
+1 and 1
+2 t
+1 shall 1
+2 ha
+1 not 1
+2 st
+1 be 1
+2 f
+1 and 1
+2 whic
+1 no 1
+2 hol
+1 warrants 1
+2 i
+1 shall 1
+2 th
+1 but 1
+2 delawar
+1 upon 1
+2 o
+1 probable 1
+2 a
+1 supported 1
+2 an
+1 by 1
+2 al
+1 oath 1
+2 t
+1 or 1
+2 and
+1 and 1
+2 record
+1 particularly 1
+2 and
+1 describing 1
+2 th
+1 the 1
+2 h
+1 place 1
+2 o
+1 to 1
+2 house
+1 be 1
+2 whic
+1 and 1
+2 sout
+1 the 1
+2 fro
+1 persons 1
+2 for
+1 or 1
+2 smalle
+1 things 1
+2 exer
+1 to 1
+2 gene
+1 be 1
+2 o
+1 amendment 1
+2 th
+1 no 1
+2 a
+1 person 1
+2 s
+1 shall 1
+2 th
+1 be 1
+2 securin
+1 held 1
+2 who
+1 to 1
+2 th
+1 answer 1
+2 of
+1 for 1
+2 whe
+1 a 1
+2 of
+1 or 1
+2 t
+1 otherwise 1
+2 repasse
+1 infamous 1
+2 th
+1 unless 1
+2 s
+1 on 1
+2 th
+1 a 1
+2 united
+1 presentment 1
+2 take
+1 or 1
+2 cas
+1 indictment 1
+2 or
+1 of 1
+2 o
+1 a 1
+2 in
+1 grand 1
+2 pres
+1 except 1
+2 and
+1 in 1
+2 ag
+1 cases 1
+2 n
+1 arising 1
+2 u
+1 in 1
+2 for
+1 the 1
+2 compos
+1 land 1
+2 un
+1 or 1
+2 years
+1 naval 1
+2 respe
+1 or 1
+2 suc
+1 in 1
+2 whi
+1 the 1
+2 ho
+1 when 1
+2 bu
+1 in 1
+2 inhab
+1 actual 1
+2 of
+1 service 1
+2 b
+1 in 1
+2 inabi
+1 time 1
+2 th
+1 of 1
+2 ma
+1 war 1
+2 a
+1 or 1
+2 or
+1 public 1
+2 sha
+1 nor 1
+2 to
+1 shall 1
+2 w
+1 any 1
+2 th
+1 person 1
+2 it
+1 be 1
+2 scien
+1 subject 1
+2 i
+1 for 1
+2 th
+1 the 1
+2 th
+1 same 1
+2 s
+1 offense 1
+2 and
+1 to 1
+2 of
+1 be 1
+2 equa
+1 twice 1
+2 th
+1 put 1
+2 p
+1 in 1
+2 shal
+1 jeopardy 1
+2 in
+1 of 1
+2 tw
+1 life 1
+2 t
+1 or 1
+2 writ
+1 nor 1
+2 s
+1 shall 1
+2 reven
+1 be 1
+2 shal
+1 compelled 1
+2 mone
+1 in 1
+2 a
+1 any 1
+2 b
+1 criminal 1
+2 shal
+1 case 1
+2 c
+1 to 1
+2 s
+1 be 1
+2 as
+1 a 1
+2 tempo
+1 witness 1
+2 forfeitu
+1 against 1
+2 sta
+1 nor 1
+2 of
+1 be 1
+2 differ
+1 deprived 1
+2 of
+1 of 1
+2 be
+1 or 1
+2 or
+1 without 1
+2 o
+1 due 1
+2 t
+1 process 1
+2 th
+1 of 1
+2 als
+1 nor 1
+2 support
+1 shall 1
+2 wa
+1 private 1
+2 subjec
+1 property 1
+2 vot
+1 be 1
+2 or
+1 taken 1
+2 in
+1 for 1
+2 part
+1 public 1
+2 t
+1 without 1
+2 inhabitan
+1 just 1
+2 new
+1 amendment 1
+2 mo
+1 in 1
+2 be
+1 all 1
+2 th
+1 criminal 1
+2 a
+1 the 1
+2 b
+1 accused 1
+2 direc
+1 shall 1
+2 party
+1 enjoy 1
+2 be
+1 the 1
+2 pers
+1 right 1
+2 s
+1 to 1
+2 fr
+1 a 1
+2 of
+1 speedy 1
+2 unle
+1 and 1
+2 law
+1 public 1
+2 consti
+1 by 1
+2 o
+1 an 1
+2 south
+1 impartial 1
+2 fore
+1 jury 1
+2 disc
+1 of 1
+2 bu
+1 the 1
+2 t
+1 state 1
+2 a
+1 and 1
+2 r
+1 district 1
+2 ha
+1 wherein 1
+2 o
+1 the 1
+2 t
+1 crime 1
+2 pe
+1 shall 1
+2 t
+1 have 1
+2 hampshi
+1 been 1
+2 rem
+1 which 1
+2 un
+1 district 1
+2 n
+1 shall 1
+2 in
+1 have 1
+2 an
+1 been 1
+2 secure
+1 previously 1
+2 president
+1 ascertained 1
+2 t
+1 by 1
+2 i
+1 and 1
+2 w
+1 to 1
+2 o
+1 be 1
+2 o
+1 informed 1
+2 un
+1 of 1
+2 shall
+1 the 1
+2 artic
+1 nature 1
+2 the
+1 and 1
+2 b
+1 cause 1
+2 s
+1 of 1
+2 th
+1 the 1
+2 whe
+1 to 1
+2 oth
+1 be 1
+2 appoint
+1 confronted 1
+2 shall
+1 with 1
+2 an
+1 the 1
+2 sh
+1 witnesses 1
+2 s
+1 against 1
+2 expel
+1 to 1
+2 i
+1 have 1
+2 t
+1 compulsory 1
+2 ev
+1 process 1
+2 hu
+1 for 1
+2 stat
+1 obtaining 1
+2 s
+1 witnesses 1
+2 s
+1 in 1
+2 o
+1 his 1
+2 c
+1 and 1
+2 th
+1 to 1
+2 be
+1 have 1
+2 this
+1 the 1
+2 t
+1 assistance 1
+2 b
+1 of 1
+2 o
+1 counsel 1
+2 law
+1 for 1
+2 b
+1 his 1
+2 f
+1 amendment 1
+2 a
+1 in 1
+2 imm
+1 suits 1
+2 shal
+1 at 1
+2 s
+1 common 1
+2 sha
+1 where 1
+2 b
+1 the 1
+2 f
+1 value 1
+2 obligation
+1 in 1
+2 an
+1 controversy 1
+2 to
+1 shall 1
+2 the
+1 exceed 1
+2 t
+1 twenty 1
+2 or
+1 the 1
+2 convi
+1 right 1
+2 o
+1 of 1
+2 the
+1 trial 1
+2 dayt
+1 by 1
+2 establis
+1 jury 1
+2 sh
+1 shall 1
+2 shal
+1 be 1
+2 aga
+1 and 1
+2 con
+1 no 1
+2 be
+1 fact 1
+2 a
+1 tried 1
+2 emolument
+1 by 1
+2 t
+1 a 1
+2 every
+1 shall 1
+2 judge
+1 be 1
+2 the
+1 otherwise 1
+2 eigh
+1 in 1
+2 adoptio
+1 any 1
+2 secti
+1 court 1
+2 th
+1 of 1
+2 th
+1 the 1
+2 th
+1 united 1
+2 wh
+1 than 1
+2 of
+1 according 1
+2 be
+1 to 1
+2 shall
+1 the 1
+2 an
+1 rules 1
+2 crim
+1 of 1
+2 s
+1 the 1
+2 recess
+1 common 1
+2 the
+1 amendment 1
+2 propo
+1 excessive 1
+2 and
+1 bail 1
+2 the
+1 shall 1
+2 felonie
+1 not 1
+2 mar
+1 be 1
+2 th
+1 nor 1
+2 i
+1 excessive 1
+2 a
+1 fines 1
+2 f
+1 nor 1
+2 b
+1 cruel 1
+2 in
+1 and 1
+2 the
+1 unusual 1
+2 a
+1 punishments 1
+2 al
+1 amendment 1
+2 conseq
+1 the 1
+2 wit
+1 enumeration 1
+2 com
+1 in 1
+2 l
+1 the 1
+2 secr
+1 of 1
+2 pre
+1 certain 1
+2 severa
+1 shall 1
+2 senat
+1 not 1
+2 t
+1 be 1
+2 tha
+1 construed 1
+2 th
+1 to 1
+2 tw
+1 deny 1
+2 cred
+1 or 1
+2 ti
+1 disparage 1
+2 forth
+1 others 1
+2 u
+1 retained 1
+2 con
+1 by 1
+2 th
+1 the 1
+2 co
+1 amendment 1
+2 of
+1 the 1
+2 o
+1 powers 1
+2 const
+1 not 1
+2 mi
+1 delegated 1
+2 h
+1 to 1
+2 for
+1 the 1
+2 nev
+1 united 1
+2 t
+1 states 1
+2 wh
+1 by 1
+2 o
+1 the 1
+2 cr
+1 nor 1
+2 o
+1 prohibited 1
+2 otherw
+1 by 1
+2 wi
+1 it 1
+2 t
+1 to 1
+2 sea
+1 the 1
+2 t
+1 are 1
+2 f
+1 reserved 1
+2 of
+1 to 1
+2 i
+1 the 1
+2 numbe
+1 states 1
+2 ve
+1 or 1
+2 th
+1 to 1
+2 ha
+1 the 1
+2 a
+1 amendment 1
+2 a
+1 the 1
+2 all
+1 judicial 1
+2 an
+1 power 1
+2 shal
+1 of 1
+2 the
+1 the 1
+2 severa
+1 united 1
+2 the
+1 states 1
+2 ratifi
+1 shall 1
+2 sh
+1 not 1
+2 o
+1 be 1
+2 a
+1 construed 1
+2 the
+1 to 1
+2 uni
+1 extend 1
+2 t
+1 to 1
+2 to
+1 any 1
+2 of
+1 suit 1
+2 be
+1 in 1
+2 sh
+1 law 1
+2 in
+1 or 1
+2 wil
+1 commenced 1
+2 n
+1 or 1
+2 li
+1 prosecuted 1
+2 articl
+1 against 1
+2 th
+1 one 1
+2 su
+1 of 1
+2 and
+1 the 1
+2 place
+1 united 1
+2 th
+1 states 1
+2 l
+1 by 1
+2 an
+1 citizens 1
+2 sh
+1 of 1
+2 shall
+1 another 1
+2 on
+1 or 1
+2 shall
+1 by 1
+2 i
+1 citizens 1
+2 o
+1 or 1
+2 to
+1 subjects 1
+2 exce
+1 of 1
+2 c
+1 any 1
+2 b
+1 foreign 1
+2 of
+1 amendment 1
+2 c
+1 the 1
+2 the
+1 electors 1
+2 le
+1 shall 1
+2 retu
+1 meet 1
+2 may
+1 in 1
+2 u
+1 their 1
+2 conse
+1 respective 1
+2 holdin
+1 and 1
+2 be
+1 vote 1
+2 o
+1 by 1
+2 i
+1 ballot 1
+2 if
+1 for 1
+2 h
+1 president 1
+2 v
+1 and 1
+2 s
+1 one 1
+2 s
+1 of 1
+2 th
+1 at 1
+2 in
+1 shall 1
+2 an
+1 not 1
+2 d
+1 be 1
+2 fo
+1 an 1
+2 execu
+1 inhabitant 1
+2 jurisd
+1 of 1
+2 ei
+1 the 1
+2 the
+1 same 1
+2 i
+1 state 1
+2 a
+1 with 1
+2 th
+1 they 1
+2 for
+1 shall 1
+2 wi
+1 name 1
+2 s
+1 in 1
+2 each
+1 their 1
+2 l
+1 ballots 1
+2 publ
+1 the 1
+2 t
+1 person 1
+2 of
+1 voted 1
+2 aga
+1 for 1
+2 the
+1 as 1
+2 have
+1 and 1
+2 procee
+1 in 1
+2 s
+1 distinct 1
+2 but
+1 ballots 1
+2 or
+1 the 1
+2 to
+1 person 1
+2 commissi
+1 voted 1
+2 by
+1 for 1
+2 by
+1 as 1
+2 no
+1 and 1
+2 o
+1 they 1
+2 n
+1 shall 1
+2 to
+1 make 1
+2 h
+1 distinct 1
+2 said
+1 lists 1
+2 o
+1 of 1
+2 th
+1 all 1
+2 no
+1 persons 1
+2 holdin
+1 voted 1
+2 sh
+1 for 1
+2 equally
+1 as 1
+2 la
+1 and 1
+2 o
+1 of 1
+2 in
+1 all 1
+2 an
+1 persons 1
+2 the
+1 voted 1
+2 the
+1 for 1
+2 indi
+1 as 1
+2 qualificati
+1 and 1
+2 to
+1 of 1
+2 a
+1 the 1
+2 app
+1 number 1
+2 authorit
+1 of 1
+2 t
+1 votes 1
+2 o
+1 for 1
+2 a
+1 which 1
+2 fro
+1 lists 1
+2 hous
+1 they 1
+2 of
+1 shall 1
+2 crim
+1 sign 1
+2 by
+1 and 1
+2 consis
+1 and 1
+2 held
+1 transmit 1
+2 pu
+1 sealed 1
+2 pla
+1 to 1
+2 wil
+1 the 1
+2 eq
+1 seat 1
+2 i
+1 of 1
+2 o
+1 the 1
+2 b
+1 government 1
+2 se
+1 of 1
+2 wi
+1 the 1
+2 s
+1 united 1
+2 the
+1 directed 1
+2 t
+1 to 1
+2 t
+1 the 1
+2 f
+1 president 1
+2 places
+1 of 1
+2 nat
+1 the 1
+2 eng
+1 the 1
+2 sh
+1 president 1
+2 m
+1 of 1
+2 o
+1 the 1
+2 o
+1 senate 1
+2 sh
+1 in 1
+2 h
+1 the 1
+2 t
+1 presence 1
+2 or
+1 of 1
+2 sh
+1 the 1
+2 th
+1 senate 1
+2 cot
+1 and 1
+2 nine
+1 house 1
+2 the
+1 of 1
+2 o
+1 open 1
+2 i
+1 all 1
+2 ni
+1 the 1
+2 no
+1 certificates 1
+2 a
+1 and 1
+2 protect
+1 the 1
+2 the
+1 votes 1
+2 bedf
+1 shall 1
+2 and
+1 then 1
+2 th
+1 be 1
+2 e
+1 the 1
+2 neit
+1 person 1
+2 sh
+1 having 1
+2 t
+1 the 1
+2 inferior
+1 greatest 1
+2 into
+1 number 1
+2 such
+1 of 1
+2 i
+1 votes 1
+2 ea
+1 for 1
+2 the
+1 shall 1
+2 prohi
+1 be 1
+2 ot
+1 the 1
+2 p
+1 if 1
+2 shall
+1 such 1
+2 th
+1 number 1
+2 que
+1 be 1
+2 sole
+1 a 1
+2 rem
+1 majority 1
+2 pres
+1 of 1
+2 n
+1 the 1
+2 service
+1 whole 1
+2 o
+1 number 1
+2 a
+1 of 1
+2 of
+1 electors 1
+2 f
+1 and 1
+2 congre
+1 if 1
+2 crim
+1 no 1
+2 of
+1 person 1
+2 s
+1 have 1
+2 b
+1 such 1
+2 th
+1 then 1
+2 jud
+1 from 1
+2 t
+1 the 1
+2 the
+1 persons 1
+2 sh
+1 having 1
+2 du
+1 the 1
+2 w
+1 highest 1
+2 wh
+1 numbers 1
+2 pu
+1 not 1
+2 pen
+1 exceeding 1
+2 al
+1 three 1
+2 th
+1 on 1
+2 su
+1 the 1
+2 nor
+1 list 1
+2 s
+1 of 1
+2 o
+1 those 1
+2 not
+1 voted 1
+2 thei
+1 for 1
+2 right
+1 as 1
+2 a
+1 the 1
+2 sha
+1 house 1
+2 an
+1 of 1
+2 inh
+1 representatives 1
+2 b
+1 shall 1
+2 com
+1 choose 1
+2 a
+1 by 1
+2 ho
+1 the 1
+2 life
+1 but 1
+2 regulatio
+1 in 1
+2 distric
+1 choosing 1
+2 an
+1 the 1
+2 su
+1 the 1
+2 general
+1 votes 1
+2 wh
+1 shall 1
+2 a
+1 be 1
+2 titl
+1 taken 1
+2 pr
+1 by 1
+2 o
+1 the 1
+2 sh
+1 representation 1
+2 cit
+1 from 1
+2 grant
+1 each 1
+2 gov
+1 state 1
+2 su
+1 having 1
+2 noth
+1 one 1
+2 punishment
+1 a 1
+2 ques
+1 quorum 1
+2 sa
+1 for 1
+2 th
+1 this 1
+2 befo
+1 purpose 1
+2 on
+1 shall 1
+2 to
+1 consist 1
+2 to
+1 of 1
+2 nex
+1 a 1
+2 c
+1 member 1
+2 a
+1 or 1
+2 lea
+1 members 1
+2 t
+1 from 1
+2 any
+1 of 1
+2 o
+1 the 1
+2 h
+1 and 1
+2 t
+1 a 1
+2 a
+1 majority 1
+2 a
+1 of 1
+2 bo
+1 all 1
+2 the
+1 the 1
+2 w
+1 states 1
+2 re
+1 shall 1
+2 in
+1 be 1
+2 regu
+1 necessary 1
+2 shal
+1 to 1
+2 o
+1 a 1
+2 fel
+1 and 1
+2 fo
+1 if 1
+2 o
+1 the 1
+2 net
+1 house 1
+2 o
+1 of 1
+2 wr
+1 representatives 1
+2 no
+1 shall 1
+2 shall
+1 not 1
+2 unles
+1 choose 1
+2 sea
+1 a 1
+2 num
+1 president 1
+2 o
+1 whenever 1
+2 the
+1 the 1
+2 no
+1 right 1
+2 richard
+1 of 1
+2 sa
+1 choice 1
+2 require
+1 shall 1
+2 t
+1 devolve 1
+2 a
+1 upon 1
+2 au
+1 before 1
+2 o
+1 the 1
+2 kin
+1 fourth 1
+2 t
+1 day 1
+2 uni
+1 of 1
+2 securi
+1 march 1
+2 pers
+1 next 1
+2 to
+1 then 1
+2 di
+1 the 1
+2 the
+1 shall 1
+2 rec
+1 act 1
+2 vacanc
+1 as 1
+2 bes
+1 as 1
+2 o
+1 in 1
+2 grant
+1 the 1
+2 they
+1 case 1
+2 pe
+1 of 1
+2 sha
+1 the 1
+2 unl
+1 death 1
+2 from
+1 or 1
+2 the
+1 other 1
+2 wi
+1 constitutional 1
+2 of
+1 disability 1
+2 of
+1 of 1
+2 whi
+1 the 1
+2 ac
+1 the 1
+2 memb
+1 person 1
+2 hou
+1 having 1
+2 lette
+1 the 1
+2 an
+1 greatest 1
+2 of
+1 number 1
+2 adhering
+1 of 1
+2 a
+1 votes 1
+2 t
+1 as 1
+2 full
+1 shall 1
+2 h
+1 be 1
+2 of
+1 the 1
+2 good
+1 if 1
+2 t
+1 such 1
+2 b
+1 number 1
+2 proh
+1 be 1
+2 in
+1 a 1
+2 of
+1 majority 1
+2 t
+1 of 1
+2 fi
+1 the 1
+2 and
+1 whole 1
+2 i
+1 number 1
+2 tw
+1 of 1
+2 o
+1 electors 1
+2 b
+1 and 1
+2 thoma
+1 if 1
+2 b
+1 no 1
+2 sev
+1 person 1
+2 exe
+1 have 1
+2 i
+1 a 1
+2 a
+1 then 1
+2 bu
+1 from 1
+2 o
+1 the 1
+2 but
+1 two 1
+2 all
+1 highest 1
+2 authorit
+1 numbers 1
+2 particularl
+1 on 1
+2 upon
+1 the 1
+2 e
+1 the 1
+2 b
+1 senate 1
+2 vote
+1 shall 1
+2 s
+1 choose 1
+2 sec
+1 the 1
+2 h
+1 a 1
+2 may
+1 quorum 1
+2 an
+1 for 1
+2 of
+1 the 1
+2 prin
+1 purpose 1
+2 a
+1 shall 1
+2 consent
+1 consist 1
+2 fur
+1 of 1
+2 th
+1 of 1
+2 receiv
+1 the 1
+2 the
+1 whole 1
+2 b
+1 number 1
+2 think
+1 of 1
+2 be
+1 and 1
+2 and
+1 a 1
+2 t
+1 majority 1
+2 sha
+1 of 1
+2 per
+1 the 1
+2 o
+1 whole 1
+2 the
+1 number 1
+2 cr
+1 shall 1
+2 rig
+1 be 1
+2 second
+1 necessary 1
+2 s
+1 to 1
+2 th
+1 a 1
+2 t
+1 but 1
+2 t
+1 no 1
+2 other
+1 person 1
+2 t
+1 constitutionally 1
+2 other
+1 ineligible 1
+2 uni
+1 to 1
+2 no
+1 the 1
+2 ar
+1 office 1
+2 such
+1 of 1
+2 of
+1 president 1
+2 per
+1 shall 1
+2 stat
+1 be 1
+2 unless
+1 eligible 1
+2 bee
+1 to 1
+2 impa
+1 that 1
+2 am
+1 of 1
+2 b
+1 of 1
+2 ann
+1 the 1
+2 th
+1 united 1
+2 at
+1 amendment 1
+2 sha
+1 neither 1
+2 necessa
+1 slavery 1
+2 the
+1 nor 1
+2 six
+1 involuntary 1
+2 v
+1 except 1
+2 crim
+1 as 1
+2 shal
+1 a 1
+2 sh
+1 punishment 1
+2 ta
+1 for 1
+2 le
+1 crime 1
+2 d
+1 whereof 1
+2 wh
+1 the 1
+2 o
+1 party 1
+2 w
+1 shall 1
+2 o
+1 have 1
+2 the
+1 been 1
+2 s
+1 duly 1
+2 no
+1 shall 1
+2 of
+1 exist 1
+2 case
+1 within 1
+2 st
+1 the 1
+2 forei
+1 united 1
+2 be
+1 or 1
+2 a
+1 any 1
+2 c
+1 place 1
+2 jus
+1 subject 1
+2 p
+1 to 1
+2 b
+1 their 1
+2 but
+1 congress 1
+2 t
+1 shall 1
+2 a
+1 have 1
+2 the
+1 power 1
+2 manner
+1 to 1
+2 thr
+1 enforce 1
+2 but
+1 this 1
+2 a
+1 article 1
+2 o
+1 by 1
+2 t
+1 appropriate 1
+2 foreign
+1 amendment 1
+2 the
+1 all 1
+2 t
+1 persons 1
+2 and
+1 born 1
+2 whereof
+1 or 1
+2 por
+1 naturalized 1
+2 reser
+1 in 1
+2 o
+1 the 1
+2 h
+1 united 1
+2 m
+1 and 1
+2 o
+1 subject 1
+2 ever
+1 to 1
+2 of
+1 the 1
+2 nu
+1 jurisdiction 1
+2 shal
+1 are 1
+2 withi
+1 citizens 1
+2 th
+1 of 1
+2 a
+1 the 1
+2 regulat
+1 united 1
+2 t
+1 states 1
+2 th
+1 and 1
+2 f
+1 of 1
+2 b
+1 the 1
+2 f
+1 state 1
+2 shal
+1 wherein 1
+2 th
+1 they 1
+2 the
+1 no 1
+2 exe
+1 state 1
+2 sh
+1 shall 1
+2 an
+1 make 1
+2 sh
+1 or 1
+2 its
+1 enforce 1
+2 decl
+1 any 1
+2 or
+1 law 1
+2 al
+1 which 1
+2 w
+1 shall 1
+2 withou
+1 abridge 1
+2 any
+1 the 1
+2 wit
+1 privileges 1
+2 on
+1 or 1
+2 wh
+1 immunities 1
+2 cit
+1 of 1
+2 sha
+1 citizens 1
+2 offi
+1 of 1
+2 b
+1 the 1
+2 th
+1 united 1
+2 p
+1 nor 1
+2 i
+1 shall 1
+2 sha
+1 any 1
+2 pennsylva
+1 state 1
+2 ma
+1 deprive 1
+2 an
+1 any 1
+2 othe
+1 person 1
+2 the
+1 of 1
+2 of
+1 or 1
+2 i
+1 without 1
+2 o
+1 due 1
+2 person
+1 process 1
+2 to
+1 of 1
+2 a
+1 nor 1
+2 the
+1 deny 1
+2 w
+1 to 1
+2 bu
+1 any 1
+2 not
+1 person 1
+2 b
+1 within 1
+2 of
+1 its 1
+2 dire
+1 jurisdiction 1
+2 o
+1 the 1
+2 sh
+1 equal 1
+2 o
+1 protection 1
+2 alter
+1 of 1
+2 in
+1 the 1
+2 judici
+1 representatives 1
+2 t
+1 shall 1
+2 or
+1 be 1
+2 to
+1 apportioned 1
+2 is
+1 among 1
+2 b
+1 the 1
+2 use
+1 several 1
+2 be
+1 states 1
+2 shal
+1 according 1
+2 e
+1 to 1
+2 o
+1 their 1
+2 t
+1 respective 1
+2 a
+1 counting 1
+2 a
+1 the 1
+2 t
+1 whole 1
+2 from
+1 number 1
+2 territory
+1 of 1
+2 quarter
+1 persons 1
+2 be
+1 in 1
+2 cr
+1 each 1
+2 the
+1 excluding 1
+2 shal
+1 indians 1
+2 whom
+1 not 1
+2 t
+1 but 1
+2 unit
+1 when 1
+2 one
+1 the 1
+2 preside
+1 right 1
+2 t
+1 to 1
+2 s
+1 vote 1
+2 alte
+1 at 1
+2 at
+1 any 1
+2 la
+1 election 1
+2 b
+1 for 1
+2 two
+1 the 1
+2 electors
+1 choice 1
+2 the
+1 of 1
+2 w
+1 electors 1
+2 t
+1 for 1
+2 st
+1 president 1
+2 fo
+1 and 1
+2 p
+1 of 1
+2 shal
+1 the 1
+2 o
+1 united 1
+2 servi
+1 representatives 1
+2 an
+1 in 1
+2 t
+1 the 1
+2 nu
+1 executive 1
+2 a
+1 and 1
+2 member
+1 judicial 1
+2 sha
+1 officers 1
+2 t
+1 of 1
+2 hea
+1 a 1
+2 congress
+1 or 1
+2 suc
+1 the 1
+2 thirds
+1 members 1
+2 t
+1 of 1
+2 th
+1 the 1
+2 power
+1 legislature 1
+2 the
+1 is 1
+2 common
+1 denied 1
+2 giving
+1 to 1
+2 of
+1 any 1
+2 atten
+1 of 1
+2 un
+1 the 1
+2 th
+1 male 1
+2 sh
+1 inhabitants 1
+2 r
+1 of 1
+2 al
+1 such 1
+2 l
+1 being 1
+2 a
+1 years 1
+2 of
+1 of 1
+2 s
+1 and 1
+2 man
+1 citizens 1
+2 i
+1 of 1
+2 f
+1 the 1
+2 or
+1 united 1
+2 suppor
+1 or 1
+2 n
+1 in 1
+2 a
+1 any 1
+2 asce
+1 way 1
+2 th
+1 except 1
+2 suit
+1 for 1
+2 eigh
+1 participation 1
+2 militi
+1 in 1
+2 sh
+1 or 1
+2 necessa
+1 other 1
+2 vir
+1 the 1
+2 the
+1 basis 1
+2 the
+1 of 1
+2 hous
+1 representation 1
+2 thi
+1 therein 1
+2 b
+1 shall 1
+2 ope
+1 be 1
+2 t
+1 reduced 1
+2 shall
+1 in 1
+2 o
+1 the 1
+2 th
+1 proportion 1
+2 fr
+1 which 1
+2 t
+1 the 1
+2 ca
+1 number 1
+2 ot
+1 of 1
+2 p
+1 such 1
+2 rati
+1 male 1
+2 the
+1 citizens 1
+2 o
+1 shall 1
+2 thoma
+1 bear 1
+2 o
+1 to 1
+2 fifth
+1 the 1
+2 pos
+1 whole 1
+2 president
+1 number 1
+2 m
+1 of 1
+2 h
+1 male 1
+2 again
+1 citizens 1
+2 t
+1 years 1
+2 t
+1 of 1
+2 eig
+1 age 1
+2 s
+1 in 1
+2 involunt
+1 such 1
+2 o
+1 no 1
+2 a
+1 person 1
+2 gunnin
+1 shall 1
+2 bill
+1 be 1
+2 par
+1 a 1
+2 r
+1 senator 1
+2 o
+1 or 1
+2 th
+1 representative 1
+2 privileg
+1 in 1
+2 t
+1 or 1
+2 holding
+1 elector 1
+2 enumer
+1 of 1
+2 jeopa
+1 president 1
+2 wil
+1 and 1
+2 re
+1 or 1
+2 for
+1 hold 1
+2 state
+1 any 1
+2 geor
+1 civil 1
+2 the
+1 or 1
+2 to
+1 under 1
+2 or
+1 the 1
+2 s
+1 united 1
+2 o
+1 or 1
+2 o
+1 under 1
+2 th
+1 any 1
+2 o
+1 having 1
+2 pre
+1 previously 1
+2 an
+1 taken 1
+2 lay
+1 an 1
+2 yea
+1 as 1
+2 througho
+1 a 1
+2 i
+1 member 1
+2 jud
+1 of 1
+2 the
+1 or 1
+2 prohib
+1 as 1
+2 l
+1 an 1
+2 they
+1 officer 1
+2 and
+1 of 1
+2 th
+1 the 1
+2 on
+1 united 1
+2 the
+1 or 1
+2 and
+1 as 1
+2 i
+1 a 1
+2 of
+1 member 1
+2 a
+1 of 1
+2 plac
+1 any 1
+2 h
+1 state 1
+2 duri
+1 or 1
+2 reco
+1 as 1
+2 o
+1 an 1
+2 lis
+1 executive 1
+2 public
+1 or 1
+2 over
+1 judicial 1
+2 o
+1 officer 1
+2 t
+1 of 1
+2 any
+1 any 1
+2 s
+1 to 1
+2 electi
+1 support 1
+2 b
+1 the 1
+2 i
+1 constitution 1
+2 p
+1 of 1
+2 th
+1 the 1
+2 tha
+1 united 1
+2 b
+1 shall 1
+2 yea
+1 have 1
+2 a
+1 engaged 1
+2 o
+1 in 1
+2 th
+1 insurrection 1
+2 ratifie
+1 or 1
+2 b
+1 rebellion 1
+2 courts
+1 against 1
+2 and
+1 the 1
+2 n
+1 or 1
+2 sh
+1 given 1
+2 w
+1 aid 1
+2 r
+1 or 1
+2 s
+1 comfort 1
+2 wa
+1 to 1
+2 or
+1 the 1
+2 requi
+1 enemies 1
+2 of
+1 but 1
+2 t
+1 congress 1
+2 o
+1 may 1
+2 a
+1 by 1
+2 states
+1 a 1
+2 we
+1 vote 1
+2 an
+1 of 1
+2 an
+1 of 1
+2 t
+1 each 1
+2 t
+1 remove 1
+2 its
+1 such 1
+2 o
+1 the 1
+2 da
+1 validity 1
+2 o
+1 of 1
+2 al
+1 the 1
+2 protect
+1 public 1
+2 b
+1 debt 1
+2 ne
+1 of 1
+2 uni
+1 the 1
+2 liabl
+1 united 1
+2 th
+1 authorized 1
+2 al
+1 by 1
+2 w
+1 including 1
+2 j
+1 debts 1
+2 suf
+1 incurred 1
+2 firs
+1 for 1
+2 virginia
+1 payment 1
+2 have
+1 of 1
+2 o
+1 pensions 1
+2 t
+1 and 1
+2 wit
+1 bounties 1
+2 sh
+1 for 1
+2 be
+1 services 1
+2 subs
+1 in 1
+2 same
+1 suppressing 1
+2 inc
+1 insurrection 1
+2 of
+1 or 1
+2 b
+1 shall 1
+2 execut
+1 not 1
+2 o
+1 be 1
+2 i
+1 but 1
+2 b
+1 neither 1
+2 i
+1 the 1
+2 qualificatio
+1 united 1
+2 do
+1 states 1
+2 b
+1 nor 1
+2 assemb
+1 any 1
+2 ra
+1 state 1
+2 t
+1 shall 1
+2 in
+1 assume 1
+2 th
+1 or 1
+2 fo
+1 pay 1
+2 sha
+1 any 1
+2 th
+1 debt 1
+2 th
+1 or 1
+2 exe
+1 obligation 1
+2 th
+1 incurred 1
+2 quorum
+1 in 1
+2 applicatio
+1 aid 1
+2 befor
+1 of 1
+2 o
+1 insurrection 1
+2 o
+1 or 1
+2 otherwise
+1 rebellion 1
+2 o
+1 against 1
+2 of
+1 the 1
+2 an
+1 united 1
+2 and
+1 or 1
+2 sh
+1 any 1
+2 nort
+1 claim 1
+2 state
+1 for 1
+2 a
+1 the 1
+2 sh
+1 loss 1
+2 t
+1 or 1
+2 hou
+1 emancipation 1
+2 convic
+1 of 1
+2 b
+1 any 1
+2 of
+1 but 1
+2 t
+1 all 1
+2 o
+1 such 1
+2 o
+1 obligations 1
+2 p
+1 and 1
+2 district
+1 claims 1
+2 i
+1 shall 1
+2 a
+1 be 1
+2 th
+1 held 1
+2 mem
+1 illegal 1
+2 t
+1 and 1
+2 respect
+1 the 1
+2 a
+1 congress 1
+2 th
+1 shall 1
+2 s
+1 have 1
+2 th
+1 power 1
+2 s
+1 to 1
+2 pos
+1 by 1
+2 eli
+1 appropriate 1
+2 o
+1 the 1
+2 their
+1 provisions 1
+2 lord
+1 of 1
+2 convi
+1 this 1
+2 foregoing
+1 amendment 1
+2 have
+1 the 1
+2 tw
+1 right 1
+2 o
+1 of 1
+2 j
+1 citizens 1
+2 t
+1 of 1
+2 i
+1 the 1
+2 debts
+1 united 1
+2 t
+1 states 1
+2 ea
+1 to 1
+2 keep
+1 vote 1
+2 a
+1 shall 1
+2 th
+1 not 1
+2 promot
+1 be 1
+2 sta
+1 denied 1
+2 of
+1 or 1
+2 o
+1 abridged 1
+2 and
+1 by 1
+2 fo
+1 the 1
+2 sh
+1 united 1
+2 on
+1 states 1
+2 t
+1 or 1
+2 net
+1 by 1
+2 repeale
+1 any 1
+2 who
+1 state 1
+2 t
+1 on 1
+2 o
+1 account 1
+2 be
+1 of 1
+2 coteswort
+1 or 1
+2 t
+1 previous 1
+2 quart
+1 condition 1
+2 of
+1 of 1
+2 sen
+1 the 1
+2 or
+1 congress 1
+2 oblige
+1 shall 1
+2 inhabita
+1 have 1
+2 the
+1 power 1
+2 ot
+1 to 1
+2 appell
+1 enforce 1
+2 adopt
+1 this 1
+2 e
+1 article 1
+2 hous
+1 by 1
+2 t
+1 appropriate 1
+2 and
+1 amendment 1
+2 an
+1 the 1
+2 in
+1 congress 1
+2 and
+1 shall 1
+2 adj
+1 have 1
+2 for
+1 power 1
+2 in
+1 to 1
+2 t
+1 lay 1
+2 let
+1 and 1
+2 section
+1 collect 1
+2 dischar
+1 taxes 1
+2 th
+1 on 1
+2 obl
+1 from 1
+2 charge
+1 whatever 1
+2 pers
+1 source 1
+2 th
+1 without 1
+2 not
+1 apportionment 1
+2 ha
+1 among 1
+2 rec
+1 the 1
+2 sta
+1 several 1
+2 fol
+1 and 1
+2 h
+1 without 1
+2 rig
+1 regard 1
+2 and
+1 to 1
+2 t
+1 any 1
+2 p
+1 census 1
+2 ame
+1 or 1
+2 or
+1 amendment 1
+2 the
+1 the 1
+2 then
+1 senate 1
+2 a
+1 of 1
+2 yea
+1 the 1
+2 in
+1 united 1
+2 t
+1 states 1
+2 b
+1 shall 1
+2 re
+1 be 1
+2 war
+1 composed 1
+2 charles
+1 of 1
+2 any
+1 two 1
+2 shall
+1 senators 1
+2 and
+1 from 1
+2 and
+1 each 1
+2 t
+1 elected 1
+2 wh
+1 by 1
+2 h
+1 the 1
+2 the
+1 people 1
+2 tho
+1 for 1
+2 ki
+1 six 1
+2 o
+1 and 1
+2 offic
+1 each 1
+2 of
+1 senator 1
+2 unti
+1 shall 1
+2 controversy
+1 have 1
+2 no
+1 one 1
+2 b
+1 the 1
+2 either
+1 electors 1
+2 g
+1 in 1
+2 s
+1 each 1
+2 f
+1 state 1
+2 t
+1 shall 1
+2 of
+1 have 1
+2 in
+1 the 1
+2 acc
+1 qualifications 1
+2 shal
+1 requisite 1
+2 sect
+1 for 1
+2 u
+1 electors 1
+2 to
+1 of 1
+2 exce
+1 the 1
+2 s
+1 most 1
+2 answ
+1 numerous 1
+2 b
+1 branch 1
+2 ballo
+1 of 1
+2 gr
+1 the 1
+2 from
+1 state 1
+2 u
+1 when 1
+2 pow
+1 vacancies 1
+2 o
+1 happen 1
+2 w
+1 in 1
+2 o
+1 the 1
+2 shall
+1 representation 1
+2 o
+1 of 1
+2 p
+1 any 1
+2 enumeratio
+1 state 1
+2 sha
+1 in 1
+2 by
+1 the 1
+2 t
+1 the 1
+2 inva
+1 executive 1
+2 a
+1 authority 1
+2 whi
+1 of 1
+2 time
+1 such 1
+2 a
+1 state 1
+2 impor
+1 shall 1
+2 states
+1 issue 1
+2 i
+1 writs 1
+2 b
+1 of 1
+2 valu
+1 election 1
+2 sh
+1 to 1
+2 ex
+1 fill 1
+2 amen
+1 such 1
+2 hav
+1 that 1
+2 n
+1 the 1
+2 a
+1 legislature 1
+2 u
+1 of 1
+2 ex
+1 any 1
+2 throu
+1 state 1
+2 stat
+1 may 1
+2 by
+1 empower 1
+2 shal
+1 the 1
+2 c
+1 executive 1
+2 the
+1 thereof 1
+2 o
+1 to 1
+2 sta
+1 make 1
+2 ne
+1 temporary 1
+2 ex
+1 appointments 1
+2 t
+1 until 1
+2 i
+1 the 1
+2 a
+1 people 1
+2 the
+1 fill 1
+2 of
+1 the 1
+2 th
+1 vacancies 1
+2 the
+1 by 1
+2 sm
+1 election 1
+2 th
+1 as 1
+2 sh
+1 the 1
+2 cases
+1 legislature 1
+2 shal
+1 may 1
+2 legislature
+1 this 1
+2 con
+1 amendment 1
+2 eve
+1 shall 1
+2 hav
+1 not 1
+2 sha
+1 be 1
+2 i
+1 so 1
+2 s
+1 construed 1
+2 seat
+1 as 1
+2 w
+1 to 1
+2 in
+1 affect 1
+2 of
+1 the 1
+2 i
+1 election 1
+2 the
+1 or 1
+2 an
+1 term 1
+2 sta
+1 of 1
+2 but
+1 any 1
+2 such
+1 senator 1
+2 any
+1 chosen 1
+2 resignati
+1 before 1
+2 o
+1 it 1
+2 be
+1 becomes 1
+2 legisla
+1 valid 1
+2 been
+1 as 1
+2 to
+1 part 1
+2 in
+1 of 1
+2 writings
+1 the 1
+2 o
+1 amendment 1
+2 dayton
+1 after 1
+2 be
+1 one 1
+2 f
+1 year 1
+2 mann
+1 from 1
+2 th
+1 the 1
+2 n
+1 ratification 1
+2 n
+1 of 1
+2 o
+1 this 1
+2 uni
+1 article 1
+2 s
+1 the 1
+2 a
+1 or 1
+2 of
+1 transportation 1
+2 s
+1 of 1
+2 compensatio
+1 intoxicating 1
+2 prohibit
+1 liquors 1
+2 whereo
+1 the 1
+2 i
+1 importation 1
+2 al
+1 thereof 1
+2 electors
+1 or 1
+2 th
+1 the 1
+2 of
+1 exportation 1
+2 f
+1 thereof 1
+2 la
+1 from 1
+2 at
+1 the 1
+2 u
+1 united 1
+2 as
+1 states 1
+2 ma
+1 and 1
+2 o
+1 all 1
+2 each
+1 territory 1
+2 f
+1 subject 1
+2 of
+1 to 1
+2 o
+1 the 1
+2 u
+1 jurisdiction 1
+2 f
+1 thereof 1
+2 such
+1 for 1
+2 t
+1 beverage 1
+2 in
+1 purposes 1
+2 vote
+1 is 1
+2 and
+1 hereby 1
+2 and
+1 the 1
+2 be
+1 congress 1
+2 artic
+1 and 1
+2 fa
+1 the 1
+2 affecti
+1 several 1
+2 su
+1 states 1
+2 th
+1 shall 1
+2 author
+1 have 1
+2 perso
+1 concurrent 1
+2 exer
+1 power 1
+2 b
+1 to 1
+2 t
+1 enforce 1
+2 to
+1 this 1
+2 t
+1 article 1
+2 i
+1 by 1
+2 s
+1 appropriate 1
+2 h
+1 this 1
+2 hampshir
+1 article 1
+2 o
+1 shall 1
+2 un
+1 be 1
+2 of
+1 inoperative 1
+2 stat
+1 unless 1
+2 t
+1 it 1
+2 per
+1 shall 1
+2 well
+1 have 1
+2 of
+1 been 1
+2 or
+1 ratified 1
+2 of
+1 as 1
+2 a
+1 an 1
+2 choi
+1 amendment 1
+2 fo
+1 to 1
+2 s
+1 the 1
+2 t
+1 constitution 1
+2 vot
+1 by 1
+2 to
+1 the 1
+2 in
+1 legislatures 1
+2 sectio
+1 of 1
+2 eve
+1 the 1
+2 fil
+1 several 1
+2 q
+1 as 1
+2 use
+1 provided 1
+2 i
+1 in 1
+2 t
+1 the 1
+2 the
+1 within 1
+2 o
+1 seven 1
+2 unti
+1 years 1
+2 the
+1 from 1
+2 ch
+1 the 1
+2 b
+1 date 1
+2 on
+1 of 1
+2 wh
+1 the 1
+2 mad
+1 submission 1
+2 la
+1 hereof 1
+2 o
+1 to 1
+2 t
+1 the 1
+2 b
+1 states 1
+2 ope
+1 by 1
+2 qu
+1 the 1
+2 o
+1 amendment 1
+2 fill
+1 the 1
+2 sta
+1 right 1
+2 p
+1 of 1
+2 i
+1 citizens 1
+2 no
+1 of 1
+2 tra
+1 the 1
+2 one
+1 united 1
+2 th
+1 states 1
+2 in
+1 to 1
+2 court
+1 vote 1
+2 be
+1 shall 1
+2 a
+1 not 1
+2 bu
+1 be 1
+2 nobili
+1 denied 1
+2 two
+1 or 1
+2 who
+1 abridged 1
+2 an
+1 by 1
+2 th
+1 the 1
+2 o
+1 united 1
+2 t
+1 states 1
+2 h
+1 or 1
+2 uni
+1 by 1
+2 w
+1 any 1
+2 whi
+1 state 1
+2 to
+1 on 1
+2 b
+1 account 1
+2 th
+1 of 1
+2 t
+1 congress 1
+2 in
+1 shall 1
+2 co
+1 have 1
+2 unite
+1 power 1
+2 fro
+1 to 1
+2 depri
+1 enforce 1
+2 t
+1 this 1
+2 publi
+1 article 1
+2 equ
+1 by 1
+2 the
+1 appropriate 1
+2 t
+1 amendment 1
+2 a
+1 the 1
+2 be
+1 terms 1
+2 bi
+1 of 1
+2 co
+1 the 1
+2 in
+1 president 1
+2 th
+1 and 1
+2 o
+1 vice 1
+2 sen
+1 president 1
+2 of
+1 shall 1
+2 charg
+1 end 1
+2 s
+1 at 1
+2 the
+1 noon 1
+2 o
+1 on 1
+2 o
+1 the 1
+2 which
+1 day 1
+2 be
+1 of 1
+2 e
+1 and 1
+2 from
+1 the 1
+2 executive
+1 terms 1
+2 for
+1 of 1
+2 s
+1 senators 1
+2 o
+1 and 1
+2 tr
+1 representatives 1
+2 ti
+1 at 1
+2 d
+1 noon 1
+2 i
+1 on 1
+2 they
+1 the 1
+2 a
+1 day 1
+2 n
+1 of 1
+2 no
+1 of 1
+2 claimin
+1 the 1
+2 be
+1 years 1
+2 of
+1 in 1
+2 composed
+1 which 1
+2 the
+1 such 1
+2 the
+1 terms 1
+2 no
+1 would 1
+2 choos
+1 have 1
+2 powe
+1 ended 1
+2 of
+1 if 1
+2 the
+1 this 1
+2 un
+1 article 1
+2 giv
+1 had 1
+2 th
+1 not 1
+2 a
+1 been 1
+2 th
+1 and 1
+2 authoriz
+1 the 1
+2 num
+1 terms 1
+2 sha
+1 of 1
+2 b
+1 their 1
+2 t
+1 successors 1
+2 pr
+1 shall 1
+2 the
+1 then 1
+2 section
+1 the 1
+2 for
+1 congress 1
+2 t
+1 shall 1
+2 of
+1 assemble 1
+2 o
+1 at 1
+2 th
+1 least 1
+2 person
+1 once 1
+2 to
+1 in 1
+2 c
+1 every 1
+2 eithe
+1 and 1
+2 t
+1 such 1
+2 or
+1 meeting 1
+2 o
+1 shall 1
+2 in
+1 begin 1
+2 pres
+1 at 1
+2 governme
+1 noon 1
+2 un
+1 on 1
+2 be
+1 the 1
+2 t
+1 day 1
+2 to
+1 of 1
+2 pro
+1 unless 1
+2 any
+1 they 1
+2 not
+1 shall 1
+2 receive
+1 by 1
+2 b
+1 law 1
+2 l
+1 appoint 1
+2 the
+1 a 1
+2 o
+1 different 1
+2 caro
+1 at 1
+2 the
+1 the 1
+2 confession
+1 time 1
+2 t
+1 fixed 1
+2 d
+1 for 1
+2 dis
+1 the 1
+2 a
+1 beginning 1
+2 five
+1 of 1
+2 foun
+1 the 1
+2 an
+1 term 1
+2 stat
+1 of 1
+2 t
+1 the 1
+2 presid
+1 the 1
+2 for
+1 president 1
+2 sh
+1 elect 1
+2 o
+1 shall 1
+2 united
+1 have 1
+2 george
+1 the 1
+2 c
+1 vice 1
+2 t
+1 president 1
+2 on
+1 elect 1
+2 united
+1 shall 1
+2 e
+1 become 1
+2 fro
+1 if 1
+2 obtai
+1 a 1
+2 published
+1 president 1
+2 righ
+1 shall 1
+2 proporti
+1 not 1
+2 amendment
+1 have 1
+2 s
+1 been 1
+2 i
+1 chosen 1
+2 person
+1 before 1
+2 t
+1 the 1
+2 th
+1 time 1
+2 t
+1 fixed 1
+2 the
+1 for 1
+2 su
+1 the 1
+2 the
+1 beginning 1
+2 states
+1 of 1
+2 of
+1 his 1
+2 all
+1 or 1
+2 enforc
+1 if 1
+2 the
+1 the 1
+2 s
+1 president 1
+2 tw
+1 elect 1
+2 to
+1 shall 1
+2 amendme
+1 have 1
+2 con
+1 failed 1
+2 articl
+1 to 1
+2 th
+1 then 1
+2 th
+1 the 1
+2 to
+1 vice 1
+2 elec
+1 president 1
+2 art
+1 elect 1
+2 a
+1 shall 1
+2 be
+1 act 1
+2 c
+1 as 1
+2 t
+1 president 1
+2 shal
+1 until 1
+2 du
+1 a 1
+2 or
+1 president 1
+2 proce
+1 shall 1
+2 a
+1 have 1
+2 st
+1 and 1
+2 no
+1 the 1
+2 in
+1 congress 1
+2 a
+1 may 1
+2 s
+1 by 1
+2 have
+1 law 1
+2 insurrections
+1 provide 1
+2 shall
+1 for 1
+2 unre
+1 the 1
+2 in
+1 case 1
+2 t
+1 wherein 1
+2 bo
+1 neither 1
+2 the
+1 a 1
+2 i
+1 president 1
+2 s
+1 elect 1
+2 and
+1 nor 1
+2 a
+1 a 1
+2 i
+1 vice 1
+2 a
+1 president 1
+2 legislat
+1 elect 1
+2 se
+1 shall 1
+2 with
+1 have 1
+2 noon
+1 declaring 1
+2 sh
+1 who 1
+2 th
+1 shall 1
+2 rec
+1 then 1
+2 ret
+1 act 1
+2 t
+1 as 1
+2 sh
+1 or 1
+2 advi
+1 the 1
+2 in
+1 manner 1
+2 m
+1 in 1
+2 t
+1 which 1
+2 as
+1 one 1
+2 pre
+1 who 1
+2 of
+1 is 1
+2 kin
+1 to 1
+2 uni
+1 act 1
+2 of
+1 shall 1
+2 an
+1 be 1
+2 t
+1 and 1
+2 the
+1 such 1
+2 t
+1 person 1
+2 th
+1 shall 1
+2 a
+1 act 1
+2 gene
+1 accordingly 1
+2 t
+1 until 1
+2 a
+1 a 1
+2 bu
+1 president 1
+2 ar
+1 or 1
+2 powe
+1 vice 1
+2 o
+1 president 1
+2 st
+1 shall 1
+2 judg
+1 have 1
+2 his
+1 the 1
+2 the
+1 congress 1
+2 o
+1 may 1
+2 of
+1 by 1
+2 ballot
+1 law 1
+2 well
+1 provide 1
+2 disorde
+1 for 1
+2 secti
+1 the 1
+2 and
+1 case 1
+2 un
+1 of 1
+2 amendm
+1 the 1
+2 and
+1 death 1
+2 sha
+1 of 1
+2 have
+1 any 1
+2 t
+1 of 1
+2 numb
+1 the 1
+2 o
+1 persons 1
+2 repeal
+1 from 1
+2 and
+1 whom 1
+2 p
+1 the 1
+2 to
+1 house 1
+2 o
+1 of 1
+2 an
+1 representatives 1
+2 s
+1 may 1
+2 uni
+1 choose 1
+2 of
+1 a 1
+2 u
+1 president 1
+2 mann
+1 whenever 1
+2 shall
+1 the 1
+2 ea
+1 right 1
+2 state
+1 of 1
+2 re
+1 choice 1
+2 t
+1 shall 1
+2 a
+1 have 1
+2 be
+1 devolved 1
+2 unt
+1 upon 1
+2 b
+1 and 1
+2 consent
+1 for 1
+2 power
+1 the 1
+2 writin
+1 case 1
+2 the
+1 of 1
+2 between
+1 the 1
+2 w
+1 death 1
+2 hamilton
+1 of 1
+2 t
+1 any 1
+2 c
+1 of 1
+2 t
+1 the 1
+2 and
+1 persons 1
+2 sam
+1 from 1
+2 be
+1 whom 1
+2 p
+1 the 1
+2 and
+1 senate 1
+2 u
+1 may 1
+2 election
+1 choose 1
+2 shall
+1 a 1
+2 eac
+1 vice 1
+2 t
+1 president 1
+2 t
+1 whenever 1
+2 to
+1 the 1
+2 be
+1 right 1
+2 vo
+1 of 1
+2 membe
+1 choice 1
+2 cas
+1 shall 1
+2 o
+1 have 1
+2 h
+1 devolved 1
+2 and
+1 upon 1
+2 t
+1 sections 1
+2 ha
+1 and 1
+2 shall
+1 shall 1
+2 sh
+1 take 1
+2 time
+1 effect 1
+2 i
+1 on 1
+2 hav
+1 the 1
+2 a
+1 day 1
+2 and
+1 of 1
+2 t
+1 october 1
+2 of
+1 following 1
+2 fo
+1 the 1
+2 ca
+1 ratification 1
+2 hav
+1 of 1
+2 righ
+1 this 1
+2 senate
+1 this 1
+2 th
+1 article 1
+2 of
+1 shall 1
+2 o
+1 be 1
+2 of
+1 inoperative 1
+2 o
+1 unless 1
+2 t
+1 it 1
+2 s
+1 shall 1
+2 shall
+1 have 1
+2 all
+1 been 1
+2 th
+1 ratified 1
+2 t
+1 as 1
+2 congr
+1 an 1
+2 su
+1 amendment 1
+2 an
+1 to 1
+2 th
+1 the 1
+2 t
+1 constitution 1
+2 sta
+1 by 1
+2 s
+1 the 1
+2 sen
+1 legislatures 1
+2 ves
+1 of 1
+2 bankru
+1 of 1
+2 which
+1 the 1
+2 u
+1 several 1
+2 t
+1 states 1
+2 othe
+1 within 1
+2 a
+1 seven 1
+2 o
+1 years 1
+2 t
+1 from 1
+2 th
+1 the 1
+2 respective
+1 date 1
+2 greate
+1 of 1
+2 t
+1 its 1
+2 p
+1 amendment 1
+2 nec
+1 the 1
+2 powe
+1 eighteenth 1
+2 at
+1 article 1
+2 o
+1 of 1
+2 be
+1 amendment 1
+2 un
+1 to 1
+2 immediately
+1 the 1
+2 t
+1 constitution 1
+2 qual
+1 of 1
+2 the
+1 the 1
+2 and
+1 united 1
+2 or
+1 states 1
+2 ne
+1 is 1
+2 those
+1 hereby 1
+2 o
+1 the 1
+2 a
+1 transportation 1
+2 a
+1 or 1
+2 o
+1 importation 1
+2 s
+1 into 1
+2 reservin
+1 any 1
+2 o
+1 or 1
+2 o
+1 possession 1
+2 of
+1 of 1
+2 e
+1 the 1
+2 b
+1 united 1
+2 s
+1 states 1
+2 s
+1 for 1
+2 t
+1 delivery 1
+2 perso
+1 or 1
+2 cas
+1 use 1
+2 that
+1 therein 1
+2 prev
+1 of 1
+2 f
+1 intoxicating 1
+2 durin
+1 in 1
+2 represent
+1 violation 1
+2 the
+1 of 1
+2 appropriation
+1 the 1
+2 e
+1 laws 1
+2 a
+1 is 1
+2 sta
+1 hereby 1
+2 of
+1 the 1
+2 b
+1 article 1
+2 an
+1 shall 1
+2 wh
+1 be 1
+2 o
+1 inoperative 1
+2 be
+1 unless 1
+2 presiden
+1 it 1
+2 b
+1 shall 1
+2 absolutel
+1 have 1
+2 u
+1 been 1
+2 recor
+1 ratified 1
+2 su
+1 as 1
+2 pres
+1 an 1
+2 th
+1 amendment 1
+2 shal
+1 to 1
+2 be
+1 the 1
+2 th
+1 constitution 1
+2 pow
+1 by 1
+2 t
+1 conventions 1
+2 s
+1 in 1
+2 on
+1 the 1
+2 th
+1 several 1
+2 thei
+1 as 1
+2 on
+1 provided 1
+2 per
+1 in 1
+2 shal
+1 the 1
+2 p
+1 within 1
+2 judici
+1 seven 1
+2 o
+1 years 1
+2 abridge
+1 from 1
+2 pl
+1 the 1
+2 offic
+1 date 1
+2 in
+1 of 1
+2 t
+1 the 1
+2 an
+1 submission 1
+2 t
+1 hereof 1
+2 th
+1 to 1
+2 wh
+1 the 1
+2 redr
+1 states 1
+2 t
+1 by 1
+2 t
+1 the 1
+2 h
+1 amendment 1
+2 o
+1 no 1
+2 shall
+1 person 1
+2 of
+1 shall 1
+2 of
+1 be 1
+2 be
+1 elected 1
+2 respecti
+1 to 1
+2 a
+1 the 1
+2 nobil
+1 office 1
+2 as
+1 of 1
+2 sha
+1 the 1
+2 n
+1 president 1
+2 and
+1 more 1
+2 th
+1 than 1
+2 slavery
+1 and 1
+2 sever
+1 no 1
+2 th
+1 person 1
+2 par
+1 who 1
+2 vest
+1 has 1
+2 en
+1 held 1
+2 gil
+1 the 1
+2 l
+1 office 1
+2 t
+1 of 1
+2 i
+1 or 1
+2 of
+1 acted 1
+2 all
+1 as 1
+2 ar
+1 for 1
+2 a
+1 more 1
+2 rec
+1 than 1
+2 the
+1 two 1
+2 curre
+1 years 1
+2 t
+1 of 1
+2 or
+1 a 1
+2 sh
+1 term 1
+2 of
+1 to 1
+2 from
+1 which 1
+2 th
+1 some 1
+2 be
+1 other 1
+2 by
+1 person 1
+2 mone
+1 was 1
+2 an
+1 elected 1
+2 pennsylvan
+1 president 1
+2 the
+1 shall 1
+2 which
+1 be 1
+2 wh
+1 elected 1
+2 and
+1 to 1
+2 a
+1 the 1
+2 t
+1 office 1
+2 ac
+1 of 1
+2 a
+1 the 1
+2 u
+1 president 1
+2 plan
+1 more 1
+2 to
+1 than 1
+2 agains
+1 but 1
+2 th
+1 this 1
+2 de
+1 article 1
+2 enfo
+1 shall 1
+2 gr
+1 not 1
+2 in
+1 apply 1
+2 s
+1 to 1
+2 of
+1 any 1
+2 congre
+1 person 1
+2 and
+1 holding 1
+2 tha
+1 the 1
+2 t
+1 office 1
+2 i
+1 of 1
+2 the
+1 when 1
+2 be
+1 this 1
+2 object
+1 article 1
+2 cons
+1 was 1
+2 t
+1 proposed 1
+2 ope
+1 by 1
+2 the
+1 the 1
+2 st
+1 and 1
+2 havi
+1 shall 1
+2 t
+1 not 1
+2 the
+1 prevent 1
+2 other
+1 any 1
+2 o
+1 person 1
+2 and
+1 who 1
+2 o
+1 may 1
+2 i
+1 be 1
+2 b
+1 holding 1
+2 a
+1 the 1
+2 establi
+1 office 1
+2 s
+1 of 1
+2 w
+1 or 1
+2 of
+1 acting 1
+2 f
+1 as 1
+2 o
+1 during 1
+2 re
+1 the 1
+2 o
+1 term 1
+2 po
+1 within 1
+2 sha
+1 which 1
+2 no
+1 this 1
+2 one
+1 article 1
+2 bee
+1 becomes 1
+2 g
+1 operative 1
+2 remova
+1 from 1
+2 di
+1 holding 1
+2 cha
+1 the 1
+2 th
+1 office 1
+2 the
+1 of 1
+2 becom
+1 president 1
+2 no
+1 or 1
+2 vi
+1 acting 1
+2 a
+1 as 1
+2 five
+1 president 1
+2 hold
+1 during 1
+2 by
+1 the 1
+2 reve
+1 remainder 1
+2 have
+1 of 1
+2 e
+1 such 1
+2 th
+1 this 1
+2 o
+1 article 1
+2 rat
+1 shall 1
+2 an
+1 be 1
+2 co
+1 inoperative 1
+2 th
+1 unless 1
+2 he
+1 it 1
+2 h
+1 shall 1
+2 of
+1 have 1
+2 of
+1 been 1
+2 list
+1 ratified 1
+2 compact
+1 as 1
+2 be
+1 an 1
+2 mem
+1 amendment 1
+2 of
+1 to 1
+2 be
+1 the 1
+2 t
+1 constitution 1
+2 c
+1 by 1
+2 sev
+1 the 1
+2 houses
+1 legislatures 1
+2 ri
+1 of 1
+2 of
+1 of 1
+2 maj
+1 the 1
+2 o
+1 several 1
+2 invent
+1 states 1
+2 o
+1 within 1
+2 th
+1 seven 1
+2 n
+1 years 1
+2 a
+1 from 1
+2 t
+1 the 1
+2 t
+1 date 1
+2 plantatio
+1 of 1
+2 for
+1 its 1
+2 he
+1 submission 1
+2 wit
+1 to 1
+2 th
+1 the 1
+2 of
+1 states 1
+2 sh
+1 by 1
+2 o
+1 the 1
+2 u
+1 amendment 1
+2 sha
+1 the 1
+2 appoint
+1 district 1
+2 t
+1 constituting 1
+2 t
+1 the 1
+2 to
+1 seat 1
+2 be
+1 of 1
+2 wh
+1 government 1
+2 hi
+1 of 1
+2 an
+1 the 1
+2 o
+1 united 1
+2 and
+1 states 1
+2 the
+1 shall 1
+2 comm
+1 appoint 1
+2 elec
+1 in 1
+2 senat
+1 such 1
+2 po
+1 manner 1
+2 any
+1 as 1
+2 a
+1 the 1
+2 the
+1 congress 1
+2 the
+1 may 1
+2 o
+1 a 1
+2 bran
+1 number 1
+2 of
+1 of 1
+2 natura
+1 electors 1
+2 and
+1 of 1
+2 choos
+1 president 1
+2 t
+1 and 1
+2 th
+1 vice 1
+2 t
+1 president 1
+2 by
+1 equal 1
+2 be
+1 to 1
+2 on
+1 the 1
+2 a
+1 whole 1
+2 fi
+1 number 1
+2 sh
+1 of 1
+2 on
+1 senators 1
+2 the
+1 and 1
+2 o
+1 representatives 1
+2 unite
+1 in 1
+2 ea
+1 congress 1
+2 of
+1 to 1
+2 the
+1 which 1
+2 if
+1 the 1
+2 sectio
+1 district 1
+2 throug
+1 would 1
+2 in
+1 be 1
+2 repriev
+1 entitled 1
+2 t
+1 if 1
+2 off
+1 it 1
+2 a
+1 were 1
+2 d
+1 a 1
+2 of
+1 but 1
+2 of
+1 in 1
+2 representati
+1 no 1
+2 trea
+1 event 1
+2 the
+1 more 1
+2 a
+1 than 1
+2 to
+1 the 1
+2 an
+1 least 1
+2 year
+1 populous 1
+2 court
+1 they 1
+2 the
+1 shall 1
+2 and
+1 be 1
+2 of
+1 in 1
+2 s
+1 addition 1
+2 t
+1 to 1
+2 suppo
+1 those 1
+2 f
+1 appointed 1
+2 domest
+1 by 1
+2 la
+1 the 1
+2 sh
+1 but 1
+2 sev
+1 they 1
+2 be
+1 shall 1
+2 an
+1 be 1
+2 this
+1 for 1
+2 u
+1 the 1
+2 majorit
+1 purposes 1
+2 and
+1 of 1
+2 ex
+1 the 1
+2 b
+1 election 1
+2 o
+1 of 1
+2 but
+1 president 1
+2 congre
+1 and 1
+2 a
+1 vice 1
+2 be
+1 to 1
+2 pr
+1 be 1
+2 carol
+1 electors 1
+2 h
+1 appointed 1
+2 t
+1 by 1
+2 o
+1 a 1
+2 on
+1 and 1
+2 basi
+1 they 1
+2 shall
+1 shall 1
+2 shal
+1 meet 1
+2 char
+1 in 1
+2 of
+1 the 1
+2 sh
+1 district 1
+2 of
+1 and 1
+2 house
+1 perform 1
+2 the
+1 such 1
+2 o
+1 duties 1
+2 emolu
+1 as 1
+2 offic
+1 provided 1
+2 st
+1 by 1
+2 o
+1 the 1
+2 sha
+1 twelfth 1
+2 the
+1 article 1
+2 thir
+1 of 1
+2 to
+1 the 1
+2 of
+1 congress 1
+2 upo
+1 shall 1
+2 t
+1 have 1
+2 and
+1 power 1
+2 of
+1 to 1
+2 u
+1 enforce 1
+2 in
+1 this 1
+2 as
+1 article 1
+2 wh
+1 by 1
+2 vote
+1 appropriate 1
+2 s
+1 amendment 1
+2 during
+1 the 1
+2 i
+1 right 1
+2 proper
+1 of 1
+2 a
+1 citizens 1
+2 expiratio
+1 of 1
+2 as
+1 the 1
+2 o
+1 united 1
+2 credit
+1 states 1
+2 nor
+1 to 1
+2 choose
+1 vote 1
+2 a
+1 in 1
+2 a
+1 any 1
+2 president
+1 primary 1
+2 o
+1 or 1
+2 an
+1 other 1
+2 i
+1 election 1
+2 pr
+1 for 1
+2 un
+1 president 1
+2 between
+1 or 1
+2 t
+1 vice 1
+2 to
+1 for 1
+2 anothe
+1 electors 1
+2 per
+1 for 1
+2 o
+1 president 1
+2 repre
+1 or 1
+2 equa
+1 vice 1
+2 of
+1 or 1
+2 th
+1 for 1
+2 ne
+1 senator 1
+2 a
+1 or 1
+2 seve
+1 representative 1
+2 t
+1 in 1
+2 n
+1 shall 1
+2 direc
+1 not 1
+2 execu
+1 be 1
+2 hav
+1 denied 1
+2 shall
+1 or 1
+2 pr
+1 abridged 1
+2 thei
+1 by 1
+2 no
+1 the 1
+2 n
+1 united 1
+2 may
+1 states 1
+2 th
+1 or 1
+2 servi
+1 any 1
+2 excep
+1 state 1
+2 t
+1 by 1
+2 n
+1 reason 1
+2 sha
+1 of 1
+2 sha
+1 failure 1
+2 st
+1 to 1
+2 the
+1 pay 1
+2 hap
+1 any 1
+2 by
+1 poll 1
+2 t
+1 tax 1
+2 th
+1 or 1
+2 house
+1 other 1
+2 shal
+1 the 1
+2 t
+1 congress 1
+2 n
+1 shall 1
+2 i
+1 have 1
+2 s
+1 power 1
+2 t
+1 to 1
+2 sectio
+1 enforce 1
+2 never
+1 this 1
+2 cit
+1 article 1
+2 to
+1 by 1
+2 hou
+1 appropriate 1
+2 shal
+1 amendment 1
+2 a
+1 in 1
+2 y
+1 case 1
+2 togethe
+1 of 1
+2 great
+1 the 1
+2 op
+1 removal 1
+2 th
+1 of 1
+2 other
+1 the 1
+2 second
+1 president 1
+2 in
+1 from 1
+2 on
+1 office 1
+2 approved
+1 or 1
+2 sui
+1 of 1
+2 t
+1 his 1
+2 o
+1 death 1
+2 w
+1 or 1
+2 t
+1 the 1
+2 powe
+1 vice 1
+2 thi
+1 president 1
+2 i
+1 shall 1
+2 pro
+1 become 1
+2 case
+1 whenever 1
+2 po
+1 there 1
+2 answe
+1 is 1
+2 t
+1 a 1
+2 the
+1 vacancy 1
+2 the
+1 in 1
+2 a
+1 the 1
+2 pers
+1 office 1
+2 of
+1 of 1
+2 no
+1 the 1
+2 t
+1 vice 1
+2 an
+1 the 1
+2 wh
+1 president 1
+2 appor
+1 shall 1
+2 devolv
+1 nominate 1
+2 deputy
+1 a 1
+2 a
+1 vice 1
+2 rig
+1 president 1
+2 th
+1 who 1
+2 ea
+1 shall 1
+2 inferior
+1 take 1
+2 b
+1 office 1
+2 co
+1 upon 1
+2 b
+1 confirmation 1
+2 divide
+1 by 1
+2 o
+1 a 1
+2 of
+1 majority 1
+2 presid
+1 vote 1
+2 con
+1 of 1
+2 people
+1 both 1
+2 an
+1 houses 1
+2 a
+1 of 1
+2 o
+1 whenever 1
+2 in
+1 the 1
+2 of
+1 president 1
+2 the
+1 transmits 1
+2 the
+1 to 1
+2 a
+1 the 1
+2 unite
+1 president 1
+2 i
+1 pro 1
+2 to
+1 tempore 1
+2 oath
+1 of 1
+2 ho
+1 the 1
+2 o
+1 senate 1
+2 not
+1 and 1
+2 su
+1 the 1
+2 or
+1 speaker 1
+2 or
+1 of 1
+2 by
+1 the 1
+2 impeachm
+1 house 1
+2 m
+1 of 1
+2 t
+1 representatives 1
+2 the
+1 his 1
+2 amend
+1 written 1
+2 the
+1 declaration 1
+2 o
+1 that 1
+2 whi
+1 he 1
+2 sha
+1 is 1
+2 o
+1 unable 1
+2 o
+1 to 1
+2 o
+1 discharge 1
+2 to
+1 the 1
+2 th
+1 powers 1
+2 be
+1 and 1
+2 consti
+1 duties 1
+2 shal
+1 of 1
+2 the
+1 his 1
+2 th
+1 and 1
+2 a
+1 until 1
+2 what
+1 he 1
+2 t
+1 transmits 1
+2 sl
+1 to 1
+2 t
+1 them 1
+2 the
+1 a 1
+2 represent
+1 written 1
+2 india
+1 declaration 1
+2 conse
+1 to 1
+2 unite
+1 the 1
+2 tha
+1 such 1
+2 may
+1 powers 1
+2 t
+1 and 1
+2 li
+1 duties 1
+2 that
+1 shall 1
+2 emo
+1 be 1
+2 pro
+1 discharged 1
+2 by
+1 by 1
+2 any
+1 the 1
+2 an
+1 vice 1
+2 majorit
+1 president 1
+2 p
+1 as 1
+2 t
+1 acting 1
+2 t
+1 whenever 1
+2 senator
+1 the 1
+2 deter
+1 vice 1
+2 th
+1 president 1
+2 pub
+1 and 1
+2 the
+1 a 1
+2 the
+1 majority 1
+2 choose
+1 of 1
+2 united
+1 either 1
+2 r
+1 the 1
+2 eit
+1 principal 1
+2 w
+1 officers 1
+2 a
+1 of 1
+2 the
+1 the 1
+2 represent
+1 executive 1
+2 of
+1 departments 1
+2 serv
+1 or 1
+2 i
+1 of 1
+2 t
+1 such 1
+2 in
+1 other 1
+2 shal
+1 body 1
+2 be
+1 as 1
+2 place
+1 congress 1
+2 or
+1 may 1
+2 continu
+1 by 1
+2 propo
+1 law 1
+2 t
+1 transmit 1
+2 y
+1 to 1
+2 off
+1 the 1
+2 y
+1 president 1
+2 rules
+1 pro 1
+2 th
+1 tempore 1
+2 or
+1 of 1
+2 exe
+1 the 1
+2 a
+1 senate 1
+2 sha
+1 and 1
+2 p
+1 the 1
+2 t
+1 speaker 1
+2 si
+1 of 1
+2 th
+1 the 1
+2 be
+1 house 1
+2 and
+1 of 1
+2 o
+1 representatives 1
+2 c
+1 their 1
+2 i
+1 written 1
+2 o
+1 declaration 1
+2 uni
+1 that 1
+2 no
+1 the 1
+2 th
+1 president 1
+2 b
+1 is 1
+2 which
+1 unable 1
+2 on
+1 to 1
+2 t
+1 discharge 1
+2 t
+1 the 1
+2 the
+1 powers 1
+2 not
+1 and 1
+2 o
+1 duties 1
+2 i
+1 of 1
+2 abso
+1 his 1
+2 of
+1 the 1
+2 amend
+1 vice 1
+2 t
+1 president 1
+2 amen
+1 shall 1
+2 to
+1 immediately 1
+2 a
+1 assume 1
+2 have
+1 the 1
+2 expend
+1 powers 1
+2 desi
+1 and 1
+2 o
+1 duties 1
+2 w
+1 of 1
+2 fro
+1 the 1
+2 an
+1 office 1
+2 convention
+1 as 1
+2 a
+1 acting 1
+2 u
+1 when 1
+2 and
+1 the 1
+2 tw
+1 president 1
+2 and
+1 transmits 1
+2 ci
+1 to 1
+2 b
+1 the 1
+2 th
+1 president 1
+2 by
+1 pro 1
+2 ma
+1 tempore 1
+2 fo
+1 of 1
+2 b
+1 the 1
+2 n
+1 senate 1
+2 upon
+1 and 1
+2 a
+1 the 1
+2 direct
+1 speaker 1
+2 its
+1 of 1
+2 th
+1 the 1
+2 be
+1 house 1
+2 c
+1 of 1
+2 b
+1 representatives 1
+2 th
+1 his 1
+2 to
+1 written 1
+2 th
+1 declaration 1
+2 t
+1 that 1
+2 year
+1 no 1
+2 arti
+1 inability 1
+2 lab
+1 he 1
+2 o
+1 shall 1
+2 o
+1 resume 1
+2 righ
+1 the 1
+2 the
+1 powers 1
+2 l
+1 and 1
+2 to
+1 duties 1
+2 i
+1 of 1
+2 the
+1 his 1
+2 the
+1 office 1
+2 forei
+1 unless 1
+2 t
+1 the 1
+2 per
+1 vice 1
+2 shall
+1 president 1
+2 the
+1 and 1
+2 o
+1 a 1
+2 shall
+1 majority 1
+2 fo
+1 of 1
+2 by
+1 either 1
+2 h
+1 the 1
+2 valid
+1 principal 1
+2 of
+1 officers 1
+2 no
+1 of 1
+2 o
+1 the 1
+2 by
+1 executive 1
+2 of
+1 department 1
+2 el
+1 or 1
+2 o
+1 of 1
+2 othe
+1 such 1
+2 b
+1 other 1
+2 proc
+1 body 1
+2 the
+1 as 1
+2 b
+1 congress 1
+2 o
+1 may 1
+2 an
+1 by 1
+2 state
+1 law 1
+2 b
+1 transmit 1
+2 br
+1 within 1
+2 nathanie
+1 four 1
+2 u
+1 days 1
+2 o
+1 to 1
+2 and
+1 the 1
+2 th
+1 president 1
+2 b
+1 pro 1
+2 ope
+1 tempore 1
+2 a
+1 of 1
+2 pur
+1 the 1
+2 supp
+1 senate 1
+2 b
+1 and 1
+2 s
+1 the 1
+2 m
+1 speaker 1
+2 dischar
+1 of 1
+2 o
+1 the 1
+2 of
+1 house 1
+2 a
+1 of 1
+2 c
+1 representatives 1
+2 s
+1 their 1
+2 or
+1 written 1
+2 s
+1 declaration 1
+2 a
+1 that 1
+2 me
+1 the 1
+2 officers
+1 president 1
+2 choice
+1 is 1
+2 e
+1 unable 1
+2 highest
+1 to 1
+2 a
+1 discharge 1
+2 p
+1 the 1
+2 its
+1 powers 1
+2 party
+1 and 1
+2 b
+1 duties 1
+2 o
+1 of 1
+2 o
+1 his 1
+2 by
+1 thereupon 1
+2 ma
+1 congress 1
+2 whic
+1 shall 1
+2 a
+1 decide 1
+2 the
+1 the 1
+2 of
+1 assembling 1
+2 estab
+1 within 1
+2 am
+1 forty 1
+2 th
+1 eight 1
+2 enemies
+1 hours 1
+2 t
+1 for 1
+2 publi
+1 that 1
+2 t
+1 purpose 1
+2 the
+1 if 1
+2 have
+1 not 1
+2 pow
+1 in 1
+2 as
+1 if 1
+2 aga
+1 the 1
+2 of
+1 within 1
+2 as
+1 twenty 1
+2 t
+1 one 1
+2 of
+1 days 1
+2 sec
+1 after 1
+2 be
+1 receipt 1
+2 th
+1 of 1
+2 t
+1 the 1
+2 ve
+1 latter 1
+2 u
+1 written 1
+2 to
+1 if 1
+2 e
+1 congress 1
+2 shal
+1 is 1
+2 li
+1 not 1
+2 and
+1 in 1
+2 sev
+1 within 1
+2 t
+1 twenty 1
+2 s
+1 one 1
+2 sectio
+1 days 1
+2 t
+1 after 1
+2 age
+1 congress 1
+2 if
+1 is 1
+2 of
+1 required 1
+2 of
+1 to 1
+2 citizen
+1 determines 1
+2 person
+1 by 1
+2 s
+1 two 1
+2 fr
+1 thirds 1
+2 under
+1 vote 1
+2 b
+1 of 1
+2 thereof
+1 both 1
+2 t
+1 houses 1
+2 be
+1 that 1
+2 th
+1 the 1
+2 whenev
+1 president 1
+2 prescribed
+1 is 1
+2 c
+1 unable 1
+2 and
+1 to 1
+2 art
+1 discharge 1
+2 all
+1 the 1
+2 sen
+1 powers 1
+2 under
+1 and 1
+2 of
+1 duties 1
+2 have
+1 of 1
+2 sh
+1 his 1
+2 n
+1 the 1
+2 m
+1 vice 1
+2 neit
+1 president 1
+2 am
+1 shall 1
+2 a
+1 continue 1
+2 presiden
+1 to 1
+2 nin
+1 discharge 1
+2 his
+1 the 1
+2 th
+1 same 1
+2 o
+1 as 1
+2 shal
+1 acting 1
+2 eac
+1 the 1
+2 o
+1 president 1
+2 p
+1 shall 1
+2 th
+1 resume 1
+2 m
+1 the 1
+2 shall
+1 powers 1
+2 ma
+1 and 1
+2 o
+1 duties 1
+2 t
+1 of 1
+2 of
+1 his 1
+2 t
+1 amendment 1
+2 an
+1 the 1
+2 i
+1 right 1
+2 of
+1 of 1
+2 the
+1 citizens 1
+2 bu
+1 of 1
+2 punish
+1 the 1
+2 in
+1 united 1
+2 labo
+1 who 1
+2 i
+1 are 1
+2 memb
+1 eighteen 1
+2 t
+1 years 1
+2 usef
+1 of 1
+2 ent
+1 age 1
+2 sectio
+1 or 1
+2 s
+1 to 1
+2 right
+1 vote 1
+2 a
+1 shall 1
+2 sh
+1 not 1
+2 sta
+1 be 1
+2 which
+1 denied 1
+2 the
+1 or 1
+2 our
+1 abridged 1
+2 pe
+1 by 1
+2 against
+1 the 1
+2 of
+1 united 1
+2 may
+1 states 1
+2 di
+1 or 1
+2 an
+1 by 1
+2 of
+1 any 1
+2 territory
+1 state 1
+2 on
+1 on 1
+2 i
+1 account 1
+2 state
+1 of 1
+2 pow
+1 the 1
+2 a
+1 congress 1
+2 t
+1 shall 1
+2 s
+1 have 1
+2 rules
+1 power 1
+2 o
+1 to 1
+2 services
+1 enforce 1
+2 congr
+1 this 1
+2 s
+1 article 1
+2 b
+1 by 1
+2 th
+1 appropriate 1
+2 ema
+1 amendment 1
+2 pu
+1 no 1
+2 continuanc
+1 varying 1
+2 o
+1 the 1
+2 sha
+1 compensation 1
+2 foun
+1 for 1
+2 no
+1 the 1
+2 d
+1 services 1
+2 sh
+1 of 1
+2 qualifications
+1 the 1
+2 shall
+1 senators 1
+2 po
+1 and 1
+2 the
+1 shall 1
+2 conc
+1 take 1
+2 o
+1 until 1
+2 th
+1 an 1
+2 g
+1 election 1
+2 t
+1 of 1
+2 be
+1 representatives 1
+2 ta
+1 shall 1
+2 do
+1 have 1
+2 a

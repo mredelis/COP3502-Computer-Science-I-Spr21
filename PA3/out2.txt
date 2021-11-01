@@ -1,0 +1,111 @@
+-10000 0
+-9600 -2800
+-9600 2800
+-9360 -3520
+-9360 3520
+-8432 -5376
+-8432 5376
+-8000 -6000
+-8000 6000
+-6000 -8000
+-6000 8000
+-5376 -8432
+-5376 8432
+-3520 -9360
+-3520 9360
+-2800 -9600
+-2800 9600
+0 -10000
+0 10000
+2800 -9600
+2800 9600
+3520 -9360
+3520 9360
+5376 -8432
+5376 8432
+6000 -8000
+6000 8000
+8000 -6000
+8000 6000
+8432 -5376
+8432 5376
+9360 -3520
+9360 3520
+9600 -2800
+9600 2800
+10000 0
+-6000 -8000 found at rank 10
+-1384 -1761 not found
+10000 0 found at rank 36
+-8038 -3344 not found
+-9492 2814 not found
+-9648 -5351 not found
+2138 -2523 not found
+-9360 3520 found at rank 5
+-6530 7282 not found
+-5214 3838 not found
+814 -2242 not found
+2366 1219 not found
+-8000 6000 found at rank 9
+9600 2800 found at rank 35
+3520 -9360 found at rank 22
+2954 9480 not found
+2800 9600 found at rank 21
+-4271 8661 not found
+-1442 -9962 not found
+-9600 -2800 found at rank 2
+-5376 8432 found at rank 13
+3745 -6689 not found
+2800 -9600 found at rank 20
+-2800 -9600 found at rank 16
+404 9591 not found
+5376 8432 found at rank 25
+8432 -5376 found at rank 30
+-8922 6759 not found
+9274 4971 not found
+-3520 9360 found at rank 15
+-7404 5628 not found
+4672 -5056 not found
+6439 -5781 not found
+-8846 6766 not found
+3252 8345 not found
+8000 6000 found at rank 29
+4378 7046 not found
+-10000 0 found at rank 1
+-252 -4948 not found
+7274 2153 not found
+9600 -2800 found at rank 34
+-8796 -8131 not found
+-4334 5806 not found
+-812 2904 not found
+-5376 -8432 found at rank 12
+9129 8778 not found
+4006 4969 not found
+3580 9405 not found
+-3520 -9360 found at rank 14
+-5722 856 not found
+-4921 -9188 not found
+-977 -485 not found
+32 -8324 not found
+9360 3520 found at rank 33
+-2329 1069 not found
+6344 538 not found
+-8000 -6000 found at rank 8
+7609 7166 not found
+-9360 -3520 found at rank 4
+-934 -2849 not found
+-1433 8197 not found
+-2610 -8670 not found
+6776 -1412 not found
+9893 -1848 not found
+8000 -6000 found at rank 28
+2251 4752 not found
+9951 -3935 not found
+8432 5376 found at rank 31
+-5662 -65 not found
+-1968 -4843 not found
+-8432 5376 found at rank 7
+-245 -1811 not found
+9360 -3520 found at rank 32
+-6011 8908 not found
+1687 -1031 not found
